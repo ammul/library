@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Library</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <nav>
+      <a class="site-title" href="./index.html">The Library</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="story-list" id="story-list">
+      <h1>Stories</h1>
+      <p class="loading">Loading…</p>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <p>The Library</p>
+  </footer>
+
+  <script>
+    (async () => {
+      const container = document.getElementById('story-list');
+
+      try {
+        const res = await fetch('./stories.json');
+        if (!res.ok) throw new Error(`Could not load stories (HTTP ${res.status})`);
+        const stories = await res.json();
+
+        if (stories.length === 0) {
+          container.innerHTML = '<h1>Stories</h1><p>No stories yet.</p>';
+          return;
+        }
+
+        const items = stories.map(s => `
+          <li>
+            <a href="./story.html?file=${encodeURIComponent(s.file)}">${s.title}</a>
+            ${s.date ? `<span class="meta">${formatDate(s.date)}</span>` : ''}
+          </li>`).join('');
+
+        container.innerHTML = `<h1>Stories</h1><ul>${items}</ul>`;
+      } catch (err) {
+        container.innerHTML = `<h1>Stories</h1><p class="error">${err.message}</p>`;
+      }
+
+      function formatDate(str) {
+        try {
+          return new Date(str + 'T00:00:00').toLocaleDateString('en-US', {
+            year: 'numeric', month: 'long'
+          });
+        } catch { return str; }
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -3,44 +3,75 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
-  workflow_dispatch:  # allow manual runs from the Actions tab
+  workflow_dispatch:
 
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Only one concurrent deployment; cancel in-progress runs if a new push arrives
 concurrency:
   group: pages
   cancel-in-progress: false
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
+      - name: Generate stories.json
+        run: |
+          python3 - <<'EOF'
+          import os, json, re
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+          stories_dir = "stories"
+          stories = []
+
+          for filename in os.listdir(stories_dir):
+              if not filename.endswith(".md"):
+                  continue
+
+              with open(os.path.join(stories_dir, filename), encoding="utf-8") as f:
+                  content = f.read()
+
+              # Defaults from filename
+              title = filename.replace(".md", "").replace("-", " ").title()
+              date  = ""
+
+              # Parse YAML front matter if present
+              fm_match = re.match(r"^---\r?\n([\s\S]*?)\r?\n---", content)
+              if fm_match:
+                  fm = fm_match.group(1)
+                  t  = re.search(r'^title:\s*["\']?(.*?)["\']?\s*$', fm, re.MULTILINE)
+                  d  = re.search(r'^date:\s*(\S+)',                   fm, re.MULTILINE)
+                  if t: title = t.group(1)
+                  if d: date  = d.group(1)
+
+              stories.append({"file": filename, "title": title, "date": date})
+
+          # Newest first
+          stories.sort(key=lambda s: s["date"], reverse=True)
+
+          with open("stories.json", "w") as f:
+              json.dump(stories, f, indent=2)
+
+          print(f"✓ stories.json — {len(stories)} story/stories")
+          EOF
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4

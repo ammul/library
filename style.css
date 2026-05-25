@@ -1,9 +1,8 @@
 /* -----------------------------------------------
    The Library — stylesheet
-   No web fonts, no JS, no external dependencies.
+   System fonts only. No external dependencies.
    ----------------------------------------------- */
 
-/* Reset & base */
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -35,7 +34,7 @@ body {
   flex-direction: column;
 }
 
-/* ---- Site header / nav ---- */
+/* ---- Site header ---- */
 .site-header {
   padding: 1.25rem 1.5rem;
   border-bottom: 1px solid var(--border);
@@ -57,11 +56,9 @@ body {
   text-decoration: none;
 }
 
-.site-title:hover {
-  text-decoration: underline;
-}
+.site-title:hover { text-decoration: underline; }
 
-/* ---- Main content ---- */
+/* ---- Main ---- */
 main {
   flex: 1;
   padding: 3rem 1.5rem;
@@ -85,9 +82,7 @@ main {
   border-bottom: 1px solid var(--border);
 }
 
-.story-list ul {
-  list-style: none;
-}
+.story-list ul { list-style: none; }
 
 .story-list li {
   padding: 1rem 0;
@@ -132,7 +127,6 @@ main {
 .story-header h1 {
   font-size: 2rem;
   line-height: 1.25;
-  font-weight: 700;
   color: var(--text);
   margin-bottom: 0.5rem;
 }
@@ -144,9 +138,7 @@ main {
 }
 
 /* ---- Story body typography ---- */
-.story-body p {
-  margin-bottom: 1.4rem;
-}
+.story-body p { margin-bottom: 1.4rem; }
 
 .story-body p:first-of-type::first-letter {
   font-size: 3.2rem;
@@ -160,15 +152,6 @@ main {
 .story-body h2 {
   font-size: 1.25rem;
   margin: 2rem 0 0.75rem;
-  color: var(--text);
-}
-
-.story-body em {
-  font-style: italic;
-}
-
-.story-body strong {
-  font-weight: 700;
 }
 
 .story-body hr {
@@ -192,9 +175,7 @@ main {
   text-decoration: none;
 }
 
-.story-footer a:hover {
-  text-decoration: underline;
-}
+.story-footer a:hover { text-decoration: underline; }
 
 /* ---- Site footer ---- */
 .site-footer {
@@ -210,7 +191,11 @@ main {
   color: var(--muted);
 }
 
-/* ---- Responsive: narrow screens ---- */
+/* ---- Misc ---- */
+.loading { color: var(--muted); font-family: var(--font-ui); font-size: 0.95rem; }
+.error   { color: #b00; font-family: var(--font-ui); font-size: 0.95rem; }
+
+/* ---- Responsive ---- */
 @media (max-width: 600px) {
   html { font-size: 16px; }
   .story-header h1 { font-size: 1.6rem; }

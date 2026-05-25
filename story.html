@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Library</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <nav>
+      <a class="site-title" href="./index.html">The Library</a>
+    </nav>
+  </header>
+
+  <main>
+    <article class="story" id="story-container">
+      <p class="loading">Loading…</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <p>The Library</p>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    (async () => {
+      const params = new URLSearchParams(window.location.search);
+      const file   = params.get('file');
+      const el     = document.getElementById('story-container');
+
+      if (!file) {
+        el.innerHTML = '<p>No story specified. <a href="./index.html">Go back.</a></p>';
+        return;
+      }
+
+      try {
+        const res = await fetch(`./stories/${encodeURIComponent(file)}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const raw = await res.text();
+
+        // Split off YAML front matter (--- ... ---)
+        const fmRe  = /^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/;
+        const match = raw.match(fmRe);
+        let title = file.replace(/\.md$/, '').replace(/-/g, ' ');
+        let date  = '';
+        let body  = raw;
+
+        if (match) {
+          const fm = match[1];
+          body     = match[2];
+          const tm = fm.match(/^title:\s*["']?(.*?)["']?\s*$/m);
+          const dm = fm.match(/^date:\s*(\S+)/m);
+          if (tm) title = tm[1];
+          if (dm) date  = dm[1];
+        }
+
+        document.title = `${title} — The Library`;
+
+        el.innerHTML = `
+          <header class="story-header">
+            <h1>${title}</h1>
+            ${date ? `<time datetime="${date}">${formatDate(date)}</time>` : ''}
+          </header>
+          <div class="story-body">${marked.parse(body)}</div>
+          <footer class="story-footer">
+            <a href="./index.html">&larr; Back to all stories</a>
+          </footer>`;
+      } catch (err) {
+        el.innerHTML = `<p class="error">Could not load story: ${err.message}</p>`;
+      }
+
+      function formatDate(str) {
+        try {
+          return new Date(str + 'T00:00:00').toLocaleDateString('en-US', {
+            year: 'numeric', month: 'long', day: 'numeric'
+          });
+        } catch { return str; }
+      }
+    })();
+  </script>
+</body>
+</html>
