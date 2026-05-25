@@ -30,11 +30,16 @@ jobs:
           python3 - <<'EOF'
           import os, json, re
 
-          stories_dir = "stories"
+          stories_dir   = "stories"
+          # Add more codes here (e.g. "fr", "es") to support additional languages
+          supported_langs = ["de"]
           stories = []
 
-          for filename in os.listdir(stories_dir):
+          for filename in sorted(os.listdir(stories_dir)):
               if not filename.endswith(".md"):
+                  continue
+              # Skip translation files — they are linked from their primary entry
+              if re.search(r'_[a-z]{2}\.md$', filename):
                   continue
 
               with open(os.path.join(stories_dir, filename), encoding="utf-8") as f:
@@ -53,7 +58,20 @@ jobs:
                   if t: title = t.group(1)
                   if d: date  = d.group(1)
 
-              stories.append({"file": filename, "title": title, "date": date})
+              # Detect which translation files exist alongside this story
+              basename     = filename[:-3]  # strip .md
+              translations = {}
+              for lang in supported_langs:
+                  trans_file = f"{basename}_{lang}.md"
+                  if os.path.exists(os.path.join(stories_dir, trans_file)):
+                      translations[lang] = trans_file
+
+              stories.append({
+                  "file":         filename,
+                  "title":        title,
+                  "date":         date,
+                  "translations": translations,   # e.g. {"de": "the-fog_de.md"}
+              })
 
           # Newest first
           stories.sort(key=lambda s: s["date"], reverse=True)
@@ -61,7 +79,7 @@ jobs:
           with open("stories.json", "w") as f:
               json.dump(stories, f, indent=2)
 
-          print(f"✓ stories.json — {len(stories)} story/stories")
+          print(f"✓ stories.json — {len(stories)} primary story/stories")
           EOF
 
       - name: Configure Pages

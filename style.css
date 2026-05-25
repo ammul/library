@@ -131,10 +131,49 @@ main {
   margin-bottom: 0.5rem;
 }
 
+.story-meta {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-top: 0.4rem;
+}
+
 .story-header time {
   font-family: var(--font-ui);
   font-size: 0.85rem;
   color: var(--muted);
+}
+
+/* ---- Language switcher ---- */
+.lang-switcher {
+  display: flex;
+  gap: 0.2rem;
+}
+
+.lang-switcher button {
+  font-family: var(--font-ui);
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  padding: 0.15rem 0.4rem;
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  line-height: 1.6;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+
+.lang-switcher button.active {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+}
+
+.lang-switcher button:not(.active):hover {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 /* ---- Story body typography ---- */
