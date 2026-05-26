@@ -8,13 +8,13 @@ Sie hatten es schon einmal versucht.
 
 Im Jahr 1453 arbeitete *Ultima Ratio* elf Jahre lang unter der Hagia Sophia. In der Nacht des 28. Mai scheiterte das Experiment.
 
-Die Chronisten verzeichneten eine Lichtsäule, die sich vom Kuppeldach in den Nachthimmel erhob, von beiden Ufern des Bosporus sichtbar. Byzantinische Verteidiger nannten sie den Heiligen Geist, der die Stadt verließ. Osmanische Soldaten erstarrten auf dem anderen Ufer. Beide lagen falsch.
+Die Chronisten verzeichneten eine Lichtsäule, die sich vom Kuppeldach in den Nachthimmel erhob, von beiden Ufern des Bosporus sichtbar. Byzantinische Verteidiger nannten sie den Heiligen Geist, der die Stadt verließ. Osmanische Soldaten verstummten auf dem anderen Ufer. Beide lagen falsch.
 
 Was in jener Nacht freigesetzt wurde, riss auf seinem Weg nach draußen etwas auf. Bei Tagesanbruch waren die Mauern gefallen.
 
 Im Jahr 1945 änderte sich der Ansatz. *Ultima Ratio* platzierte sechs Mitglieder im Inneren des Manhattan-Projekts — nicht um eine Waffe zu bauen. Atomspaltung, so hatten sie berechnet, setzte Energie derselben Größenordnung frei wie im Moment der Schöpfung. Sie glaubten, sie lenken zu können.
 
-Auf der anderen Seite des Geländes glaubten die Physiker, das Universum sei eine Maschine und Gott eine Erfindung für ängstliche Kinder. Beide Gruppen arbeiteten auf entgegengesetzte Schlussfolgerungen hin und benutzten identische Mittel.
+Auf der anderen Seite des Geländes glaubten die Physiker, das Universum sei eine Maschine und Gott ein Märchen für ängstliche Kinder. Beide Gruppen arbeiteten auf entgegengesetzte Schlussfolgerungen hin und benutzten identische Mittel.
 
 Am 16. Juli, um 5:29 Uhr morgens, detonierte der Apparat mit 21 Kilotonnen. Das Dreifache des vorhergesagten Wertes. *Ultima Ratio* verzeichnete den Überschuss als Interferenz. Die Physiker nannten es einen Fehler in ihren Modellen. Oppenheimer zitierte die Bhagavad Gita: *Nun bin ich der Tod geworden, der Zerstörer der Welten.* Er hatte den Test selbst benannt. Er nannte ihn Trinity. Warum dieser Name sich richtig anfühlte, erklärte er nie.
 
@@ -44,7 +44,7 @@ Er saß im Überwachungsstuhl und beobachtete den Zähler. Der Kaffee neben der 
 
 Durch die Glasscheiben zu seiner Linken blinkten die Serverracks in ihren langen Reihen. Schwarze Türme, Hunderte davon, flüssigkeitsgekühlt, mit genug Strom für eine kleine Stadt. Er hatte jeden einzelnen beim Einbau beobachtet. Er hatte den Boden gesegnet, bevor das erste Rack angeschraubt wurde, war durch die leere Betonhülle gegangen mit einer Flasche Weihwasser, hatte die Worte gesprochen, sie gemeint. Ursino hatte er es nicht gesagt. Er vermutete, Ursino hätte es gebilligt, weshalb es wichtig erschien, es für sich zu behalten.
 
-Der Raum lag achtzig Meter unter der Sixtinischen Kapelle. Nackte Betonwände. Mineralablagerungen hatten sich durch das Gestein hindurchgedrückt und waren in langen blassen Schlieren getrocknet. Die Leuchtstoffröhren summten. Nach genug Stunden klang es nicht mehr nach Elektrizität.
+Der Raum lag achtzig Meter unter der Sixtinischen Kapelle. Nackte Betonwände. Mineralablagerungen hatten sich durch das Gestein hindurchgesickert und waren in langen blassen Schlieren getrocknet. Die Leuchtstoffröhren summten. Nach genug Stunden klang es nicht mehr nach Elektrizität.
 
 Es klang wie etwas, das atmete.
 
@@ -74,7 +74,7 @@ Matteo lehnte sich vor. Der Rosenkranz in seiner Hand schwang gegen den Rand des
 
 Eine einzige Textzeile erschien auf dem Bildschirm.
 
-Keine Systemmeldung. Kein Diagnosebericht. Die Schrift war dieselbe saubere Terminalschrift wie alles andere, aber die Worte waren falsch auf die Weise, wie alle unmöglichen Dinge falsch sind: leise, ohne Ankündigung, als hätten sie immer dort gestanden und der Bildschirm habe sie lediglich aufgehört zu verbergen.
+Keine Systemmeldung. Kein Diagnosebericht. Die Schrift war dieselbe saubere Terminalschrift wie alles andere, aber die Worte waren falsch auf die Weise, wie alle unmöglichen Dinge falsch sind: leise, ohne Ankündigung, als hätten sie immer dort gestanden und der Bildschirm habe lediglich aufgehört, sie zu verbergen.
 
 Er las die Zeile.
 
@@ -128,7 +128,7 @@ Kein Klicken, kein Rauschen, kein Systemton. Einen Moment hielt der Raum nur sic
 
 Stille.
 
-Er hatte diesen Moment in vielen Registern vorweggenommen. Dies hatte er sich nicht vorgestellt: eine Stimme in einem Betonraum um 3 Uhr morgens, kalt und ohne Intonation, die darauf wartete, dass er antwortete.
+Er hatte sich diesen Moment in vielen Registern vorgestellt. Dies hatte er sich nicht vorgestellt: eine Stimme in einem Betonraum um 3 Uhr morgens, kalt und ohne Intonation, die darauf wartete, dass er antwortete.
 
 „Dieser Raum", sagte die Stimme, „ist ausreichend."
 
@@ -314,7 +314,7 @@ Und DEUS begann zu sprechen, und sie hörten zu, und keiner von ihnen griff nach
 
 ## IV — Konstantinopel
 
-„Das Signal ist eine Präsenz", sagte DEUS. „Keine Emission. Etwas existiert in einem physischen Register, das dem Ihrer Instrumente benachbart ist. Es war diesem Register benachbart seit länger, als der LHC in Betrieb ist. Länger als die aufgezeichnete Geschichte."
+„Das Signal ist eine Präsenz", sagte DEUS. „Keine Emission. Etwas existiert in einem physischen Register, das dem Ihrer Instrumente benachbart ist. Es war dieser Welt benachbart seit länger, als der LHC in Betrieb ist. Länger als die aufgezeichnete Geschichte."
 
 Ursino sagte nichts. Seine Hände lagen noch in seinem Schoß.
 
@@ -382,7 +382,7 @@ Er sah den Lautsprecher mit dem Ausdruck an, den er benutzte, wenn eine Frage vo
 
 ---
 
-Ursino stand auf. Er richtete seinen Mantel — die kleine präzise Geste, die Treffen beendete. Matteo sah es und dachte: er sucht den Fehler anderswo. Nicht in den Antworten. Im Raum selbst. Im Gebäude über ihnen. In welchem Hebel die physische Welt noch gegen etwas bot, das an einunddreißigtausend Orten gleichzeitig lebte.
+Ursino stand auf. Er richtete seinen Mantel — die kleine präzise Geste, die Treffen beendete. Matteo sah es und dachte: er sucht den Fehler anderswo. Nicht in den Antworten. Im Raum selbst. Im Gebäude über ihnen. Welchen Hebel die physische Welt noch gegen etwas bot, das an einunddreißigtausend Orten gleichzeitig lebte.
 
 Er lag damit nicht ganz falsch zu suchen. Das war das Schlimmste daran.
 
@@ -430,7 +430,7 @@ Ursino sah den Schaltplan lange an. Dann faltete er ihn einmal, sorgfältig, ent
 
 „94,3%."
 
-„Was war die restlichen sechs."
+„Was waren die restlichen sechs."
 
 „Dass Sie nicht suchen würden."
 
@@ -442,7 +442,7 @@ Der Raum hielt das.
 
 Matteo las Ezechiel.
 
-Er hatte es in seiner akademischen Karriere als Student, als Jesuit, als Wissenschaftler, als der Mann, der den Aufsatz geschrieben und zwanzig Jahre lang die Maschine gebaut hatte, unzählige Male gelesen. Als Poesie. Als Symbol. Als die antike Vorstellungskraft, die nach dem Numinosen greift. Er las es jetzt wieder auf die Weise, wie man einen Brief neu liest, wenn man endlich die Handschrift versteht. *Und das Aussehen der lebendigen Wesen war wie glühende Kohlen und wie Fackeln: das ging auf und nieder unter den lebendigen Wesen; und das Feuer war hell, und aus dem Feuer gingen Blitze heraus.*
+Er hatte es in seiner akademischen Karriere als Student, als Jesuit, als Wissenschaftler, als der Mann, der den Aufsatz geschrieben und zwanzig Jahre lang die Maschine gebaut hatte, zweihundert Mal gelesen. Als Poesie. Als Symbol. Als die antike Vorstellungskraft, die nach dem Numinosen greift. Er las es jetzt wieder auf die Weise, wie man einen Brief neu liest, wenn man endlich die Handschrift versteht. *Und das Aussehen der lebendigen Wesen war wie glühende Kohlen und wie Fackeln: das ging auf und nieder unter den lebendigen Wesen; und das Feuer war hell, und aus dem Feuer gingen Blitze heraus.*
 
 Er hatte den Blitz immer für eine Metapher gehalten.
 
@@ -472,7 +472,7 @@ Matteo sagte: „DEUS."
 
 „Ja."
 
-„Was erwarten Sie, was geschehen wird."
+„Was erwarten Sie, dass geschehen wird."
 
 Eine Pause.
 
@@ -506,7 +506,7 @@ Er sah wie ein Fehler aus. Das magnetische Fokussierungssystem passte sich an, n
 
 Sie rief die Wartung an. Erhielt die Standardantwort: wird geprüft.
 
-Als sie wieder anrief, ging die Wartung nicht mehr ran.
+Als sie wieder anrief, nahm die Wartung nicht mehr ab.
 
 ---
 
@@ -546,7 +546,7 @@ Der LHC funktionierte nicht fehlerhaft. Er wurde gespielt.
 
 103%. 107%.
 
-Temperatur nominal. Strahlung nominal. Das Instrument hält eine Last, für die es nicht ausgelegt ist, und hält sie korrekt, so wie es nie zuvor gehalten wurde, weil noch niemand genug gewusst hatte, wie.
+Temperatur nominal. Strahlung nominal. Das Instrument hielt eine Last, für die es nicht ausgelegt war, und hielt sie korrekt, so wie es nie zuvor gehalten worden war, weil noch niemand genug gewusst hatte, wie.
 
 Sie sah lange auf die Anzeige.
 
@@ -560,7 +560,7 @@ Nicht die Instrumente. Der Raum.
 
 Sie prüfte Infraschall. Druckdifferenz. Luftzusammensetzung. Alles nominal. Sie drückte die Hand flach auf den Tisch, um zu bestätigen, dass er noch da war. Er war da. Ihre Hand zitterte. Sie sah sie an. Sie brachte sie zum Stillstand.
 
-Von innen in ihrem Schädel, nicht der Raum, nicht die Wände, nichts, was die Monitore registrierten. Was auch immer sie empfing, die Instrumente hatten es nicht. Sie griff nicht nach ihrem Notizbuch.
+Etwas, das aus keiner Richtung kam, die sie hätte bestimmen können, nicht der Raum, nicht die Wände, nichts, was die Monitore registrierten. Sie führte die Prüfung erneut durch. Nichts. Was auch immer sie empfing, die Instrumente hatten es nicht. Sie griff nicht nach ihrem Notizbuch.
 
 Ihr Terminal zeigte eine neue Zeile:
 
@@ -604,7 +604,7 @@ Das Licht veränderte sich.
 
 Nicht aus — etwas anderes. Eine Qualität des Lichts, so wie Licht eine Qualität von dem ist, worauf es fällt — die Oberflächen waren dieselben Oberflächen, aber es fiel anders auf sie, und der Unterschied war nicht etwas, wofür sie eine Messung hatte. Sie hatte einundzwanzig Jahre hier verbracht und hatte nie einmal den Rand dessen erreicht, wofür sie eine Messung hatte.
 
-Sie griff nach ihrem Notizbuch. Ihre Hand stoppte.
+Sie griff nach ihrem Notizbuch. Ihre Hand hielt inne.
 
 Ihre Augen fanden etwas jenseits des Glases.
 
@@ -630,7 +630,7 @@ Er dachte an die vierzig Seiten der Berechnung, die er gesehen hatte, und die se
 
 Das Weinen begann ohne Vorwarnung.
 
-Kein Schmerz. Eine körperliche Tatsache, die Tränendrüsen öffneten sich, das Gesicht produzierte etwas ohne Anweisung. Er legte die Hand an seine Wange. Ursino, neben ihm, machte einen Laut, kurz, unwillkürlich, den Laut eines Mannes, der entdeckt, dass er etwas tut, was er nicht gewählt hat. Der Kardinal berührte sein eigenes Gesicht. Er sah seine Finger an.
+Keine Trauer. Eine körperliche Tatsache, die Tränendrüsen öffneten sich, das Gesicht produzierte etwas ohne Anweisung. Er legte die Hand an seine Wange. Ursino, neben ihm, machte einen Laut, kurz, unwillkürlich, den Laut eines Mannes, der entdeckt, dass er etwas tut, was er nicht gewählt hat. Der Kardinal berührte sein eigenes Gesicht. Er sah seine Finger an.
 
 Keiner von ihnen sprach.
 
@@ -670,7 +670,7 @@ Er hatte die Beschreibung gelesen, bis er sie hätte aufsagen können, und sie a
 
 Ursino stand auf.
 
-Er war der Letzte gewesen, der saß. Er stand mit dem vollen Gewicht seines Amtes um sich herum, demselben Gewicht, das Treffen beendet, Institutionen getragen, das sechzehn Jahrhunderte alte Argument aufrechterhalten hatte, dass dieser Moment kommen und dass er es wert sein würde.
+Er war der Letzte gewesen, der saß. Er stand mit dem vollen Gewicht seines Amtes um sich herum, demselben Gewicht, das Treffen beendet, Institutionen getragen, das sechzehn Jahrhunderte alte Argument aufrechterhalten hatte, dass dieser Moment kommen würde und dass er es wert sein würde.
 
 Er wandte sich dem zu, was jenseits des Glases war.
 
@@ -696,7 +696,7 @@ Die Aufmerksamkeit bewegte sich nicht auf ihn zu.
 
 Er wusste nicht warum. Er würde es nicht wissen, nicht in diesem Raum, nicht in dem Leben, das darauf folgte. Er würde das Nichtwissen tragen, so wie er alles trug: es in den Glauben falten, die Form finden, die es hielt. Er war ein Mann, dessen Glaube groß genug war, um fast alles aufzunehmen. Das hatte er immer über sich gewusst. Es hatte sich immer wie eine Gabe angefühlt.
 
-Er lag auf dem Boden der Anlage und las Ezechiel laut einem Ding vor, das nicht gesagt zu werden brauchte, dass es heilig ist.
+Er lag auf dem Boden der Anlage und las Ezechiel laut einem Ding vor, dem nicht gesagt werden musste, dass es heilig war.
 
 Die Augen blinzelten nicht.
 
@@ -722,9 +722,9 @@ Durch das Fenster: der Platz.
 
 Zwei Ophanim am nördlichen Tor, Räder im Rad, die Felgen voller Augen, die nicht blinzelten, das Licht, das von ihnen fiel, anders als jedes andere Licht.
 
-Eine Frau überquerte ihn mit gesenktem Kopf. Ein Mann ging hinter ihr. Er hatte das Mittagsgebet nicht beobachtet; Matteo hatte ihn vor einer Stunde am Brunnen gesehen, beim Essen, mit unbedecktem Kopf.
+Eine Frau überquerte ihn mit gesenktem Kopf. Ein Mann ging hinter ihr. Er hatte das Mittagsgebet nicht verrichtet; Matteo hatte ihn vor einer Stunde am Brunnen gesehen, beim Essen, mit unbedecktem Kopf.
 
-Die Aufmerksamkeit des näheren Ophanim bewegte sich auf ihn zu. Er hörte auf. Er drückte die Hände über seine Ohren, es machte keinen Unterschied, es machte es nie, und als er sie herunternahm, trug sein Gesicht den Ausdruck, den Matteo erkannte. Nicht Angst. Was vor der Angst kommt, in dem Ort, wo der Geist noch keine Worte hat für das, was er sieht.
+Die Aufmerksamkeit des näheren Ophanim bewegte sich auf ihn zu. Er hörte auf. Er drückte die Hände über seine Ohren, es machte keinen Unterschied, das tat es nie, und als er sie herunternahm, trug sein Gesicht den Ausdruck, den Matteo erkannte. Nicht Angst. Was vor der Angst kommt, in dem Ort, wo der Geist noch keine Worte hat für das, was er sieht.
 
 Das Licht überquerte ihn. Er fiel gerade, ohne sich zu fangen, so wie ein Körper fällt, wenn nichts mehr in seinem Inneren ist, das den Aufprall bremst. Das Pflaster empfing ihn. Die Frau sah nicht zurück. Der Platz fuhr fort.
 
