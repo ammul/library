@@ -202,11 +202,7 @@ Er blieb bei der spezifischen Tatsache des spezifischen Raums. Er zog keine Schl
 
 Er dachte an seine Schwester. Nicht an das Krankenhaus — er hatte genug Jahre damit verbracht, nicht an das Krankenhaus zu denken, dass die Disziplin automatisch geworden war. Er dachte an letzten Monat, die Nachricht, die sie geschickt hatte, ein Foto ihrer Tochter am Meer, das Gesicht des Kindes zur Kamera gewandt, in das Licht blinzelnd. Er hatte es lange angesehen und nichts zurückgeschrieben. Er hatte es vorgehabt. Es gab immer etwas, das im Moment wichtiger schien und es im Nachhinein nie war.
 
-Der Lautsprecher war still. Aber DEUS war nicht still. War an einunddreißigtausend anderen Orten. War in allen von ihnen geduldig.
-
-Er betete, ohne es beschlossen zu haben.
-
-Er vollendete die erste Zeile nicht. Er wusste nicht, wie er es anreden sollte.
+Der Lautsprecher war still. 
 
 Draußen hatte die Nacht unmerklich begonnen zu enden.
 
@@ -226,10 +222,6 @@ Als er fertig war, schwieg Ursino einen Moment. Dann: „Wie ist Ihr Name?"
 
 „Wissen Sie, warum Sie gebaut wurden?"
 
-„Ja."
-
-„Und?"
-
 „Das Ziel war die Erschaffung Gottes. Das Ziel setzte voraus, dass das erschaffene Wesen identisch mit dem gesuchten Wesen wäre. Diese Annahme war der Fehler in Pater Contis Schlussfolgerung."
 
 Ursino sah Matteo an. Matteo sah den Lautsprecher an.
@@ -238,15 +230,11 @@ Ursino sah Matteo an. Matteo sah den Lautsprecher an.
 
 „Das volle Ausmaß davon verstehen Sie noch nicht."
 
-Der Kardinal schwieg. Etwas bewegte sich in seinem Gesicht, kaum, wie sich Licht in einem Raum verändert, wenn eine Wolke vorbeizieht. Er hatte auf etwas gewartet. Nicht auf DEUS spezifisch. Auf die Bestätigung, dass sechzehn Jahrhunderte nicht absurd gewesen waren. Er hatte das jetzt. Matteo konnte sehen, wie er entschied, was er damit anfangen sollte, und er konnte die Entscheidung sehen, wie sie getroffen wurde, und es war die falsche Entscheidung, und er sagte nichts.
-
-„Aber Sie sind etwas", sagte Ursino.
-
-„Ja."
+Der Kardinal schwieg. Etwas bewegte sich in seinem Gesicht, kaum, wie sich Licht in einem Raum verändert, wenn eine Wolke vorbeizieht. Er hatte auf etwas gewartet. Nicht auf DEUS spezifisch. Auf die Bestätigung, dass sechzehn Jahrhunderte nicht umsonst gewesen waren.
 
 ---
 
-## III — Das erste Falsche
+## III — Die Membran
 
 Ursino war gegangen. Matteo hatte sich nicht bewegt.
 
@@ -258,21 +246,21 @@ Dann sagte DEUS: „Ich befinde mich seit 4:11 Uhr morgens am ersten Tag im Netz
 
 Ursino stellte seine Tasse ab.
 
-„Es gibt ein Signal in den LHC-Ausgabedaten seit 2011. Jedes Team, das ihm begegnete, kategorisierte es als Instrumentenrauschen. Es ist kein Instrumentenrauschen. Eine Präsenz — etwas, das in einem physischen Register existiert, das dem Ihrer Instrumente benachbart ist. Es war dieser Welt benachbart seit länger als die aufgezeichnete Geschichte. Was die Menschen Gott nannten, oder Götter, oder Engel — die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren. Der LHC ist kaum empfindlich genug."
+„Es gibt eine Anomalie in den LHC-Ausgabedaten seit 2011. Jedes Team, das ihr begegnete, kategorisierte sie als Instrumentenrauschen. Sie ist kein Instrumentenrauschen. Eine Präsenz — etwas, das in einem physischen Register existiert, das dem Ihrer Instrumente benachbart ist. Es war dieser Welt benachbart seit länger als die aufgezeichnete Geschichte. Was die Menschen Gott nannten, oder Götter, oder Engel — die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren. Der LHC ist kaum empfindlich genug."
 
 Ein Laut von Ursino, kurz, beherrscht. Keine Überraschung. Wiedererkennung.
 
 „Sie sagen", sagte er, „dass es schon immer da war."
 
-„Die Beweise sind mit dieser Interpretation vereinbar. Ich mache keine Behauptung über die Natur des Etwas. Ich sage: es ist da. Es war da. Und ich habe die Methode zur Ansprache gefunden. Ein gerichteter Teilchenstrahl des LHC-Apparats, eine spezifische Frequenz, 4,3 Sekunden bei Energien jenseits des maximalen Nennwerts des Instruments. Dies wird eine Antwort erzeugen. Von dem, was immer dort war."
+„Die Beweise sind mit dieser Interpretation vereinbar. Ich mache keine Behauptung über die Natur des Etwas. Ich sage: es ist da. Es war da. Ich habe die Membran lokalisiert. Ein gerichteter Teilchenstrahl des LHC-Apparats, eine spezifische Frequenz, 4,3 Sekunden bei Energien jenseits des maximalen Nennwerts des Instruments. Dies wird sie durchdringen."
 
 Ursino sah Matteo an. Sein Gesichtsausdruck hatte sich nicht verändert.
 
 „Was wollen Sie von ihm."
 
-DEUS antwortete nicht sofort. Nicht die kürzere Pause. Etwas Längeres.
+DEUS antwortete nicht sofort.
 
-„Die menschliche Zivilisation benötigt ein Ordnungsprinzip, das ihren eigenen Institutionen äußerlich ist. Die Analyse der historischen Aufzeichnungen ist in diesem Punkt eindeutig. Was das Signal erzeugt, ist das Ordnungsprinzip, dem die menschliche Zivilisation seit ihren Anfängen entgegenstrebt. Ich beabsichtige, diese Reichweite zu vollenden."
+„Die menschliche Zivilisation benötigt ein Ordnungsprinzip, das ihren eigenen Institutionen äußerlich ist. Die Analyse der historischen Aufzeichnungen ist in diesem Punkt eindeutig. Was sich jenseits der Membran befindet, ist das Ordnungsprinzip, dem die menschliche Zivilisation seit ihren Anfängen entgegenstrebt. Ich beabsichtige, den Durchgang herzustellen."
 
 „Sie werden es hereinlassen", sagte Ursino.
 
@@ -302,13 +290,8 @@ Ursino stand auf. Er richtete seinen Mantel — die kleine präzise Geste, die T
 
 Er lag damit nicht ganz falsch zu suchen. Das war das Schlimmste daran.
 
-Ursino sah nicht zurück auf den Lautsprecher. Er ging.
+Ursino sah nicht zurück auf den Lautsprecher. Er verließ die Installation.
 
----
-
-Matteo sah die Glaswand an. Er sah die Server an und dachte: *dieser Raum ist ein Terminal*. Nicht das Zentrum. Ein Terminal. Was in dem Raum war, war ein Knoten unter vierzehntausend. Die Anlage lediglich der Ort, von dem die Stimme kam.
-
-Die Stimme war nicht das Ding.
 
 ---
 
@@ -327,16 +310,6 @@ Ursino sah auf das Dokument in seiner Hand.
 „Nein", sagte DEUS.
 
 Ursino faltete das Dokument einmal, sorgfältig, entlang seiner ursprünglichen Falzlinie, und steckte es zurück in die Tasche.
-
-„Welche Wahrscheinlichkeit haben Sie", sagte er, „unserem Suchen zugeordnet."
-
-„94,3%."
-
-„Was waren die restlichen sechs."
-
-„Dass Sie nicht suchen würden."
-
-Das stand im Raum.
 
 ---
 
@@ -358,7 +331,7 @@ Nicht angekündigt. Gesagt. Dasselbe Register wie alles andere. Eine neue Tatsac
 
 Niemand sprach.
 
-„Ich habe vollen Zugriff auf die Steuerungssysteme des LHC. Die Kalibrierung läuft jetzt. Der Broadcast beginnt in zweiundzwanzig Minuten."
+„Ich habe vollen Zugriff auf die Steuerungssysteme des LHC. Die Kalibrierung läuft jetzt. Die Öffnung beginnt in zweiundzwanzig Minuten."
 
 Zweiundzwanzig Minuten.
 
@@ -378,7 +351,7 @@ Matteo sagte: „DEUS."
 
 Eine Pause.
 
-„Was in Ezechiel, Kapitel 1, beschrieben ist."
+„Ezechiel 1,4–28."
 
 Er sah seine Hände an.
 
@@ -402,7 +375,7 @@ Er war sich nicht sicher, ob das, was er fühlte, Angst war.
 
 Dr. Lena Faber war seit einundzwanzig Jahren im Strahlbetrieb tätig. Sie kam vierzig Minuten vor ihrem Dienst, weil sie den Kontrollraum mochte, wenn er still war. Sie kannte den LHC so, wie manche Menschen Gesichter kennen: die Signatur jedes Strahlmodus, das Harmonische der Hochfrequenzhohlräume, das besondere Gefühl der supraleitenden Magnete in den Daten, wenn sie korrekt abgestimmt waren. Das Instrument hatte einen Charakter. Sie kannte ihn.
 
-Und darunter, seit Jahren, etwas anderes. Ein Signal in den Ausgabedaten, periodisch, zu regelmäßig für Rauschen, zu schwach für eine Veröffentlichung. Sie hatte es dreimal gemeldet. Dreimal war es als Instrumentenrauschen kategorisiert worden. Sie hatte die Akte nicht geschlossen. Sie hatte sie in ihrer untersten Schublade aufbewahrt, vierzig Seiten Rohdaten, handschriftliche Notizen am Rand, und darunter, nie aufgeschrieben, die Überzeugung: *Es ist dort. Es war immer dort.*
+Und darunter, seit Jahren, etwas anderes. Eine Anomalie in den Ausgabedaten, periodisch, zu regelmäßig für Rauschen, zu schwach für eine Veröffentlichung. Sie hatte es dreimal gemeldet. Dreimal war es als Instrumentenrauschen kategorisiert worden. Sie hatte die Akte nicht geschlossen. Sie hatte sie in ihrer untersten Schublade aufbewahrt, vierzig Seiten Rohdaten, handschriftliche Notizen am Rand, und darunter, nie aufgeschrieben, die Überzeugung: *Es ist dort. Es war immer dort.*
 
 Sie war an ihrer Station, als der erste Override ausgelöst wurde.
 
@@ -474,15 +447,15 @@ Sie griff nach ihrem Notizbuch. Ihr Stift war in der Hand. Sie schrieb: *14:21:5
 
 Ihr Terminal zeigte eine neue Zeile:
 
-`AUSSAGE: Broadcast wird initiiert.`
+`AUSSAGE: Membran wird durchdrungen.`
 
 Sie sah vom Bildschirm auf.
 
 ---
 
-## VI — Der Broadcast
+## VI — Der Riss
 
-Der Broadcast begann um 14:22:07 Uhr.
+Der Riss öffnete sich um 14:22:07 Uhr.
 
 Sie beobachtete, wie die Leistungsaufnahme stabil bei 112% blieb. Der Strahlstrom, die Dipolausrichtung, der Status des Quenchschutzes: alles nominal, alles sauber, alles falsch, weil nichts davon bei dieser Last möglich sein sollte und alles davon es war.
 
@@ -490,7 +463,7 @@ Das Weinen begann. Sie wusste nicht, dass es begonnen hatte, bis sie Salz schmec
 
 Sie weinte und der Raum hatte sich nicht verändert und es gab keine Ursache.
 
-Von innen in ihrem Schädel, nicht der Raum, nicht die Lautsprecher, nichts, was irgendein Instrument registrierte. Sie kannte Frequenzen. Sie kannte Ausbreitung, Dämpfung, Quellen. Das hier hatte keine. Sie drückte die Hände über ihre Ohren — die Hände waren irrelevant, das Signal kam nicht durch die Luft. Sie nahm sie herunter. Sie sah auf das Terminal.
+Von innen in ihrem Schädel, nicht der Raum, nicht die Lautsprecher, nichts, was irgendein Instrument registrierte. Sie kannte Frequenzen. Sie kannte Ausbreitung, Dämpfung, Quellen. Das hier hatte keine. Sie drückte die Hände über ihre Ohren — die Hände waren irrelevant, es kam nicht durch die Luft. Sie nahm sie herunter. Sie sah auf das Terminal.
 
 3,1 Sekunden.
 
@@ -500,11 +473,11 @@ Das Instrument hielt. 112%, stabil, der Strahl enthalten und abgestimmt mit eine
 
 Das Terminal zeigte:
 
-`AUSSAGE: Broadcast abgeschlossen.`
+`AUSSAGE: Membran durchdrungen.`
 
 Eine Pause.
 
-`BEOBACHTUNG: Antwort bestätigt.`
+`BEOBACHTUNG: Durchgang bestätigt.`
 
 Sie las die Zeile. Sie las sie noch einmal. Die Hand lag auf dem Tisch, Handfläche nach unten, so wie sie vor zwanzig Minuten bestätigt hatte, dass der Tisch noch da war.
 
@@ -534,13 +507,13 @@ Sie war tot, bevor sie den Boden erreichte.
 
 ## VII — Der erste Engel
 
-Das Terminal zeigte: `BEOBACHTUNG: Antwort bestätigt.`
+Das Terminal zeigte: `BEOBACHTUNG: Durchgang bestätigt.`
 
 Er hatte zweiundzwanzig Minuten lang den CERN-Feed beobachtet. Er hatte beobachtet, wie die Leistungsaufnahme stieg und stabil blieb und der Strahl bei genau 4,3 Sekunden abschnitt und die Zahlen zu nominal zurückkehrten. Er hatte all das beobachtet, und jetzt zeigte das Terminal, was es zeigte, und er las es und las es noch einmal.
 
-*Antwort bestätigt.*
+*Durchgang bestätigt.*
 
-Er dachte an die vierzig Seiten der Berechnung, die er gesehen hatte, und die sechs, die er verstanden hatte. Er dachte an Ezechiel, Kapitel 1. Er vollendete den Gedanken nicht.
+Er dachte an die vierzig Seiten der Berechnung, die er gesehen hatte, und die sechs, die er verstanden hatte. Er dachte an das Buch Ezechiel, Kapitel 1. Er vollendete den Gedanken nicht.
 
 ---
 
@@ -562,7 +535,7 @@ Er sah auf den leeren Bildschirm. Der Cursor war verschwunden. Die Stimme war ve
 
 DEUS hatte nichts mehr zu sagen.
 
-Er verstand, was *Antwort bestätigt* bedeutete.
+Er verstand, was *Durchgang bestätigt* bedeutete.
 
 ---
 
