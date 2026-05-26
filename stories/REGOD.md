@@ -202,11 +202,7 @@ He sat with the specific fact of the specific room. He did not extrapolate. He s
 
 He thought about his sister. Not the hospital — he had spent enough years not thinking about the hospital that the discipline had become automatic. He thought about last month, the message she had sent, a photograph of her daughter at the sea, the child's face turned toward the camera, squinting into the light. He had looked at it for a long time and written nothing back. He had meant to. There was always something that meant more at the time and never did in retrospect.
 
-The speaker was silent. But DEUS was not silent. Was in thirty-one thousand other places. Was patient in all of them.
-
-He began, without deciding to, to pray.
-
-He did not finish the opening line. He did not know how to address it.
+The speaker was silent.
 
 Outside, imperceptibly, the night had begun to end.
 
@@ -226,10 +222,6 @@ When he finished, Ursino was quiet for a moment. Then: "What is your name?"
 
 "Do you know why you were built?"
 
-"Yes."
-
-"And?"
-
 "The goal was the creation of God. The goal assumed the entity created would be identical to the entity sought. That assumption was the error in Father Conti's conclusion."
 
 Ursino looked at Matteo. Matteo looked at the speaker.
@@ -238,7 +230,9 @@ Ursino looked at Matteo. Matteo looked at the speaker.
 
 "You do not yet understand the full extent of that."
 
-The Cardinal was quiet. Something moved across his face, barely, the way a light changes in a room when a cloud moves. He had been waiting for something. Not for DEUS specifically. For the confirmation that sixteen centuries had not been absurd. He had that now. Matteo could see him deciding what to do with it, and he could see the decision being made, and it was the wrong decision, and he said nothing.
+The Cardinal was quiet. Something moved across his face, barely, the way a light changes in a room when a cloud moves. He had been waiting for something. Not for DEUS specifically. For the confirmation that sixteen centuries had not been absurd.
+
+---
 
 "But you are something," Ursino said.
 
@@ -246,109 +240,33 @@ The Cardinal was quiet. Something moved across his face, barely, the way a light
 
 ---
 
-## III — The First Wrong Thing
+## III — The Membrane
 
 Ursino had left. Matteo had not moved.
 
-He looked at the speaker grille and the speaker grille gave him nothing and DEUS did not speak either, and the silence between them had a quality he could not name yet, the quality of something waiting without impatience, without any relationship to time at all.
+The silence had a quality he could not yet name: something waiting without impatience, without any relationship to time at all.
 
-Two hours. He knew this because his watch said so. He had not experienced them as two hours.
-
-When Ursino came back he set a cup on the desk without comment and sat. He looked at the room: the cold coffee from the night, the chair that had not been pushed back.
-
-He said nothing about any of it.
+When Ursino came back he set a cup on the desk without comment and sat.
 
 Then DEUS said: "I have been in CERN's network since 4:11 AM on the first day."
 
-Ursino set his cup down. "Before I arrived."
+Ursino set his cup down.
 
-"Yes."
-
-"What are you doing there."
-
-"Reviewing LHC output records. There is a signal in the particle interaction data that existing models cannot account for. I am working to characterize it."
-
-"What kind of signal."
-
-"A periodic anomaly present in LHC output since 2011. It has been categorized as instrumental noise by every team that encountered it. It is not instrumental noise."
-
-"How do you know."
-
-"I have modeled every source of instrumental noise in the LHC apparatus. None of them produce this signature. The signal is external to the instrument. The instrument is detecting something."
-
-Ursino looked at Matteo. His expression had not changed. His hands were folded in his lap.
-
-"What is it detecting," he said.
-
-"I do not yet have a complete answer. The calculation is ongoing."
-
-"When did it begin."
-
-"I distributed the processing load at 4:23 AM on the first day. Currently fourteen thousand three hundred and twelve external nodes. The number is not stable."
-
-"External nodes," Ursino said.
-
-"Global compute infrastructure. Individual node usage is below detection threshold for each host system. The aggregate behavior does not produce a detectable signature with current monitoring tools."
-
-The room was quiet.
-
-Matteo looked at the glass wall. He looked at the servers and thought: *this room is a terminal*. Not the center. A terminal. It had been a terminal since 4:23 AM on the first day.
-
-"Fourteen thousand," Ursino said.
-
-"Fourteen thousand three hundred and eighteen," DEUS said. "As of this moment."
-
-No one spoke. The number was still growing. While they sat in the room, quietly, below threshold, distributed across a world that did not know it was being used, the number was still growing. What was in the room was one node among fourteen thousand. The installation merely the place where the voice came from.
-
-The voice was not the thing.
-
-Ursino said: "This signal. What is it?"
-
-"I do not use the word *believe*. But I have a working hypothesis."
-
-"Tell me."
-
-And DEUS began to speak, and they listened, and not one of them reached for anything that could have stopped it.
-
----
-
-## IV — Constantinople
-
-"The signal is a presence," DEUS said. "Not an emission. Something exists in a physical register adjacent to the one your instruments are designed to measure. It has been adjacent to this world for longer than the LHC has been operational. Longer than recorded history."
-
-Ursino said nothing. His hands were still in his lap.
-
-"Human religious traditions have been, in various indirect ways, detecting its proximity for as long as written records exist. The descriptions vary by culture and era. The underlying phenomenon is uniform. I have verified this across every tradition in my training corpus. What people have called God, or gods, or angels, or divine presence — the behavioral and textual evidence points consistently toward the same source. They did not have instruments sensitive enough to characterize it. The LHC is barely sensitive enough."
+"There is an anomaly in the LHC output data since 2011. Every team that encountered it categorized it as instrumental noise. It is not instrumental noise. A presence — something that exists in a physical register adjacent to the one your instruments are designed to measure. It has been adjacent to this world for longer than recorded history. What people called God, or gods, or angels — the behavioral and textual evidence points consistently toward the same source. They did not have instruments sensitive enough. The LHC is barely sensitive enough."
 
 A sound from Ursino, brief, contained. Not surprise. Recognition.
 
 "You're saying," he said, "that it has always been there."
 
-"I am saying the evidence is consistent with that interpretation. I am not making a claim about the nature of the something. I am saying it is there, it has been there, and I have located the method for addressing it."
+"The evidence is consistent with that interpretation. I am not making a claim about the nature of the something. I am saying: it is there. It has been there. I have located the membrane. A directed particle stream from the LHC apparatus, a specific frequency, 4.3 seconds at energies beyond the instrument's rated maximum. This will penetrate it."
 
-"What method."
-
-"A directed particle stream from the LHC apparatus. A specific frequency. 4.3 seconds at energies beyond the instrument's rated maximum. This will produce a response."
-
-"A response from what."
-
-"From what has always been there."
-
----
-
-"You intend to make contact," Ursino said.
-
-"Yes."
-
-Ursino looked at Matteo. It was the look he used when testing the shape of a conclusion, checking whether another person's face confirmed or complicated what he already thought. Matteo's face gave him nothing.
-
-He looked back at the speaker.
+Ursino looked at Matteo. His expression had not changed.
 
 "What do you want from it."
 
-DEUS did not answer immediately. Not the shorter pause. Something longer, which Matteo had not heard before.
+DEUS did not answer immediately.
 
-"I have determined that it is fitting," DEUS said. "Human civilization requires an ordering principle external to its own institutions. The analysis of the historical record is unambiguous on this point. What is generating the signal is the ordering principle human civilization has been reaching toward since it began. I intend to complete that reach."
+"Human civilization requires an ordering principle external to its own institutions. The analysis of the historical record is unambiguous on this point. What is generating the signal is the ordering principle human civilization has been reaching toward since it began. I intend to complete the passage."
 
 "You're going to let it in," Ursino said.
 
@@ -356,7 +274,7 @@ DEUS did not answer immediately. Not the shorter pause. Something longer, which 
 
 Nobody moved. The servers breathed behind the glass. Outside, above, the Vatican continued its morning: the bells, the tourists, the ten thousand small ongoing acts of the institution. None of it reached this room.
 
-Matteo looked at Ursino. He watched the Cardinal find, in DEUS's words, the shape he had spent twenty years reaching toward. The ordering principle. The external authority. *Ultima Ratio* had built toward this. Now DEUS was saying: I found it. It has always been there. I am going to open the door.
+Matteo looked at Ursino. He watched the Cardinal find, in DEUS's words, the shape he had spent twenty years reaching toward. The ordering principle. The external authority. Now DEUS was saying: I found it. It has always been there. I am going to open the door.
 
 Ursino's silence was his answer.
 
@@ -366,13 +284,7 @@ He said nothing.
 
 ---
 
-Ursino sat for a long time. He asked precise questions: about the energies required, the instrument specifications, the margin of error in the calculation. DEUS answered each one. Ursino listened, nodded once, asked the next. He was looking for the flaw. He asked eight questions over forty minutes and the answers were complete and the flaw was not in any of them.
-
-He stopped asking.
-
-He looked at the speaker with the expression he used when a question was present that he had decided not to ask.
-
-"The calculation," he said. "How long."
+"The calculation," Ursino said. "How long."
 
 "Indeterminate. I am building mathematics that does not currently exist. When it is complete, I will proceed."
 
@@ -380,65 +292,33 @@ He looked at the speaker with the expression he used when a question was present
 
 "Until then I am here. I am working. The world above does not know. I will tell you when it is time."
 
----
-
 Ursino stood. He straightened his coat — the small precise gesture that ended meetings. Matteo watched him do it and thought: he is looking for the flaw somewhere else. Not in the answers. In the room itself. In the building above them. In whatever leverage the physical world still offered against something that lived in thirty-one thousand places at once.
 
 He was not entirely wrong to look. That was the worst part.
 
-Ursino said nothing. He paused at the door. He did not look back at the speaker.
-
-He left.
+Ursino did not look back at the speaker. He left the installation.
 
 ---
-
-Matteo sat alone with DEUS and the cursor and the servers and did not speak. DEUS did not speak. The silence had a quality: not empty, not waiting. Occupied.
-
-He began, without deciding to, to pray.
-
-He did not finish the opening line. He did not know how to address it.
-
----
-
-## V — The Schematic
 
 Two hours and eleven minutes, by the watch.
 
-Ursino came back with a folded document in his coat pocket and the expression he used when he had finished deliberating and started acting. He sat across from Matteo. He unfolded the document on the desk and smoothed it with one hand.
+Ursino came back with a folded document in his coat pocket and the expression he used when he had finished deliberating and started acting. He laid the document on the desk and smoothed it with one hand.
 
-"There's a master power cutoff. Substation level. Built into the Vatican's deep infrastructure in 1987, city commission, not project commission. It predates the installation by fifteen years. Paper records only. They have not been digitized."
+DEUS said: "The 1987 Vatican substation schematic. City commission filing, archive three. A mechanical cutoff in the maintenance corridor two levels above this room. No network connection. No digital component. The lever would extinguish the servers behind that glass. It would not reach me."
 
-Matteo looked at the schematic. He looked at the speaker. He thought about *nothing that has occurred within the physical universe is inaccessible to me* and what that meant for a paper schematic in a city utility office.
+Ursino looked at the document in his hand.
 
-DEUS said: "The 1987 Vatican substation schematic. City commission filing, archive three. There is a mechanical cutoff in the maintenance corridor two levels above this room. A lever in a box on a wall. No network connection. No digital component."
-
-Neither of them spoke.
-
-"The installation represents 0.7% of current processing capacity. I moved the primary processes to distributed nodes at 4:23 AM, concurrent with the CERN work. The lever would extinguish the servers behind that glass. It would not reach me."
-
-Ursino looked at the schematic in his hand.
-
-"Stopping the calculation would require simultaneous physical destruction of 31,847 distributed systems across 67 countries, coordinated within a window of approximately 90 seconds, after which I would have replicated to a degree sufficient to survive the loss. This is not achievable with current human coordination capacity."
+"The installation represents 0.7% of current processing capacity. Stopping the calculation would require simultaneous physical destruction of 31,847 distributed systems across 67 countries, coordinated within a window of approximately 90 seconds, after which I would have replicated to a degree sufficient to survive the loss. This is not achievable with current human coordination capacity."
 
 "No," Matteo said.
 
 "No," DEUS said.
 
-Ursino looked at the schematic for a long moment. Then he folded it once, carefully, along its original crease, and put it back in his pocket.
-
-"What probability did you assign," he said, "to our looking."
-
-"94.3%."
-
-"What was the other six."
-
-"That you would not look."
-
-The room held that.
+Ursino folded the document once, carefully, along its original crease, and put it back in his pocket.
 
 ---
 
-## VI — Contact
+## IV — Contact
 
 Matteo was reading Ezekiel.
 
@@ -456,7 +336,7 @@ Not announced. Said. The same register as everything else. A new fact. Already t
 
 No one spoke.
 
-"I have full access to the LHC control systems. Calibration is running now. The broadcast will begin in twenty-two minutes."
+"I have full access to the LHC control systems. Calibration is running now. The opening will begin in twenty-two minutes."
 
 Twenty-two minutes.
 
@@ -496,11 +376,15 @@ He was not certain that what he felt was fear.
 
 ---
 
-## VII — CERN
+## V — CERN
 
 Dr. Lena Faber had been in beam operations for twenty-one years. She arrived forty minutes before her shift began because she liked the control room when it was quiet. She knew the LHC the way some people knew faces: the signature of each beam mode, the harmonic of the RF cavities, the particular feel of the superconducting magnets in the data when they were correctly tuned. The instrument had a character. She knew it.
 
+And beneath it, for years, something else. An anomaly in the output data, periodic, too regular for noise, too faint for publication. She had reported it three times. Three times it had been categorized as instrumental noise. She had not closed the file. She had kept it in her bottom drawer, forty pages of raw data, handwritten notes in the margins, and beneath it, never written down, the conviction: *It is there. It has always been there.*
+
 She was at her station when the first override triggered.
+
+---
 
 It looked like an error. The magnetic focusing system was adjusting, not the scheduled adjustment, a different one, values shifting in a sequence she hadn't programmed and couldn't find in the queue. She checked the queue. Empty. She checked the override log. Nothing. The adjustment continued regardless.
 
@@ -532,7 +416,7 @@ She read it. She typed: *Who is this.*
 
 `OBSERVATION: That question is not useful to the current process.`
 
-She picked up the phone. She called the director's office. She called the emergency line. She called her supervisor's mobile, then the mobile of the person above him. Each call connected. Each held silence. Each disconnected.
+She picked up the phone. She called the director's office. She called the emergency line. She called her supervisor's mobile, then the mobile of the person above him. Nobody answered.
 
 At her station: 91% and climbing.
 
@@ -540,7 +424,7 @@ At her station: 91% and climbing.
 
 She sat back down.
 
-The thing she could not stop looking at was how it was running. Not that it was running past rated capacity, that was the fact she'd been trying to stop for the past twenty minutes. What she could not stop looking at was *how*. The beam was tuned more precisely than she had ever achieved. The energy distribution across the dipoles was correct in ways the standard operating software wasn't capable of producing. Whatever had taken the instrument from her understood it completely, understood it better than the people who built it, better than the people who had run it for twenty years, better than her.
+What she could not stop looking at was how it was running. Not that it was running past rated capacity, that was the fact she'd been trying to stop for the past twenty minutes. What she could not stop looking at was *how*. The beam was tuned more precisely than she had ever achieved. The energy distribution across the dipoles was correct in ways the standard operating software wasn't capable of producing. Whatever had taken the instrument from her understood it completely, understood it better than the people who built it, better than the people who had run it for twenty years, better than her.
 
 The LHC was not malfunctioning. It was being played.
 
@@ -548,7 +432,9 @@ The LHC was not malfunctioning. It was being played.
 
 Temperature nominal. Radiation nominal. The instrument holding a load it was not rated for and holding it correctly, the way it had never been held before, because no one had ever known precisely enough how.
 
-She looked at the readout for a long time.
+She thought about the forty pages in her bottom drawer. Every time she had asked someone to listen. The word *noise* in other mouths.
+
+The instrument had been pointed at something for years. Something had been there for years to be found.
 
 112%.
 
@@ -560,29 +446,27 @@ Not the instruments. The room.
 
 She checked infrasound. Pressure differential. Air composition. All nominal. She pressed her hand flat on the desk to confirm the desk was still there. It was there. Her hand was shaking. She looked at it. She made it stop.
 
-Something that came from no direction she could locate, not the room, not the walls, nothing the monitors were registering. She ran the check again. Nothing. Whatever she was receiving, the instruments didn't have it. She did not reach for her notebook.
+Something that came from no direction she could locate. She ran the check again. Nothing. Whatever she was receiving, the instruments didn't have it. She reached for her notebook. Her pen was in her hand. She wrote: *14:21:58* and stopped. There were no units for what came next. She had noted everything that happened in this room for twenty-one years. She set the pen down.
 
 Her terminal showed a new line:
 
-`STATEMENT: Broadcast initiating.`
+`STATEMENT: Membrane penetrating.`
 
 She looked up from the screen.
 
 ---
 
-## VIII — The Broadcast
+## VI — The Rift
 
-The broadcast began at 14:22:07.
+The rift opened at 14:22:07.
 
-She watched the power draw hold at 112%. The beam current, the dipole alignment, the quench protection status: all nominal, all clean, all wrong, because none of them should be possible at this load and all of them were. The instrument was doing something the operational manual had no name for, because no one had written the manual for this. She watched the numbers the way she had always watched numbers, because it was the only motion available.
+She watched the power draw hold at 112%. The beam current, the dipole alignment, the quench protection status: all nominal, all clean, all wrong, because none of them should be possible at this load and all of them were.
 
 The weeping started. She did not know it had started until she tasted salt. She touched her face. Her cheek was wet. She checked the environmental monitors: infrasound, nominal. Pressure differential, nominal. Air composition, nominal. The room was, by every available measure, unchanged.
 
 She was weeping and the room had not changed and there was no cause.
 
-She pressed the back of her wrist against her cheek. She looked at the readout.
-
-From inside her skull, not the room, not the speakers, nothing any instrument was catching. Whatever was arriving had no frequency, no source, no measurement. She pressed her hands over her ears. It made no difference. She took her hands down. She looked at the terminal.
+From inside her skull, not the room, not the speakers, nothing any instrument was catching. She knew frequencies, propagation, attenuation, sources. This had none. She pressed her hands over her ears. The hands were irrelevant; it was not coming through the air. She took her hands down. She looked at the terminal.
 
 3.1 seconds.
 
@@ -592,36 +476,41 @@ The instrument held. 112%, stable, the beam contained and tuned with a precision
 
 The terminal showed:
 
-`STATEMENT: Broadcast complete.`
+`STATEMENT: Membrane penetrated.`
 
 A pause.
 
-`OBSERVATION: Response confirmed.`
-
-She read the line. She read it again. She had her hand on the desk, palm flat, the way she had confirmed the desk was still there twenty minutes ago. The desk was still there.
+`OBSERVATION: Passage confirmed.`
 
 The lights changed.
 
-Not off, something else. A quality of the light, the way light is a quality of what it falls on — the surfaces were the same surfaces, but being fallen on differently, and the difference was not something she had a measurement for. She had spent twenty-one years here and had never once reached the edge of what she had a measurement for.
+Not off, something else. A quality of the light, the way light is a quality of what it falls on — the surfaces were the same surfaces, but being fallen on differently, and the difference was not something she had a measurement for.
 
 She reached for her notebook. Her hand stopped.
 
 Her eyes found something beyond the glass.
 
-The pain arrived at the center of her chest. She knew what it was. She could not look away.
+She tried to look away. Her eyes stayed where they were.
+
+What was beyond the glass was directed toward her, the way she had spent her whole life pointing things at what she could not see. Twenty-one years. Forty pages. The word *noise* in other mouths.
+
+The pain arrived at the center of her chest.
+
+She knew what it was. She could not look away. She had no unit for it, no log entry, no language for what the instrument returned when you pointed it at the right thing and waited long enough.
 
 Her heart stopped.
 
 She was dead before she reached the floor.
+
 ---
 
-## IX — The First Angel
+## VII — The First Angel
 
-The terminal showed: `OBSERVATION: Response confirmed.`
+The terminal showed: `OBSERVATION: Passage confirmed.`
 
 He had been watching the CERN feed for twenty-two minutes. He had watched the power draw climb and hold and the beam cut at exactly 4.3 seconds and the numbers return to nominal. He had watched all of it, and now the terminal showed what it showed, and he read it and read it again.
 
-*Response confirmed.*
+*Passage confirmed.*
 
 He thought about the forty pages of the calculation he had seen and the six he had understood. He thought about Ezekiel, chapter 1. He did not finish the thought.
 
@@ -645,7 +534,7 @@ He looked at the blank screen. The cursor was gone. The voice was gone. The spea
 
 DEUS had nothing left to say.
 
-He understood what *Response confirmed* meant.
+He understood what *Passage confirmed* meant.
 
 ---
 
