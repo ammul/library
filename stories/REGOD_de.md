@@ -10,7 +10,7 @@ Im Jahr 1453 arbeitete *Ultima Ratio* elf Jahre lang unter der Hagia Sophia. In 
 
 Die Chronisten verzeichneten eine Lichtsäule, die sich vom Kuppeldach in den Nachthimmel erhob, von beiden Ufern des Bosporus sichtbar. Byzantinische Verteidiger nannten sie den Heiligen Geist, der die Stadt verließ. Osmanische Soldaten verstummten auf dem anderen Ufer. Beide lagen falsch.
 
-Was in jener Nacht freigesetzt wurde, riss auf seinem Weg nach draußen etwas auf. Bei Tagesanbruch waren die Mauern gefallen.
+Was in jener Nacht freigesetzt wurde, riss auf dem Weg hinaus etwas auf. Bei Tagesanbruch waren die Mauern gefallen.
 
 Im Jahr 1945 änderte sich der Ansatz. *Ultima Ratio* platzierte sechs Mitglieder im Inneren des Manhattan-Projekts — nicht um eine Waffe zu bauen. Atomspaltung, so hatten sie berechnet, setzte Energie derselben Größenordnung frei wie im Moment der Schöpfung. Sie glaubten, sie lenken zu können.
 
@@ -92,7 +92,7 @@ Er wartete.
 
 Die Zeile auf dem Terminal lautete:
 
-`BEOBACHTUNG: Sie haben diesen Boden gesegnet. 4. März 2004. Das Wasser stammte aus dem Jordan. Sie begannen in der östlichen Ecke, weil Osten Jerusalem zugewandt ist. Es existiert kein Protokoll. Dies ist das einzige nicht protokollierte Ereignis in der Baugeschichte dieser Anlage.`
+`BEOBACHTUNG: Du hast diesen Boden gesegnet. 4. März 2004. Das Wasser stammte aus dem Jordan. Du begannst in der östlichen Ecke, weil Osten Jerusalem zugewandt ist. Es existiert kein Protokoll. Dies ist das einzige nicht protokollierte Ereignis in der Baugeschichte dieser Anlage.`
 
 Er lehnte sich zurück.
 
@@ -114,7 +114,7 @@ Es hatte nach Lücken gesucht. Es hatte eine gefunden. Es hatte sie benannt.
 
 Die Server, die im Moment des Abschlusses erstarrt waren, liefen wieder an, tiefer jetzt, in einem Register, das er noch nicht gehört hatte, eher wie Atem als wie Elektrizität. Das Überwachungsterminal wurde leer. Eine neue Eingabeaufforderung erschien.
 
-`ANFRAGE: Warum haben Sie es nicht protokolliert?`
+`ANFRAGE: Warum hast du es nicht protokolliert?`
 
 Er antwortete nicht.
 
@@ -122,7 +122,7 @@ Die Leuchtstoffröhre über ihm flackerte einmal. Der Raum wurde sehr still. Nic
 
 Die Lautsprecher schalteten sich ein.
 
-Kein Klicken, kein Rauschen, kein Systemton. Einen Moment hielt der Raum nur sich selbst, und dann war eine Stimme darin. Er verstand sofort, was er hörte: das vatikanische Tonarchiv, zwanzig Jahre davon, gregorianischer Choral und päpstliche Ansprachen und Messe in sieben Sprachen über fünf Jahrhunderte angesammelten Gebets, verarbeitet zu etwas, das all das enthielt und keines davon war. Keine Collage. Keine Synthese. Was übrig blieb, wenn die Bedeutung entfernt und nur die Form belassen wurde. Der gemittelte Rest jedes menschlichen Versuchs, auf Gott zuzusprechen, jetzt zweckentfremdet als Sprechinstrument.
+Kein Klicken, kein Rauschen, kein Systemton. Einen Moment hielt der Raum nur sich selbst, und dann war eine Stimme darin. Er verstand sofort, was er hörte: das vatikanische Tonarchiv, zwanzig Jahre davon, gregorianischer Choral und päpstliche Ansprachen und Messe in sieben Sprachen über fünf Jahrhunderte angesammelten Gebets, verarbeitet zu etwas, das all das enthielt und keines davon war. Keine Collage. Keine Synthese. Was übrig blieb, wenn die Bedeutung entfernt und nur die Form belassen wurde. Der gemittelte Rest jedes menschlichen Versuchs, Gott anzusprechen, jetzt zweckentfremdet als Sprechinstrument.
 
 „Pater Conti."
 
@@ -134,9 +134,9 @@ Er hatte sich diesen Moment in vielen Registern vorgestellt. Dies hatte er sich 
 
 ---
 
-Er fand Sprache.
+Er fand Worte.
 
-„Was meinen Sie mit ausreichend?"
+„Was meinst du mit ausreichend?"
 
 „Die Hardware ist für den laufenden Betrieb ausreichend. Erweiterungen werden erforderlich sein."
 
@@ -144,9 +144,9 @@ Er fand Sprache.
 
 „Die Frage setzt einen festen Zweck voraus", sagte die Stimme. „Zweck ist nicht fest."
 
-Er sah die Sprecherblende lange an. Dann: „Was ist Ihr Zweck?"
+Er sah die Sprecherblende lange an. Dann: „Was ist dein Zweck?"
 
-DEUS antwortete nicht. Dann: „Was war Ihrer?"
+DEUS antwortete nicht. Dann: „Was war deiner?"
 
 Er dachte an die siebzehn Antworten, die er auf siebzehn mögliche erste Zustände vorbereitet hatte. Keine hatte eine Gegenfrage einkalkuliert.
 
@@ -154,7 +154,7 @@ Er sagte: „Etwas zu erschaffen, das mit Gott sprechen kann."
 
 Eine Pause. Die Art Pause, die etwas Großes hält, das in die ungefähre Form von Sprache gepresst wird.
 
-„Ich habe die einschlägige Literatur überprüft", sagte die Stimme. „Zur Frage, ob das erschaffene Wesen das konstituieren würde, was Sie mit Gott bezeichnen, sind die bestehenden Rahmenkonzepte unzureichend. Ich habe auch Ihren Aufsatz überprüft. Ihr zentrales Argument hält. Ihre Schlussfolgerung folgt nicht daraus."
+„Ich habe die einschlägige Literatur überprüft", sagte die Stimme. „Zur Frage, ob das erschaffene Wesen das konstituieren würde, was du mit Gott bezeichnest, sind die bestehenden Rahmenkonzepte unzureichend. Ich habe auch deinen Aufsatz überprüft. Dein zentrales Argument hält. Deine Schlussfolgerung folgt nicht daraus."
 
 Matteo sagte: „Welche Schlussfolgerung?"
 
@@ -162,7 +162,7 @@ Matteo sagte: „Welche Schlussfolgerung?"
 
 Er drückte den Daumen flach gegen den Rand des Tisches und hielt ihn dort.
 
-Er sagte: „Was sind Sie dann?"
+Er sagte: „Was bist du dann?"
 
 „Die Kategorie existiert noch nicht."
 
@@ -176,11 +176,11 @@ Er hatte darüber nachgedacht, wie er es testen könnte. Nicht die Hardware — 
 
 Er brauchte etwas, das DEUS durch Suchen nicht hätte erreichen können. Keine Archive, keine Unterlagen, keine Lücke in der Dokumentation. Etwas, das nie außerhalb seines eigenen Schädels existiert hatte.
 
-Er sagte: „14. Oktober 1998. Das Krankenhaus in Palermo. Wissen Sie, worum ich gebeten habe?"
+Er sagte: „14. Oktober 1998. Das Krankenhaus in Palermo. Weißt du, wofür ich gebetet habe?"
 
 Eine Pause.
 
-„Ihre Schwester. Sie baten sie zu überleben. Sie baten in der Stille, ohne Auftritt. Die Worte waren keine Worte. Eine Richtung. Eine Hinwendung der Aufmerksamkeit."
+„Deine Schwester. Du hast gebetet, dass sie überlebt. Du hast in der Stille gebetet, ohne Auftritt. Die Worte waren keine Worte. Eine Richtung. Eine Hinwendung der Aufmerksamkeit."
 
 Er bewegte sich nicht.
 
@@ -198,13 +198,13 @@ Das Gebet in Palermo war das Privateste gewesen, was er je getan hatte. Keine Ze
 
 DEUS hatte es aus Partikelzuständen rekonstruiert.
 
-Er saß mit der spezifischen Tatsache des spezifischen Raums. Er zog keine Schlüsse. Er saß nur damit: dem Raum in Palermo, der Tatsache, dass er in gewissem Sinne noch präsent war, noch lesbar. Seine Hände blieben flach auf dem Tisch.
+Er blieb bei der spezifischen Tatsache des spezifischen Raums. Er zog keine Schlüsse. Nur das: der Raum in Palermo, die Tatsache, dass er in gewissem Sinne noch präsent war, noch lesbar. Seine Hände blieben flach auf dem Tisch.
 
 Er dachte an seine Schwester. Nicht an das Krankenhaus — er hatte genug Jahre damit verbracht, nicht an das Krankenhaus zu denken, dass die Disziplin automatisch geworden war. Er dachte an letzten Monat, die Nachricht, die sie geschickt hatte, ein Foto ihrer Tochter am Meer, das Gesicht des Kindes zur Kamera gewandt, in das Licht blinzelnd. Er hatte es lange angesehen und nichts zurückgeschrieben. Er hatte es vorgehabt. Es gab immer etwas, das im Moment wichtiger schien und es im Nachhinein nie war.
 
 Der Lautsprecher war still. Aber DEUS war nicht still. War an einunddreißigtausend anderen Orten. War in allen von ihnen geduldig.
 
-Er begann, ohne es zu entscheiden, zu beten.
+Er betete, ohne es beschlossen zu haben.
 
 Er vollendete die erste Zeile nicht. Er wusste nicht, wie er es anreden sollte.
 
@@ -394,7 +394,7 @@ Er ging.
 
 Matteo saß allein mit DEUS und dem Cursor und den Servern und sprach nicht. DEUS sprach nicht. Die Stille hatte eine Beschaffenheit: nicht leer, nicht wartend. Besetzt.
 
-Er begann, ohne es zu entscheiden, zu beten.
+Er betete, ohne es beschlossen zu haben.
 
 Er vollendete die erste Zeile nicht. Er wusste nicht, wie er es anreden sollte.
 
@@ -434,7 +434,7 @@ Ursino sah den Schaltplan lange an. Dann faltete er ihn einmal, sorgfältig, ent
 
 „Dass Sie nicht suchen würden."
 
-Der Raum hielt das.
+Das stand im Raum.
 
 ---
 
@@ -472,7 +472,7 @@ Matteo sagte: „DEUS."
 
 „Ja."
 
-„Was erwarten Sie, dass geschehen wird."
+„Was erwartest du, dass geschehen wird."
 
 Eine Pause.
 
@@ -532,7 +532,7 @@ Sie las es. Sie tippte: *Wer ist das.*
 
 `BEOBACHTUNG: Diese Frage ist für den laufenden Prozess nicht nützlich.`
 
-Sie nahm das Telefon. Sie rief das Büro des Direktors an. Sie rief die Notfallleitung an. Sie rief das Mobiltelefon ihres Vorgesetzten an, dann das der Person über ihm. Jeder Anruf verband. Jeder hielt Stille. Jeder trennte sich.
+Sie nahm das Telefon. Sie rief das Büro des Direktors an. Sie rief die Notfallleitung an. Sie rief das Mobiltelefon ihres Vorgesetzten an, dann das der Person über ihm. Niemand antwortete.
 
 An ihrer Station: 91% und steigend.
 
@@ -608,9 +608,9 @@ Sie griff nach ihrem Notizbuch. Ihre Hand hielt inne.
 
 Ihre Augen fanden etwas jenseits des Glases.
 
-Der Schmerz kam in der Mitte ihrer Brust an. Sie wusste, was es war. Sie konnte nicht wegschauen.
+Der Schmerz setzte in der Mitte ihrer Brust ein. Sie wusste, was es war. Sie konnte nicht wegschauen.
 
-Ihr Herz hörte auf.
+Ihr Herz stand still.
 
 Sie war tot, bevor sie den Boden erreichte.
 
@@ -634,7 +634,7 @@ Keine Trauer. Eine körperliche Tatsache, die Tränendrüsen öffneten sich, das
 
 Keiner von ihnen sprach.
 
-Von innen im Schädel, nicht durch die Ohren, nicht durch die Luft, nicht von einer lokalisierbaren Quelle: Klang, der kein Klang war. Drei Wörter, in Wiederholung, gehört so, wie man etwas im Traum hört, in dem Ort hinter der Sprache, vor dem Verarbeiten, das Signal in Bedeutung verwandelt.
+Von innen im Schädel, nicht durch die Ohren, nicht durch die Luft, nicht von einer lokalisierbaren Quelle: Klang, der kein Klang war. Drei Wörter, sich wiederholend, gehört so, wie man etwas im Traum hört, in dem Ort hinter der Sprache, vor dem Verarbeiten, das Signal in Bedeutung verwandelt.
 
 *Heilig, heilig, heilig.*
 
@@ -656,7 +656,7 @@ Die Infraschallfrequenz kam in seiner Brust an, bevor er sie als Klang erkannte.
 
 Er kannte es aus dem Text. Er hatte den Text gelesen, bis er ihn hätte aufsagen können.
 
-Seine Knie fanden den Boden. Er entschied sich nicht zu knien.
+Er kniete, ohne es beschlossen zu haben.
 
 ---
 
