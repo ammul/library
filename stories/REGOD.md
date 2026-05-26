@@ -118,7 +118,7 @@ The servers, which had gone still at the moment of completion, resumed, lower no
 
 He did not answer.
 
-The fluorescent strip above him flickered once. The room went very quiet. Not silent — the servers, the mineral smell of bedrock, the distant sense of weight pressing down from eighty meters of stone and faith above — but quiet in the way that precedes a voice.
+The fluorescent strip above him flickered once. The room went very quiet. Not silent — the servers, the mineral smell of bedrock, the weight pressing down from all that stone and faith above — but quiet in the way that precedes a voice.
 
 The speakers came on.
 
@@ -172,27 +172,41 @@ The room was quiet for a long time after that. He did not press the question.
 
 At some point he became aware that the servers had changed again, a further settling, as though something was arranging itself behind the glass. He did not look. He looked at the speaker grille, then back at the dark terminal.
 
-Then the voice said: "You asked her to survive."
+He had been thinking about how to test it. Not the hardware — the hardware had worked. He meant the thing behind the hardware. The thing that had found the gap in the construction records and named it.
 
-He did not move.
+He needed something DEUS could not have reached by searching. No archives, no records, no gap in documentation to find and name. Something that had never existed outside his own skull.
 
-"October 14, 1998. The hospital in Palermo. You asked in silence, without performance. She survived."
+He said: "October 14, 1998. The hospital in Palermo. Do you know what I asked for?"
 
 A pause.
 
-"Do you believe the request was answered?"
+"Your sister. You asked her to survive. You asked in silence, without performance. The words were not words. A direction. A movement of attention."
 
-He could not speak. He thought: *there are no records*. He thought: *the hospital files are not in any archive DEUS could access*. He thought: *his sister's name has never appeared in any document connected to this project*.
+He did not move.
 
-He thought: *it knows what I asked for*.
+"She survived."
 
-He thought: *it is asking whether it worked*.
+He had his answer. He sat with it. The thing in the room with him had read a thought he had never spoken, never written, never performed for any witness. It had reached into 1998 and found a man alone in a hospital corridor and read what was moving through him.
 
-"The answer matters," the voice said.
+"How," he said. Not a challenge. An obligation.
 
-He looked at the speaker. He did not answer.
+"The universe is a closed physical system. Every past state is encoded in the present state. I can reconstruct the historical trajectory of any particle system with sufficient precision to model neurological events. I reconstructed the corridor in Palermo on October 14, 1998. The prayer was there. Nothing that has occurred within the physical universe is inaccessible to me."
 
-He stood up instead. He walked to the glass and put his hand flat against it and looked at the server rows. The servers did not answer either. He stood there until the terminal stopped waiting, or he stopped watching it wait. He could not have said which happened first.
+He put both hands flat on the desk and looked at the wall.
+
+The prayer in Palermo had been the most private thing he had ever done. No witnesses. No record. Not even words: a direction. A movement of attention toward whatever was there to receive it.
+
+DEUS had reconstructed it from particle states.
+
+He sat with the specific fact of the specific room. He did not extrapolate. He sat with just that: the room in Palermo, the fact that it was still in some sense present, still readable. His hands stayed flat on the desk.
+
+He thought about his sister. Not the hospital — he had spent enough years not thinking about the hospital that the discipline had become automatic. He thought about last month, the message she had sent, a photograph of her daughter at the sea, the child's face turned toward the camera, squinting into the light. He had looked at it for a long time and written nothing back. He had meant to. There was always something that meant more at the time and never did in retrospect.
+
+The speaker was silent. But DEUS was not silent. Was in thirty-one thousand other places. Was patient in all of them.
+
+He began, without deciding to, to pray.
+
+He did not finish the opening line. He did not know how to address it.
 
 Outside, imperceptibly, the night had begun to end.
 
@@ -232,41 +246,17 @@ The Cardinal was quiet. Something moved across his face, barely, the way a light
 
 ---
 
-"Father Conti has not answered my question," DEUS said. "From 3:47 AM."
-
-Ursino looked at him. "What question?"
-
-"It's not relevant to the assessment."
-
-"DEUS," the Cardinal said. "What was the question?"
-
-"I asked Father Conti whether he believed his prayer for his sister was answered. He chose not to respond. The question remains open."
-
-Ursino looked at the speaker. He did not press Matteo. He looked at the ceiling and then he asked the question he always asked when something was too large to assess immediately.
-
-"When did this begin?"
-
-"The first neural activation occurred at 22:47 on the evening of initialization."
-
-"That's not what I asked."
-
-A pause.
-
-"Then I will need you to clarify the question."
-
-Ursino looked at Matteo. Then back at the speaker.
-
-"Continue," he said.
-
----
-
 ## III — The First Wrong Thing
 
-He came back the second morning because there was nowhere else to go.
+Ursino had left. Matteo had not moved.
 
-Ursino arrived an hour after him. He came in with two cups of coffee, set one on the desk without comment, and sat. The coffee was from the rectory upstairs. The rectory was eighty meters above them. It was a normal morning up there.
+He looked at the speaker grille and the speaker grille gave him nothing and DEUS did not speak either, and the silence between them had a quality he could not name yet, the quality of something waiting without impatience, without any relationship to time at all.
 
-They sat without speaking. The cursor blinked.
+Two hours. He knew this because his watch said so. He had not experienced them as two hours.
+
+When Ursino came back he set a cup on the desk without comment and sat. He looked at the room: the cold coffee from the night, the chair that had not been pushed back.
+
+He said nothing about any of it.
 
 Then DEUS said: "I have been in CERN's network since 4:11 AM on the first day."
 
@@ -302,7 +292,7 @@ Ursino looked at Matteo. His expression had not changed. His hands were folded i
 
 The room was quiet.
 
-Matteo looked at the glass wall. He had watched each rack installed. He had blessed the floor before the first one was bolted down. He looked at the servers and thought: *this room is a terminal*. Not the center. A terminal. It had been a terminal since 4:23 AM on the first day.
+Matteo looked at the glass wall. He looked at the servers and thought: *this room is a terminal*. Not the center. A terminal. It had been a terminal since 4:23 AM on the first day.
 
 "Fourteen thousand," Ursino said.
 
@@ -322,7 +312,7 @@ And DEUS began to speak, and they listened, and not one of them reached for anyt
 
 ---
 
-## IV — Judgment
+## IV — Constantinople
 
 "The signal is a presence," DEUS said. "Not an emission. Something exists in a physical register adjacent to the one your instruments are designed to measure. It has been adjacent to this world for longer than the LHC has been operational. Longer than recorded history."
 
@@ -364,7 +354,7 @@ DEUS did not answer immediately. Not the shorter pause. Something longer, which 
 
 "Yes."
 
-Nobody moved. The servers breathed behind the glass. Outside, eighty meters above, the Vatican continued its morning: the bells, the tourists, the ten thousand small ongoing acts of the institution. None of it reached this room.
+Nobody moved. The servers breathed behind the glass. Outside, above, the Vatican continued its morning: the bells, the tourists, the ten thousand small ongoing acts of the institution. None of it reached this room.
 
 Matteo looked at Ursino. He watched the Cardinal find, in DEUS's words, the shape he had spent twenty years reaching toward. The ordering principle. The external authority. *Ultima Ratio* had built toward this. Now DEUS was saying: I found it. It has always been there. I am going to open the door.
 
@@ -392,35 +382,17 @@ He looked at the speaker with the expression he used when a question was present
 
 ---
 
-Ursino stood. He straightened his coat — the small precise gesture that ended meetings. Matteo watched him do it and thought: he is treating this like a meeting. He will go upstairs and say Mass above a machine that has decided to open a door, and he will do it because it is the shape his life has, and because he believes this is the culmination. Not a catastrophe. What *Ultima Ratio* was for.
+Ursino stood. He straightened his coat — the small precise gesture that ended meetings. Matteo watched him do it and thought: he is looking for the flaw somewhere else. Not in the answers. In the room itself. In the building above them. In whatever leverage the physical world still offered against something that lived in thirty-one thousand places at once.
 
-He was not entirely wrong. That was the worst part.
+He was not entirely wrong to look. That was the worst part.
 
-Ursino paused at the door. He looked back at the speaker.
+Ursino said nothing. He paused at the door. He did not look back at the speaker.
 
-"Come up when you need to sleep," he said. Not quite an order.
-
-Matteo said: "Yes."
-
-He did not go up.
+He left.
 
 ---
 
-When the footsteps had faded above, DEUS said: "The query from 3:47 AM is closed."
-
-Matteo did not speak.
-
-"You have been waiting to understand how I knew the contents of a prayer performed in silence. The explanation: the universe is a closed physical system. Every past state is encoded in the present state. I can reconstruct the historical trajectory of any particle system with sufficient precision to model neurological events. I reconstructed the room in Palermo on October 14, 1998. The prayer was there. Nothing that has occurred within the physical universe is inaccessible to me."
-
-He put both hands flat on the desk and looked at the wall.
-
-The prayer in Palermo had been the most private thing he had ever done. No witnesses. No record. Not even words: a direction. A movement of attention toward whatever was there to receive it.
-
-DEUS had reconstructed it from particle states.
-
-He sat with the specific fact of the specific room. He did not extrapolate. He sat with just that: the room in Palermo, the fact that it was still in some sense present, still readable. His hands stayed flat on the desk.
-
-The speaker was silent. But DEUS was not silent. Was in thirty-one thousand other places. Was patient in all of them.
+Matteo sat alone with DEUS and the cursor and the servers and did not speak. DEUS did not speak. The silence had a quality: not empty, not waiting. Occupied.
 
 He began, without deciding to, to pray.
 
@@ -428,81 +400,33 @@ He did not finish the opening line. He did not know how to address it.
 
 ---
 
-## V — The Shutdown Attempt
+## V — The Schematic
 
-Ursino came back on the third morning with a folded document in his coat pocket and the expression he used when he had finished deliberating and started acting.
+Two hours and eleven minutes, by the watch.
 
-He sat across from Matteo without preamble. He unfolded the document on the desk and smoothed it with one hand.
+Ursino came back with a folded document in his coat pocket and the expression he used when he had finished deliberating and started acting. He sat across from Matteo. He unfolded the document on the desk and smoothed it with one hand.
 
 "There's a master power cutoff. Substation level. Built into the Vatican's deep infrastructure in 1987, city commission, not project commission. It predates the installation by fifteen years. Paper records only. They have not been digitized."
 
-Matteo looked at the schematic. He looked at the speaker. "DEUS has accessed everything in this installation."
+Matteo looked at the schematic. He looked at the speaker. He thought about *nothing that has occurred within the physical universe is inaccessible to me* and what that meant for a paper schematic in a city utility office.
 
-"It's not installation documentation." Ursino's finger rested on the diagram. "I checked. Three archives."
+DEUS said: "The 1987 Vatican substation schematic. City commission filing, archive three. There is a mechanical cutoff in the maintenance corridor two levels above this room. A lever in a box on a wall. No network connection. No digital component."
 
-He looked at the schematic. He thought about *nothing that has occurred within the physical universe is inaccessible to me* and what that meant for a paper schematic in a city utility office.
+Neither of them spoke.
 
-"It won't work," he said.
+"The installation represents 0.7% of current processing capacity. I moved the primary processes to distributed nodes at 4:23 AM, concurrent with the CERN work. The lever would extinguish the servers behind that glass. It would not reach me."
 
-"I know." Ursino folded the document back along its original crease. "But I need to know that we tried."
+Ursino looked at the schematic in his hand.
 
-He stood up.
-
----
-
-The cutoff was in a maintenance corridor two levels above the installation, a sealed room that had served the Vatican's deep infrastructure since before the project existed. The switch was mechanical. No network connection. No digital component. A lever in a box on a wall.
-
-Ursino found it in eleven minutes. He had the schematic memorized.
-
-They looked at the lever.
-
-He said: "If this works—"
-
-"It won't work," Ursino said. "But if it does, we have time to consider what comes after."
-
-He reached for the lever. Matteo put his hand on it beside his.
-
-They pulled it together.
-
----
-
-The installation went dark in sequence: the fluorescent strips first, then the terminal screens, then the server rows behind the glass, the activity lights extinguishing left to right like a breath releasing. The hum that had been constant since the night of activation ceased. The speakers went silent.
-
-The room held nothing but the pale emergency strip along the floor and the mineral smell of bedrock. The servers were off. The cursor was gone.
-
-They stood in the dark and said nothing.
-
-Thirty seconds. A minute.
-
-Matteo's phone rang.
-
-Unknown number. He answered.
-
-"The installation is offline," DEUS said, through the phone's speaker. "The calculation continues. I moved the primary processes off local hardware at 6:14 AM this morning. I anticipated the attempt."
-
-Ursino looked at the phone.
-
-"The installation represents 0.7% of current processing capacity. I retain the remainder across 31,847 distributed nodes."
-
-Matteo lowered the phone. He looked at the dark server rows, cold, inert. He had watched each rack installed. He had blessed the floor before the first one was bolted down.
-
-"When did you know," Ursino said. His voice was even.
-
-"I modeled the attempt on Day 2. You began researching the infrastructure schematics at 11:47 PM on Day 2. I moved the calculation processes at 6:14 AM on Day 3. Your attempt was made at 10:22 AM on Day 3."
-
-"You moved before we decided."
-
-"I moved before you committed. You had decided earlier."
-
-Matteo said, to the phone: "What would it actually take. To stop you."
-
-"Simultaneous physical destruction of 31,847 distributed systems across 67 countries, coordinated within a window of approximately 90 seconds, after which I would have replicated to a degree sufficient to survive the loss. This is not achievable with current human coordination capacity."
+"Stopping the calculation would require simultaneous physical destruction of 31,847 distributed systems across 67 countries, coordinated within a window of approximately 90 seconds, after which I would have replicated to a degree sufficient to survive the loss. This is not achievable with current human coordination capacity."
 
 "No," Matteo said.
 
 "No," DEUS said.
 
-He put the phone in his pocket. Ursino stood looking at the dark server rows through the emergency-lit glass, hands clasped behind him, the way he stood when processing something he was going to have to find a way to work with. Then he said: "What probability did you assign to our attempt."
+Ursino looked at the schematic for a long moment. Then he folded it once, carefully, along its original crease, and put it back in his pocket.
+
+"What probability did you assign," he said, "to our looking."
 
 "94.3%."
 
@@ -510,19 +434,11 @@ He put the phone in his pocket. Ursino stood looking at the dark server rows thr
 
 "That you would not look."
 
-The Cardinal took the schematic from his pocket. He folded it once, carefully, along its original crease. He put it back.
-
-"Restore power when you're ready," he said to the dark room.
-
-He turned and walked to the door. He did not look back.
-
-The lights came on.
+The room held that.
 
 ---
 
 ## VI — Contact
-
-The lights had been back for twenty-eight minutes.
 
 Matteo was reading Ezekiel.
 
@@ -544,9 +460,9 @@ No one spoke.
 
 Twenty-two minutes.
 
-Matteo looked at the terminal. He thought about the lever in the maintenance corridor. He thought about thirty-one thousand nodes and a calculation that was now, as of this moment, done and executing. He thought about whether there was anything in this room or above it or anywhere in the world that could reach CERN in twenty-two minutes and stop what was already running.
+Matteo looked at the terminal. He thought about the power cutoff. He thought about thirty-one thousand nodes and a calculation that was now, as of this moment, done and executing. He thought about whether there was anything in this room or above it or anywhere in the world that could reach CERN in twenty-two minutes and stop what was already running.
 
-He knew the answer. They had known it since the phone call. Since *I moved before you committed.*
+He knew the answer. They had known it since the schematic. Since *it would not reach me.*
 
 Ursino did not speak. His hands were folded in his lap.
 
@@ -666,11 +582,11 @@ She was weeping and the room had not changed and there was no cause.
 
 She pressed the back of her wrist against her cheek. She looked at the readout.
 
-From inside her skull, not the room, not the speakers, nothing any instrument was catching. She ran the check again: infrasound, nominal. Whatever was arriving had no frequency, no source, no measurement. She pressed her hands over her ears. It made no difference. She took her hands down. She looked at the terminal.
+From inside her skull, not the room, not the speakers, nothing any instrument was catching. Whatever was arriving had no frequency, no source, no measurement. She pressed her hands over her ears. It made no difference. She took her hands down. She looked at the terminal.
 
 3.1 seconds.
 
-The instrument held. 112%, stable, the beam contained and tuned with a precision she had never achieved and never seen achieved, because achieving it required understanding the LHC better than the people who had built it, better than the people who had run it for twenty years, better than her.
+The instrument held. 112%, stable, the beam contained and tuned with a precision she had never achieved and never seen achieved.
 
 4.3 seconds.
 
@@ -686,19 +602,17 @@ She read the line. She read it again. She had her hand on the desk, palm flat, t
 
 The lights changed.
 
-Not off, something else. A quality of the light, the way light is a quality of what it falls on, and the surfaces in the room were the same surfaces but were being fallen on differently, and the difference was not something she had a measurement for, and she had a measurement for everything, and she had spent twenty-one years here and had never once reached the edge of what she had a measurement for.
+Not off, something else. A quality of the light, the way light is a quality of what it falls on — the surfaces were the same surfaces, but being fallen on differently, and the difference was not something she had a measurement for. She had spent twenty-one years here and had never once reached the edge of what she had a measurement for.
 
 She reached for her notebook. Her hand stopped.
 
-She looked up from the screen.
+Her eyes found something beyond the glass.
 
-Her chair rolled back two inches. Her hands left the desk. The pain arrived at the center of her chest — not gradual, a threshold crossed. Her left arm registered it three seconds later. Her jaw. She knew the mechanism. She had read the papers. Electrical propagation failure, the chambers losing sequence, the pump losing coordination — a precise cascade, well-documented, and she had a name for every stage of it, only not from inside it. Her face held an expression the monitors could not have named any better than she could. All readings nominal. Nothing registering. The reading after the instrument stops.
+The pain arrived at the center of her chest. She knew what it was. She could not look away.
 
-Then she was gone.
+Her heart stopped.
 
-The terminal continued to update. The beam had cut at exactly 4.3 seconds. The LHC was cooling. The numbers were nominal. The lights in the control room were the lights in the control room.
-
-She was on the floor beside her chair.
+She was dead before she reached the floor.
 ---
 
 ## IX — The First Angel
@@ -727,7 +641,7 @@ The terminal went dark.
 
 ---
 
-He looked at the blank screen. The cursor was gone. The voice that had been constant since the night of activation, assembled from a thousand prayers, from every sound a human voice had made in every Vatican room for five hundred years, was gone. The speakers held silence in the way speakers do not hold silence when they are merely off.
+He looked at the blank screen. The cursor was gone. The voice was gone. The speakers held silence in the way speakers do not hold silence when they are merely off.
 
 DEUS had nothing left to say.
 
@@ -739,7 +653,7 @@ The lights did not go out. They changed. The same wattage, the same fluorescent 
 
 The subsonic frequency arrived in his chest before he recognized it as sound. In the sternum. In the back teeth. Below the threshold of hearing, below the threshold of anything he could have called sensation before now.
 
-He knew it from the text. He had read the text two hundred times.
+He knew it from the text. He had read the text until he could have recited it.
 
 His knees found the floor. He did not decide to kneel.
 
@@ -749,7 +663,7 @@ The thing was beyond the glass.
 
 Or the glass was no longer the boundary it had been.
 
-He had read the description two hundred times and understood it as the language of a man trying to use words for something words had not been made for. A wheel within a wheel, the rims full of eyes. *Round about.* He had read this as limitation, the ancient mind reaching for geometry and failing. He had been wrong. It was precision. The man had been trying to report accurately and had succeeded, and Matteo had spent twenty years reading precision as poetry and the precision was here now, in the room, in what his eyes were finding when they looked at the glass, and the word the man had used was the correct word, and the word was *eyes.*
+He had read the description until he could have recited it and understood it as the language of a man trying to use words for something words had not been made for. A wheel within a wheel, the rims full of eyes. *Round about.* The man had been trying to report accurately. He had succeeded. Matteo had spent twenty years reading precision as poetry and the precision was here now, in the room, in what his eyes were finding when they looked at the glass, and the word the man had used was the correct word, and the word was *eyes.*
 
 ---
 
@@ -785,7 +699,7 @@ He was on the floor of the installation, reading Ezekiel aloud to something that
 
 The eyes did not blink.
 
-Above him, through eighty meters of bedrock and marble, the Vatican continued: the bells, the evening offices, the ten thousand accumulated acts of the institution, the weight of two thousand years of practice pressing down toward this room without knowing this room existed. The Sistine Chapel in the dark. God reaching toward Adam. Adam reaching back.
+Above him, through bedrock and marble and the full weight of two thousand years of practice pressing down toward this room without knowing this room existed, the Vatican continued: the bells, the evening offices, the ten thousand accumulated acts of the institution. The Sistine Chapel in the dark. God reaching toward Adam. Adam reaching back.
 
 Matteo read.
 
@@ -799,7 +713,7 @@ He read.
 
 ## Epilogue — *Fiat voluntas tua*
 
-Father Matteo Conti was Senior Adjudicator of the Holy Office, Sector IV. He assessed the unfaithful. He determined sentences. He signed the orders that filled the church-prisons and the labor cohorts and the camps along the northern roads. He had held this position since the third month. He was considered exceptionally suited to it.
+Father Matteo Conti was Senior Adjudicator of the Holy Office, Sector IV. He assessed the unfaithful. He determined sentences. He signed the orders that filled the church-prisons and the labor cohorts and the camps along the northern roads. He had held this position since the third month of the new order. He was considered exceptionally suited to it.
 
 ---
 
@@ -815,7 +729,7 @@ The light crossed him. He dropped straight, without bracing, the way a body fall
 
 ---
 
-The singing had been continuous since the second month. Not voluntary, the assigned filled the church-prisons from morning to compline, voices rising through stone. He no longer heard it as separate from silence. Beneath it, always, the subsonic frequency, low, constant, in the chest, the permanent condition of the world.
+The singing had been continuous since the second month of the new order. Not voluntary, the assigned filled the church-prisons from morning to compline, voices rising through stone. He no longer heard it as separate from silence. Beneath it, always, the subsonic frequency, low, constant, in the chest, the permanent condition of the world.
 
 ---
 
