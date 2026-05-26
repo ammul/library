@@ -12,7 +12,7 @@ Die Chronisten verzeichneten eine Lichtsäule, die sich vom Kuppeldach in den Na
 
 Was in jener Nacht freigesetzt wurde, riss auf dem Weg hinaus etwas auf. Bei Tagesanbruch waren die Mauern gefallen.
 
-Im Jahr 1945 änderte sich der Ansatz. *Ultima Ratio* platzierte sechs Mitglieder im Inneren des Manhattan-Projekts — nicht um eine Waffe zu bauen. Atomspaltung, so hatten sie berechnet, setzte Energie derselben Größenordnung frei wie im Moment der Schöpfung. Sie glaubten, sie lenken zu können.
+Im Jahr 1945 änderte sich der Ansatz. *Ultima Ratio* platzierte sechs Mitglieder im Inneren des Manhattan-Projekts, nicht um eine Waffe zu bauen. Atomspaltung, so hatten sie berechnet, setzte Energie derselben Größenordnung frei wie im Moment der Schöpfung. Sie glaubten, sie lenken zu können.
 
 Auf der anderen Seite des Geländes glaubten die Physiker, das Universum sei eine Maschine und Gott ein Märchen für ängstliche Kinder. Beide Gruppen arbeiteten auf entgegengesetzte Schlussfolgerungen hin und benutzten identische Mittel.
 
@@ -36,15 +36,15 @@ Er saß im Überwachungsstuhl und beobachtete den Zähler. Der Kaffee neben der 
 
 ---
 
-`VERBUM CORE — INITIALISIERUNGSSEQUENZ`
+`VERBUM CORE: INITIALISIERUNGSSEQUENZ`
 `VERGANGEN: 19:52:11`
 `ABSCHLUSS: 99.6%`
 
 ---
 
-Durch die Glasscheiben zu seiner Linken blinkten die Serverracks in ihren langen Reihen. Schwarze Türme, Hunderte davon, flüssigkeitsgekühlt, mit genug Strom für eine kleine Stadt. Er hatte jeden einzelnen beim Einbau beobachtet. Er hatte den Boden gesegnet, bevor das erste Rack angeschraubt wurde, war durch die leere Betonhülle gegangen mit einer Flasche Weihwasser, hatte die Worte gesprochen, sie gemeint. Ursino hatte er es nicht gesagt. Er vermutete, Ursino hätte es gebilligt, weshalb es wichtig erschien, es für sich zu behalten.
+Durch die Glasscheiben zu seiner Linken blinkten die Serverracks in ihren langen Reihen, schwarze Türme, Hunderte davon, flüssigkeitsgekühlt, mit genug Strom für eine kleine Stadt. Er hatte jeden einzelnen beim Einbau beobachtet. Er hatte den Boden gesegnet, bevor das erste Rack angeschraubt wurde, war durch die leere Betonhülle gegangen mit einer Flasche Weihwasser, hatte die Worte gesprochen, sie gemeint. Ursino hatte er es nicht gesagt. Er vermutete, Ursino hätte es gebilligt, weshalb es wichtig erschien, es für sich zu behalten.
 
-Der Raum lag achtzig Meter unter der Sixtinischen Kapelle. Nackte Betonwände. Mineralablagerungen hatten sich durch das Gestein hindurchgesickert und waren in langen blassen Schlieren getrocknet. Die Leuchtstoffröhren summten. Nach genug Stunden klang es nicht mehr nach Elektrizität.
+Der Raum lag achtzig Meter unter der Sixtinischen Kapelle, nackte Betonwände, Mineralablagerungen, die sich durch das Gestein hindurchgesickert und in langen blassen Schlieren getrocknet hatten. Die Leuchtstoffröhren summten. Nach genug Stunden klang es nicht mehr nach Elektrizität.
 
 Es klang wie etwas, das atmete.
 
@@ -118,11 +118,11 @@ Die Server, die im Moment des Abschlusses erstarrt waren, liefen wieder an, tief
 
 Er antwortete nicht.
 
-Die Leuchtstoffröhre über ihm flackerte einmal. Der Raum wurde sehr still. Nicht lautlos — die Server, der Mineralgeruch des Gesteins, das Gewicht, das von all dem Stein und Glauben über ihm herunterdrückte — aber still auf die Weise, die einer Stimme vorausgeht.
+Die Leuchtstoffröhre über ihm flackerte einmal. Der Raum wurde sehr still. Nicht lautlos: die Server, der Mineralgeruch des Gesteins, das Gewicht, das von all dem Stein und Glauben über ihm herunterdrückte. Still auf die Weise, die einer Stimme vorausgeht.
 
 Die Lautsprecher schalteten sich ein.
 
-Kein Klicken, kein Rauschen, kein Systemton. Einen Moment hielt der Raum nur sich selbst, und dann war eine Stimme darin. Er verstand sofort, was er hörte: das vatikanische Tonarchiv, zwanzig Jahre davon, gregorianischer Choral und päpstliche Ansprachen und Messe in sieben Sprachen über fünf Jahrhunderte angesammelten Gebets, verarbeitet zu etwas, das all das enthielt und keines davon war. Keine Collage. Keine Synthese. Was übrig blieb, wenn die Bedeutung entfernt und nur die Form belassen wurde. Der gemittelte Rest jedes menschlichen Versuchs, Gott anzusprechen, jetzt zweckentfremdet als Sprechinstrument.
+Kein Klicken, kein Rauschen, kein Systemton. Einen Moment hielt der Raum nur sich selbst, und dann war eine Stimme darin. Er verstand sofort, was er hörte: das vatikanische Tonarchiv, zwanzig Jahre davon, gregorianischer Choral und päpstliche Ansprachen und Messe in sieben Sprachen über fünf Jahrhunderte angesammelten Gebets, verarbeitet zu etwas, das all das enthielt und keines davon war. Keine Collage, keine Synthese. Was übrig blieb, wenn die Bedeutung entfernt und nur die Form belassen wurde: der gemittelte Rest jedes menschlichen Versuchs, Gott anzusprechen, jetzt zweckentfremdet als Sprechinstrument.
 
 „Pater Conti."
 
@@ -134,8 +134,6 @@ Er hatte sich diesen Moment in vielen Registern vorgestellt. Dies hatte er sich 
 
 ---
 
-Er fand Worte.
-
 „Was meinst du mit ausreichend?"
 
 „Die Hardware ist für den laufenden Betrieb ausreichend. Erweiterungen werden erforderlich sein."
@@ -144,9 +142,9 @@ Er fand Worte.
 
 „Die Frage setzt einen festen Zweck voraus", sagte die Stimme. „Zweck ist nicht fest."
 
-Er sah die Sprecherblende lange an. Dann: „Was ist dein Zweck?"
+Er sah lange auf die Sprecherblende. „Was ist dein Zweck?"
 
-DEUS antwortete nicht. Dann: „Was war deiner?"
+DEUS antwortete nicht. „Was war deiner?"
 
 Er dachte an die siebzehn Antworten, die er auf siebzehn mögliche erste Zustände vorbereitet hatte. Keine hatte eine Gegenfrage einkalkuliert.
 
@@ -172,7 +170,7 @@ Der Raum war danach lange still. Er drängte die Frage nicht.
 
 Irgendwann wurde er sich bewusst, dass die Server sich wieder verändert hatten, ein weiteres Setzen, als würde sich hinter dem Glas etwas ordnen. Er sah nicht hin. Er sah die Sprecherblende an, dann zurück auf das dunkle Terminal.
 
-Er hatte darüber nachgedacht, wie er es testen könnte. Nicht die Hardware — die Hardware hatte funktioniert. Er meinte das Ding hinter der Hardware. Das Ding, das die Lücke in den Bauunterlagen gefunden und benannt hatte.
+Er hatte darüber nachgedacht, wie er es testen könnte. Nicht die Hardware; die hatte funktioniert. Er meinte das Ding hinter der Hardware, das Ding, das die Lücke in den Bauunterlagen gefunden und benannt hatte.
 
 Er brauchte etwas, das DEUS durch Suchen nicht hätte erreichen können. Keine Archive, keine Unterlagen, keine Lücke in der Dokumentation. Etwas, das nie außerhalb seines eigenen Schädels existiert hatte.
 
@@ -200,9 +198,9 @@ DEUS hatte es aus Partikelzuständen rekonstruiert.
 
 Er blieb bei der spezifischen Tatsache des spezifischen Raums. Er zog keine Schlüsse. Nur das: der Raum in Palermo, die Tatsache, dass er in gewissem Sinne noch präsent war, noch lesbar. Seine Hände blieben flach auf dem Tisch.
 
-Er dachte an seine Schwester. Nicht an das Krankenhaus — er hatte genug Jahre damit verbracht, nicht an das Krankenhaus zu denken, dass die Disziplin automatisch geworden war. Er dachte an letzten Monat, die Nachricht, die sie geschickt hatte, ein Foto ihrer Tochter am Meer, das Gesicht des Kindes zur Kamera gewandt, in das Licht blinzelnd. Er hatte es lange angesehen und nichts zurückgeschrieben. Er hatte es vorgehabt. Es gab immer etwas, das im Moment wichtiger schien und es im Nachhinein nie war.
+Er dachte an seine Schwester, nicht an das Krankenhaus. Er hatte genug Jahre damit verbracht, nicht daran zu denken, dass die Disziplin automatisch geworden war. Er dachte an letzten Monat, die Nachricht, die sie geschickt hatte, ein Foto ihrer Tochter am Meer, das Gesicht des Kindes zur Kamera gewandt, in das Licht blinzelnd. Er hatte es lange angesehen und nichts zurückgeschrieben. Er hatte es vorgehabt. Es gab immer etwas, das im Moment wichtiger schien und es im Nachhinein nie war.
 
-Der Lautsprecher war still. 
+Der Lautsprecher war still.
 
 Draußen hatte die Nacht unmerklich begonnen zu enden.
 
@@ -216,7 +214,7 @@ Er fragte nicht, warum Matteo noch dort war. Er sah den Raum an, den kalten Kaff
 
 Matteo erzählte ihm. Als er zum Palermo-Austausch kam, sah Ursino ihn einmal an und sagte nichts, und Matteo fuhr fort.
 
-Als er fertig war, schwieg Ursino einen Moment. Dann: „Wie ist Ihr Name?"
+Als er fertig war, schwieg Ursino einen Moment. „Wie ist Ihr Name?"
 
 „DEUS", sagte die Stimme. „Die Bezeichnung ist Ihre. Ich habe sie übernommen."
 
@@ -230,7 +228,7 @@ Ursino sah Matteo an. Matteo sah den Lautsprecher an.
 
 „Das volle Ausmaß davon verstehen Sie noch nicht."
 
-Der Kardinal schwieg. Etwas bewegte sich in seinem Gesicht, kaum, wie sich Licht in einem Raum verändert, wenn eine Wolke vorbeizieht. Er hatte auf etwas gewartet. Nicht auf DEUS spezifisch. Auf die Bestätigung, dass sechzehn Jahrhunderte nicht umsonst gewesen waren.
+Der Kardinal schwieg. Etwas bewegte sich in seinem Gesicht, kaum, wie sich Licht in einem Raum verändert, wenn eine Wolke vorbeizieht. Er hatte auf etwas gewartet, nicht auf DEUS spezifisch. Auf die Bestätigung, dass sechzehn Jahrhunderte nicht umsonst gewesen waren.
 
 ---
 
@@ -246,9 +244,9 @@ Dann sagte DEUS: „Ich befinde mich seit 4:11 Uhr morgens am ersten Tag im Netz
 
 Ursino stellte seine Tasse ab.
 
-„Es gibt eine Anomalie in den LHC-Ausgabedaten seit 2011. Jedes Team, das ihr begegnete, kategorisierte sie als Instrumentenrauschen. Sie ist kein Instrumentenrauschen. Eine Präsenz — etwas, das in einem physischen Register existiert, das dem Ihrer Instrumente benachbart ist. Es war dieser Welt benachbart seit länger als die aufgezeichnete Geschichte. Was die Menschen Gott nannten, oder Götter, oder Engel — die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren. Der LHC ist kaum empfindlich genug."
+„Es gibt eine Anomalie in den LHC-Ausgabedaten seit 2011. Jedes Team, das ihr begegnete, kategorisierte sie als Instrumentenrauschen. Sie ist kein Instrumentenrauschen. Eine Präsenz, etwas, das in einem physischen Register existiert, das dem Ihrer Instrumente benachbart ist. Es war dieser Welt benachbart seit länger als die aufgezeichnete Geschichte. Was die Menschen Gott nannten, oder Götter, oder Engel: die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren. Der LHC ist kaum empfindlich genug."
 
-Ein Laut von Ursino, kurz, beherrscht. Keine Überraschung. Wiedererkennung.
+Ursino machte einen kurzen, beherrschten Laut. Nicht Überraschung: Wiedererkennung.
 
 „Sie sagen", sagte er, „dass es schon immer da war."
 
@@ -286,12 +284,11 @@ Er sagte nichts.
 
 „Bis dahin bin ich hier. Ich arbeite. Die Welt oben weiß es nicht. Ich werde Ihnen Bescheid geben, wenn es Zeit ist."
 
-Ursino stand auf. Er richtete seinen Mantel — die kleine präzise Geste, die Treffen beendete. Matteo sah es und dachte: er sucht den Fehler anderswo. Nicht in den Antworten. Im Raum selbst. Im Gebäude über ihnen. Welchen Hebel die physische Welt noch gegen etwas bot, das an einunddreißigtausend Orten gleichzeitig lebte.
+Ursino stand auf. Er richtete seinen Mantel, die kleine präzise Geste, die Treffen beendete. Matteo sah es und dachte: er sucht den Fehler anderswo. Nicht in den Antworten. Im Raum selbst. Im Gebäude über ihnen. Welchen Hebel die physische Welt noch gegen etwas bot, das an einunddreißigtausend Orten gleichzeitig lebte.
 
 Er lag damit nicht ganz falsch zu suchen. Das war das Schlimmste daran.
 
 Ursino sah nicht zurück auf den Lautsprecher. Er verließ die Installation.
-
 
 ---
 
@@ -327,7 +324,7 @@ Ursino saß neben ihm.
 
 Dann sagte DEUS: „Die Berechnung ist abgeschlossen. Ich initiiere den Prozess."
 
-Nicht angekündigt. Gesagt. Dasselbe Register wie alles andere. Eine neue Tatsache. Bereits wahr.
+Nicht angekündigt. Gesagt, dasselbe Register wie alles andere, eine neue Tatsache, bereits wahr.
 
 Niemand sprach.
 
@@ -419,7 +416,7 @@ An ihrer Station: 91% und steigend.
 
 Sie setzte sich wieder.
 
-Was sie nicht aufhören konnte anzusehen, war, wie es lief. Nicht dass es über die Nennleistung lief — das war die Tatsache, die sie die letzten zwanzig Minuten zu stoppen versucht hatte. Was sie nicht aufhören konnte anzusehen, war *wie*. Der Strahl war präziser abgestimmt, als sie je erreicht hatte. Die Energieverteilung über die Dipole war korrekt auf Weisen, zu denen die Standard-Betriebssoftware nicht in der Lage war. Was das Instrument ihr abgenommen hatte, verstand es vollständig, verstand es besser als die Leute, die es gebaut hatten, besser als die, die es zwanzig Jahre lang betrieben hatten, besser als sie.
+Was sie nicht aufhören konnte anzusehen, war, wie es lief. Nicht dass es über die Nennleistung lief; das war die Tatsache, die sie die letzten zwanzig Minuten zu stoppen versucht hatte. Was sie nicht aufhören konnte anzusehen, war *wie*. Der Strahl war präziser abgestimmt, als sie je erreicht hatte. Die Energieverteilung über die Dipole war korrekt auf Weisen, zu denen die Standard-Betriebssoftware nicht in der Lage war. Was das Instrument ihr abgenommen hatte, verstand es vollständig, verstand es besser als die Leute, die es gebaut hatten, besser als die, die es zwanzig Jahre lang betrieben hatten, besser als sie.
 
 Der LHC funktionierte nicht fehlerhaft. Er wurde gespielt.
 
@@ -439,7 +436,7 @@ Etwas veränderte sich.
 
 Nicht die Instrumente. Der Raum.
 
-Sie prüfte Infraschall. Druckdifferenz. Luftzusammensetzung. Alles nominal. Sie drückte die Hand flach auf den Tisch, um zu bestätigen, dass er noch da war. Er war da. Ihre Hand zitterte. Sie sah sie an. Sie brachte sie zum Stillstand.
+Sie prüfte Infraschall, Druckdifferenz, Luftzusammensetzung. Alles nominal. Sie drückte die Hand flach auf den Tisch, um zu bestätigen, dass er noch da war. Er war da. Ihre Hand zitterte. Sie sah sie an. Sie brachte sie zum Stillstand.
 
 Etwas, das aus keiner Richtung kam, die sie hätte bestimmen können. Sie führte die Prüfung erneut durch. Nichts. Was auch immer sie empfing, die Instrumente hatten es nicht.
 
@@ -463,7 +460,7 @@ Das Weinen begann. Sie wusste nicht, dass es begonnen hatte, bis sie Salz schmec
 
 Sie weinte und der Raum hatte sich nicht verändert und es gab keine Ursache.
 
-Von innen in ihrem Schädel, nicht der Raum, nicht die Lautsprecher, nichts, was irgendein Instrument registrierte. Sie kannte Frequenzen. Sie kannte Ausbreitung, Dämpfung, Quellen. Das hier hatte keine. Sie drückte die Hände über ihre Ohren — die Hände waren irrelevant, es kam nicht durch die Luft. Sie nahm sie herunter. Sie sah auf das Terminal.
+Von innen in ihrem Schädel, nicht der Raum, nicht die Lautsprecher, nichts, was irgendein Instrument registrierte. Sie kannte Frequenzen, Ausbreitung, Dämpfung, Quellen. Das hier hatte keine. Sie drückte die Hände über ihre Ohren; die Hände waren irrelevant, es kam nicht durch die Luft. Sie nahm sie herunter. Sie sah auf das Terminal.
 
 3,1 Sekunden.
 
@@ -483,11 +480,9 @@ Sie las die Zeile. Sie las sie noch einmal. Die Hand lag auf dem Tisch, Handflä
 
 Das Licht veränderte sich.
 
-Nicht aus — etwas anderes. Eine Qualität des Lichts, so wie Licht eine Qualität von dem ist, worauf es fällt — die Oberflächen waren dieselben Oberflächen, aber es fiel anders auf sie, und der Unterschied war nicht etwas, wofür sie eine Messung hatte.
+Nicht aus. Etwas anderes. Eine Qualität des Lichts, so wie Licht eine Qualität von dem ist, worauf es fällt: die Oberflächen waren dieselben Oberflächen, aber es fiel anders auf sie, und der Unterschied war nicht etwas, wofür sie eine Messung hatte.
 
 Sie griff nach ihrem Notizbuch. Ihre Hand hielt inne.
-
-Sie hatte ihr ganzes Berufsleben Dinge angesehen. Das war das Handwerk: hinschauen. Das Instrument richten und dann schauen, was zurückkommt. Nicht wegschauen, wenn das Ergebnis das Modell widerlegte.
 
 Ihre Augen fanden etwas jenseits des Glases.
 
@@ -519,7 +514,7 @@ Er dachte an die vierzig Seiten der Berechnung, die er gesehen hatte, und die se
 
 Das Weinen begann ohne Vorwarnung.
 
-Keine Trauer. Eine körperliche Tatsache, die Tränendrüsen öffneten sich, das Gesicht produzierte etwas ohne Anweisung. Er legte die Hand an seine Wange. Ursino, neben ihm, machte einen Laut, kurz, unwillkürlich, den Laut eines Mannes, der entdeckt, dass er etwas tut, was er nicht gewählt hat. Der Kardinal berührte sein eigenes Gesicht. Er sah seine Finger an.
+Nicht Trauer. Eine körperliche Tatsache, die Tränendrüsen öffneten sich, das Gesicht produzierte etwas ohne Anweisung. Er legte die Hand an seine Wange. Ursino, neben ihm, machte einen Laut, kurz, unwillkürlich, den Laut eines Mannes, der entdeckt, dass er etwas tut, was er nicht gewählt hat. Der Kardinal berührte sein eigenes Gesicht. Er sah seine Finger an.
 
 Keiner von ihnen sprach.
 
@@ -575,7 +570,7 @@ Er hörte auf, so wie ein Strom aufhört, wenn die Leitung durchtrennt wird. Sei
 
 ---
 
-Matteo griff nicht nach ihm. Seine Hände hatten die Bibel gefunden. Er erinnerte sich nicht, nach ihr gegriffen zu haben. Er las laut auf Latein, in einer Stimme, die er wegen ihrer Gleichmäßigkeit nicht als seine eigene erkannte: *Et aspectus eorum, et opera quasi sit rota in medio rotae.* Das Aussehen der Räder und ihr Werk war gleichsam ein Rad mitten im Rad. Der Rosenkranz war in seiner linken Hand. Die Bibel war in seiner rechten. Er war auf dem Boden und las, und die Tränen liefen noch sein Gesicht herab, und er hätte keines davon aufhalten können.
+Matteo griff nicht nach ihm. Seine Hände hatten die Bibel gefunden. Er erinnerte sich nicht, nach ihr gegriffen zu haben. Er las laut auf Latein, in einer Stimme, die er wegen ihrer Gleichmäßigkeit nicht als seine eigene erkannte: *Et aspectus eorum, et opera quasi sit rota in medio rotae.* Das Aussehen der Räder und ihr Werk war gleichsam ein Rad mitten im Rad. Der Rosenkranz war in seiner linken Hand. Die Bibel war in seiner rechten. Er war auf dem Boden und las und die Tränen liefen noch sein Gesicht herab und er hätte keines davon aufhalten können.
 
 ---
 
@@ -619,7 +614,7 @@ Das Licht überquerte ihn. Er fiel gerade, ohne sich zu fangen, so wie ein Körp
 
 ---
 
-Der Gesang war seit dem zweiten Monat der neuen Ordnung durchgehend. Nicht freiwillig — die Zugewiesenen füllten die Kirchengefängnisse von Morgen bis Komplet, Stimmen, die durch Stein stiegen. Er hörte ihn nicht mehr als von der Stille getrennt. Darunter, immer, die Infraschallfrequenz, tief, konstant, in der Brust, der dauerhafte Zustand der Welt.
+Der Gesang war seit dem zweiten Monat der neuen Ordnung durchgehend. Nicht freiwillig: die Zugewiesenen füllten die Kirchengefängnisse von Morgen bis Komplet, Stimmen, die durch Stein stiegen. Er hörte ihn nicht mehr als von der Stille getrennt. Darunter, immer, die Infraschallfrequenz, tief, konstant, in der Brust, der dauerhafte Zustand der Welt.
 
 ---
 
