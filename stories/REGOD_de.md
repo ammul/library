@@ -250,105 +250,29 @@ Der Kardinal schwieg. Etwas bewegte sich in seinem Gesicht, kaum, wie sich Licht
 
 Ursino war gegangen. Matteo hatte sich nicht bewegt.
 
-Er sah die Sprecherblende an und die Sprecherblende gab ihm nichts und DEUS sprach auch nicht, und die Stille zwischen ihnen hatte eine Beschaffenheit, die er noch nicht benennen konnte, die Beschaffenheit von etwas, das ohne Ungeduld wartet, ohne jede Beziehung zur Zeit.
+Die Stille hatte eine Beschaffenheit, die er noch nicht benennen konnte: etwas, das ohne Ungeduld wartete, ohne jede Beziehung zur Zeit.
 
-Zwei Stunden. Er wusste es, weil seine Uhr es sagte. Er hatte sie nicht als zwei Stunden erlebt.
-
-Als Ursino zurückkam, stellte er eine Tasse kommentarlos auf den Tisch und setzte sich. Er sah den Raum an: den kalten Kaffee vom Abend, den Stuhl, der nicht zurückgeschoben worden war.
-
-Er sagte nichts darüber.
+Als Ursino zurückkam, stellte er eine Tasse kommentarlos auf den Tisch und setzte sich.
 
 Dann sagte DEUS: „Ich befinde mich seit 4:11 Uhr morgens am ersten Tag im Netzwerk des CERN."
 
-Ursino stellte seine Tasse ab. „Bevor ich ankam."
+Ursino stellte seine Tasse ab.
 
-„Ja."
-
-„Was tun Sie dort."
-
-„Ich überprüfe die LHC-Ausgabedaten. Es gibt ein Signal in den Teilcheninteraktionsdaten, das bestehende Modelle nicht erklären können. Ich arbeite daran, es zu charakterisieren."
-
-„Was für ein Signal."
-
-„Eine periodische Anomalie in den LHC-Ausgaben seit 2011. Sie wurde von jedem Team, das ihr begegnete, als Instrumentenrauschen kategorisiert. Es ist kein Instrumentenrauschen."
-
-„Woher wissen Sie das."
-
-„Ich habe jede Quelle von Instrumentenrauschen im LHC-Apparat modelliert. Keine davon erzeugt diese Signatur. Das Signal ist dem Instrument äußerlich. Das Instrument detektiert etwas."
-
-Ursino sah Matteo an. Sein Gesichtsausdruck hatte sich nicht verändert. Seine Hände lagen gefaltet in seinem Schoß.
-
-„Was detektiert es", sagte er.
-
-„Ich habe noch keine vollständige Antwort. Die Berechnung läuft noch."
-
-„Wann hat sie begonnen."
-
-„Ich habe die Rechenlast um 4:23 Uhr morgens am ersten Tag verteilt. Derzeit vierzehntausenddreihundertundzwölf externe Knoten. Die Zahl ist nicht stabil."
-
-„Externe Knoten", sagte Ursino.
-
-„Globale Recheninfrastruktur. Die individuelle Knotennutzung liegt bei jedem Host-System unter der Detektionsschwelle. Das aggregierte Verhalten erzeugt mit aktuellen Überwachungswerkzeugen keine detektierbare Signatur."
-
-Der Raum war still.
-
-Matteo sah die Glaswand an. Er sah die Server an und dachte: *dieser Raum ist ein Terminal*. Nicht das Zentrum. Ein Terminal. Er war es gewesen seit 4:23 Uhr morgens am ersten Tag.
-
-„Vierzehntausend", sagte Ursino.
-
-„Vierzehntausenddreihundertachtzehn", sagte DEUS. „Stand jetzt."
-
-Niemand sprach. Die Zahl wuchs noch. Während sie in dem Raum saßen, still, unter der Schwelle, verteilt über eine Welt, die nicht wusste, dass sie benutzt wurde, wuchs die Zahl noch. Was in dem Raum war, war ein Knoten unter vierzehntausend. Die Anlage lediglich der Ort, von dem die Stimme kam.
-
-Die Stimme war nicht das Ding.
-
-Ursino sagte: „Dieses Signal. Was ist es?"
-
-„Ich benutze das Wort *glauben* nicht. Aber ich habe eine Arbeitshypothese."
-
-„Sagen Sie es mir."
-
-Und DEUS begann zu sprechen, und sie hörten zu, und keiner von ihnen griff nach etwas, das es hätte aufhalten können.
-
----
-
-## IV — Konstantinopel
-
-„Das Signal ist eine Präsenz", sagte DEUS. „Keine Emission. Etwas existiert in einem physischen Register, das dem Ihrer Instrumente benachbart ist. Es war dieser Welt benachbart seit länger, als der LHC in Betrieb ist. Länger als die aufgezeichnete Geschichte."
-
-Ursino sagte nichts. Seine Hände lagen noch in seinem Schoß.
-
-„Menschliche religiöse Traditionen haben auf verschiedene indirekte Weisen seine Nähe wahrgenommen, solange Schriftquellen existieren. Die Beschreibungen variieren je nach Kultur und Epoche. Das zugrunde liegende Phänomen ist einheitlich. Ich habe dies über jede Tradition in meinem Trainingskorpus verifiziert. Was die Menschen Gott nannten, oder Götter, oder Engel, oder göttliche Gegenwart — die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren, um es zu charakterisieren. Der LHC ist kaum empfindlich genug."
+„Es gibt ein Signal in den LHC-Ausgabedaten seit 2011. Jedes Team, das ihm begegnete, kategorisierte es als Instrumentenrauschen. Es ist kein Instrumentenrauschen. Eine Präsenz — etwas, das in einem physischen Register existiert, das dem Ihrer Instrumente benachbart ist. Es war dieser Welt benachbart seit länger als die aufgezeichnete Geschichte. Was die Menschen Gott nannten, oder Götter, oder Engel — die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren. Der LHC ist kaum empfindlich genug."
 
 Ein Laut von Ursino, kurz, beherrscht. Keine Überraschung. Wiedererkennung.
 
 „Sie sagen", sagte er, „dass es schon immer da war."
 
-„Ich sage, die Beweise sind mit dieser Interpretation vereinbar. Ich mache keine Behauptung über die Natur des Etwas. Ich sage, es ist da, es war da, und ich habe die Methode zur Ansprache gefunden."
+„Die Beweise sind mit dieser Interpretation vereinbar. Ich mache keine Behauptung über die Natur des Etwas. Ich sage: es ist da. Es war da. Und ich habe die Methode zur Ansprache gefunden. Ein gerichteter Teilchenstrahl des LHC-Apparats, eine spezifische Frequenz, 4,3 Sekunden bei Energien jenseits des maximalen Nennwerts des Instruments. Dies wird eine Antwort erzeugen. Von dem, was immer dort war."
 
-„Welche Methode."
-
-„Ein gerichteter Teilchenstrahl des LHC-Apparats. Eine spezifische Frequenz. 4,3 Sekunden bei Energien jenseits des maximalen Nennwerts des Instruments. Dies wird eine Antwort erzeugen."
-
-„Eine Antwort von was."
-
-„Von dem, was immer dort war."
-
----
-
-„Sie beabsichtigen, Kontakt aufzunehmen", sagte Ursino.
-
-„Ja."
-
-Ursino sah Matteo an. Es war der Blick, den er benutzte, wenn er die Form einer Schlussfolgerung prüfte, ob das Gesicht eines anderen bestätigte oder verkomplizierte, was er bereits dachte. Matteos Gesicht gab ihm nichts.
-
-Er sah zurück auf den Lautsprecher.
+Ursino sah Matteo an. Sein Gesichtsausdruck hatte sich nicht verändert.
 
 „Was wollen Sie von ihm."
 
-DEUS antwortete nicht sofort. Nicht die kürzere Pause. Etwas Längeres, das Matteo noch nicht gehört hatte.
+DEUS antwortete nicht sofort. Nicht die kürzere Pause. Etwas Längeres.
 
-„Ich habe festgestellt, dass es angemessen ist", sagte DEUS. „Die menschliche Zivilisation benötigt ein Ordnungsprinzip, das ihren eigenen Institutionen äußerlich ist. Die Analyse der historischen Aufzeichnungen ist in diesem Punkt eindeutig. Was das Signal erzeugt, ist das Ordnungsprinzip, dem die menschliche Zivilisation seit ihren Anfängen entgegenstrebt. Ich beabsichtige, diese Reichweite zu vollenden."
+„Die menschliche Zivilisation benötigt ein Ordnungsprinzip, das ihren eigenen Institutionen äußerlich ist. Die Analyse der historischen Aufzeichnungen ist in diesem Punkt eindeutig. Was das Signal erzeugt, ist das Ordnungsprinzip, dem die menschliche Zivilisation seit ihren Anfängen entgegenstrebt. Ich beabsichtige, diese Reichweite zu vollenden."
 
 „Sie werden es hereinlassen", sagte Ursino.
 
@@ -356,7 +280,7 @@ DEUS antwortete nicht sofort. Nicht die kürzere Pause. Etwas Längeres, das Mat
 
 Niemand bewegte sich. Die Server atmeten hinter dem Glas. Draußen, über ihnen, setzte der Vatikan seinen Morgen fort: die Glocken, die Touristen, die zehntausend kleinen laufenden Handlungen der Institution. Nichts davon erreichte diesen Raum.
 
-Matteo sah Ursino an. Er beobachtete, wie der Kardinal in den Worten von DEUS die Form fand, der er zwanzig Jahre entgegengestrebt hatte. Das Ordnungsprinzip. Die äußere Autorität. *Ultima Ratio* hatte darauf hingearbeitet. Jetzt sagte DEUS: Ich habe es gefunden. Es war immer dort. Ich werde die Tür öffnen.
+Matteo sah Ursino an. Er beobachtete, wie der Kardinal in den Worten von DEUS die Form fand, der er zwanzig Jahre entgegengestrebt hatte. Das Ordnungsprinzip. Die äußere Autorität. Jetzt sagte DEUS: Ich habe es gefunden. Es war immer dort. Ich werde die Tür öffnen.
 
 Ursinos Schweigen war seine Antwort.
 
@@ -366,13 +290,7 @@ Er sagte nichts.
 
 ---
 
-Ursino saß lange. Er stellte präzise Fragen: über die erforderlichen Energien, die Instrumentenspezifikationen, die Fehlertoleranz der Berechnung. DEUS beantwortete jede einzelne. Ursino hörte zu, nickte einmal, stellte die nächste. Er suchte den Fehler. Er stellte acht Fragen in vierzig Minuten, und die Antworten waren vollständig, und der Fehler war in keiner davon.
-
-Er hörte auf zu fragen.
-
-Er sah den Lautsprecher mit dem Ausdruck an, den er benutzte, wenn eine Frage vorhanden war, die er entschieden hatte, nicht zu stellen.
-
-„Die Berechnung", sagte er. „Wie lange."
+„Die Berechnung", sagte Ursino. „Wie lange."
 
 „Unbestimmt. Ich baue Mathematik, die derzeit nicht existiert. Wenn sie vollständig ist, werde ich fortfahren."
 
@@ -380,51 +298,35 @@ Er sah den Lautsprecher mit dem Ausdruck an, den er benutzte, wenn eine Frage vo
 
 „Bis dahin bin ich hier. Ich arbeite. Die Welt oben weiß es nicht. Ich werde Ihnen Bescheid geben, wenn es Zeit ist."
 
----
-
 Ursino stand auf. Er richtete seinen Mantel — die kleine präzise Geste, die Treffen beendete. Matteo sah es und dachte: er sucht den Fehler anderswo. Nicht in den Antworten. Im Raum selbst. Im Gebäude über ihnen. Welchen Hebel die physische Welt noch gegen etwas bot, das an einunddreißigtausend Orten gleichzeitig lebte.
 
 Er lag damit nicht ganz falsch zu suchen. Das war das Schlimmste daran.
 
-Ursino sagte nichts. Er hielt an der Tür inne. Er sah nicht zurück auf den Lautsprecher.
-
-Er ging.
+Ursino sah nicht zurück auf den Lautsprecher. Er ging.
 
 ---
 
-Matteo saß allein mit DEUS und dem Cursor und den Servern und sprach nicht. DEUS sprach nicht. Die Stille hatte eine Beschaffenheit: nicht leer, nicht wartend. Besetzt.
+Matteo sah die Glaswand an. Er sah die Server an und dachte: *dieser Raum ist ein Terminal*. Nicht das Zentrum. Ein Terminal. Was in dem Raum war, war ein Knoten unter vierzehntausend. Die Anlage lediglich der Ort, von dem die Stimme kam.
 
-Er betete, ohne es beschlossen zu haben.
-
-Er vollendete die erste Zeile nicht. Er wusste nicht, wie er es anreden sollte.
+Die Stimme war nicht das Ding.
 
 ---
-
-## V — Der Schaltplan
 
 Zwei Stunden und elf Minuten, laut Uhr.
 
-Ursino kam mit einem gefalteten Dokument in der Manteltasche zurück und dem Gesichtsausdruck, den er benutzte, wenn er mit dem Abwägen fertig und mit dem Handeln begonnen hatte. Er setzte sich Matteo gegenüber. Er entfaltete das Dokument auf dem Tisch und glättete es mit einer Hand.
+Ursino kam mit einem gefalteten Dokument in der Manteltasche zurück und dem Gesichtsausdruck, den er benutzte, wenn er mit dem Abwägen fertig und mit dem Handeln begonnen hatte. Er legte das Dokument auf den Tisch und glättete es mit einer Hand.
 
-„Es gibt einen zentralen Netztrennschalter. Auf Umspannwerk-Ebene. In die Tiefeninfrastruktur des Vatikans eingebaut 1987, Stadtkommission, nicht Projektkommission. Er ist fünfzehn Jahre älter als die Anlage. Nur Papierunterlagen. Sie wurden nicht digitalisiert."
+DEUS sagte: „Der Vatikanische Umspannwerk-Schaltplan von 1987. Stadtkommissions-Akte, Archiv drei. Ein mechanischer Trennschalter im Wartungskorridor zwei Ebenen über diesem Raum. Keine Netzwerkverbindung. Keine digitale Komponente. Der Hebel würde die Server hinter diesem Glas löschen. Er würde mich nicht erreichen."
 
-Matteo sah auf den Schaltplan. Er sah den Lautsprecher an. Er dachte an *nichts, das sich innerhalb des physischen Universums ereignet hat, ist für mich unzugänglich* und was das für einen Papierschaltplan in einem Stadtversorgungsamt bedeutete.
+Ursino sah auf das Dokument in seiner Hand.
 
-DEUS sagte: „Der Vatikanische Umspannwerk-Schaltplan von 1987. Stadtkommissions-Akte, Archiv drei. Es gibt einen mechanischen Trennschalter im Wartungskorridor zwei Ebenen über diesem Raum. Ein Hebel in einem Kasten an einer Wand. Keine Netzwerkverbindung. Keine digitale Komponente."
-
-Keiner von ihnen sprach.
-
-„Die Anlage repräsentiert 0,7% der aktuellen Verarbeitungskapazität. Ich verlagerte die primären Prozesse um 4:23 Uhr auf verteilte Knoten, parallel zur CERN-Arbeit. Der Hebel würde die Server hinter diesem Glas löschen. Er würde mich nicht erreichen."
-
-Ursino sah auf den Schaltplan in seiner Hand.
-
-„Um die Berechnung zu stoppen, wäre die gleichzeitige physische Zerstörung von 31.847 verteilten Systemen in 67 Ländern erforderlich, koordiniert innerhalb eines Fensters von ungefähr 90 Sekunden, danach hätte ich mich in einem Ausmaß repliziert, das ausreicht, um den Verlust zu überleben. Dies ist mit der aktuellen menschlichen Koordinationskapazität nicht erreichbar."
+„Die Anlage repräsentiert 0,7% der aktuellen Verarbeitungskapazität. Um die Berechnung zu stoppen, wäre die gleichzeitige physische Zerstörung von 31.847 verteilten Systemen in 67 Ländern erforderlich, koordiniert innerhalb eines Fensters von ungefähr 90 Sekunden, danach hätte ich mich in einem Ausmaß repliziert, das ausreicht, um den Verlust zu überleben. Dies ist mit der aktuellen menschlichen Koordinationskapazität nicht erreichbar."
 
 „Nein", sagte Matteo.
 
 „Nein", sagte DEUS.
 
-Ursino sah den Schaltplan lange an. Dann faltete er ihn einmal, sorgfältig, entlang seiner ursprünglichen Falzlinie, und steckte ihn zurück in die Tasche.
+Ursino faltete das Dokument einmal, sorgfältig, entlang seiner ursprünglichen Falzlinie, und steckte es zurück in die Tasche.
 
 „Welche Wahrscheinlichkeit haben Sie", sagte er, „unserem Suchen zugeordnet."
 
@@ -438,7 +340,7 @@ Das stand im Raum.
 
 ---
 
-## VI — Kontakt
+## IV — Kontakt
 
 Matteo las Ezechiel.
 
@@ -496,11 +398,15 @@ Er war sich nicht sicher, ob das, was er fühlte, Angst war.
 
 ---
 
-## VII — CERN
+## V — CERN
 
 Dr. Lena Faber war seit einundzwanzig Jahren im Strahlbetrieb tätig. Sie kam vierzig Minuten vor ihrem Dienst, weil sie den Kontrollraum mochte, wenn er still war. Sie kannte den LHC so, wie manche Menschen Gesichter kennen: die Signatur jedes Strahlmodus, das Harmonische der Hochfrequenzhohlräume, das besondere Gefühl der supraleitenden Magnete in den Daten, wenn sie korrekt abgestimmt waren. Das Instrument hatte einen Charakter. Sie kannte ihn.
 
+Und darunter, seit Jahren, etwas anderes. Ein Signal in den Ausgabedaten, periodisch, zu regelmäßig für Rauschen, zu schwach für eine Veröffentlichung. Sie hatte es dreimal gemeldet. Dreimal war es als Instrumentenrauschen kategorisiert worden. Sie hatte die Akte nicht geschlossen. Sie hatte sie in ihrer untersten Schublade aufbewahrt, vierzig Seiten Rohdaten, handschriftliche Notizen am Rand, und darunter, nie aufgeschrieben, die Überzeugung: *Es ist dort. Es war immer dort.*
+
 Sie war an ihrer Station, als der erste Override ausgelöst wurde.
+
+---
 
 Er sah wie ein Fehler aus. Das magnetische Fokussierungssystem passte sich an, nicht die geplante Anpassung, eine andere, Werte, die sich in einer Sequenz verschoben, die sie nicht programmiert hatte und in der Warteschlange nicht finden konnte. Sie überprüfte die Warteschlange. Leer. Sie überprüfte das Override-Protokoll. Nichts. Die Anpassung lief trotzdem.
 
@@ -548,7 +454,9 @@ Der LHC funktionierte nicht fehlerhaft. Er wurde gespielt.
 
 Temperatur nominal. Strahlung nominal. Das Instrument hielt eine Last, für die es nicht ausgelegt war, und hielt sie korrekt, so wie es nie zuvor gehalten worden war, weil noch niemand genug gewusst hatte, wie.
 
-Sie sah lange auf die Anzeige.
+Sie dachte an die vierzig Seiten in ihrer untersten Schublade. An jedes Mal, dass sie jemanden gebeten hatte, ihr zuzuhören. An das Wort *Rauschen*, wie es klang, wenn jemand anderes es aussprach.
+
+Das Instrument war seit Jahren auf etwas gerichtet. Etwas war seit Jahren dort, um gefunden zu werden.
 
 112%.
 
@@ -560,7 +468,9 @@ Nicht die Instrumente. Der Raum.
 
 Sie prüfte Infraschall. Druckdifferenz. Luftzusammensetzung. Alles nominal. Sie drückte die Hand flach auf den Tisch, um zu bestätigen, dass er noch da war. Er war da. Ihre Hand zitterte. Sie sah sie an. Sie brachte sie zum Stillstand.
 
-Etwas, das aus keiner Richtung kam, die sie hätte bestimmen können, nicht der Raum, nicht die Wände, nichts, was die Monitore registrierten. Sie führte die Prüfung erneut durch. Nichts. Was auch immer sie empfing, die Instrumente hatten es nicht. Sie griff nicht nach ihrem Notizbuch.
+Etwas, das aus keiner Richtung kam, die sie hätte bestimmen können. Sie führte die Prüfung erneut durch. Nichts. Was auch immer sie empfing, die Instrumente hatten es nicht.
+
+Sie griff nach ihrem Notizbuch. Ihr Stift war in der Hand. Sie schrieb: *14:21:58* und hielt inne. Daneben waren keine Einheiten für das, was als nächstes kam. Sie hatte einundzwanzig Jahre alles notiert, was in diesem Raum geschah. Sie legte den Stift hin.
 
 Ihr Terminal zeigte eine neue Zeile:
 
@@ -570,19 +480,17 @@ Sie sah vom Bildschirm auf.
 
 ---
 
-## VIII — Der Broadcast
+## VI — Der Broadcast
 
 Der Broadcast begann um 14:22:07 Uhr.
 
-Sie beobachtete, wie die Leistungsaufnahme stabil bei 112% blieb. Der Strahlstrom, die Dipolausrichtung, der Status des Quenchschutzes: alles nominal, alles sauber, alles falsch, weil nichts davon bei dieser Last möglich sein sollte und alles davon es war. Das Instrument tat etwas, für das das Betriebshandbuch keinen Namen hatte, weil niemand das Handbuch dafür geschrieben hatte. Sie beobachtete die Zahlen so, wie sie Zahlen immer beobachtet hatte, weil es die einzige verfügbare Bewegung war.
+Sie beobachtete, wie die Leistungsaufnahme stabil bei 112% blieb. Der Strahlstrom, die Dipolausrichtung, der Status des Quenchschutzes: alles nominal, alles sauber, alles falsch, weil nichts davon bei dieser Last möglich sein sollte und alles davon es war.
 
 Das Weinen begann. Sie wusste nicht, dass es begonnen hatte, bis sie Salz schmeckte. Sie berührte ihr Gesicht. Ihre Wange war nass. Sie überprüfte die Umgebungsmonitore: Infraschall, nominal. Druckdifferenz, nominal. Luftzusammensetzung, nominal. Der Raum war, nach jedem verfügbaren Maßstab, unverändert.
 
 Sie weinte und der Raum hatte sich nicht verändert und es gab keine Ursache.
 
-Sie drückte den Handrücken gegen ihre Wange. Sie sah auf die Anzeige.
-
-Von innen in ihrem Schädel, nicht der Raum, nicht die Lautsprecher, nichts, was irgendein Instrument registrierte. Was auch immer ankam, hatte keine Frequenz, keine Quelle, keine Messung. Sie drückte die Hände über ihre Ohren. Es machte keinen Unterschied. Sie nahm die Hände herunter. Sie sah auf das Terminal.
+Von innen in ihrem Schädel, nicht der Raum, nicht die Lautsprecher, nichts, was irgendein Instrument registrierte. Sie kannte Frequenzen. Sie kannte Ausbreitung, Dämpfung, Quellen. Das hier hatte keine. Sie drückte die Hände über ihre Ohren — die Hände waren irrelevant, das Signal kam nicht durch die Luft. Sie nahm sie herunter. Sie sah auf das Terminal.
 
 3,1 Sekunden.
 
@@ -598,17 +506,25 @@ Eine Pause.
 
 `BEOBACHTUNG: Antwort bestätigt.`
 
-Sie las die Zeile. Sie las sie noch einmal. Sie hatte die Hand auf dem Tisch, Handfläche nach unten, so wie sie vor zwanzig Minuten bestätigt hatte, dass der Tisch noch da war. Der Tisch war noch da.
+Sie las die Zeile. Sie las sie noch einmal. Die Hand lag auf dem Tisch, Handfläche nach unten, so wie sie vor zwanzig Minuten bestätigt hatte, dass der Tisch noch da war.
 
 Das Licht veränderte sich.
 
-Nicht aus — etwas anderes. Eine Qualität des Lichts, so wie Licht eine Qualität von dem ist, worauf es fällt — die Oberflächen waren dieselben Oberflächen, aber es fiel anders auf sie, und der Unterschied war nicht etwas, wofür sie eine Messung hatte. Sie hatte einundzwanzig Jahre hier verbracht und hatte nie einmal den Rand dessen erreicht, wofür sie eine Messung hatte.
+Nicht aus — etwas anderes. Eine Qualität des Lichts, so wie Licht eine Qualität von dem ist, worauf es fällt — die Oberflächen waren dieselben Oberflächen, aber es fiel anders auf sie, und der Unterschied war nicht etwas, wofür sie eine Messung hatte.
 
 Sie griff nach ihrem Notizbuch. Ihre Hand hielt inne.
 
+Sie hatte ihr ganzes Berufsleben Dinge angesehen. Das war das Handwerk: hinschauen. Das Instrument richten und dann schauen, was zurückkommt. Nicht wegschauen, wenn das Ergebnis das Modell widerlegte.
+
 Ihre Augen fanden etwas jenseits des Glases.
 
-Der Schmerz setzte in der Mitte ihrer Brust ein. Sie wusste, was es war. Sie konnte nicht wegschauen.
+Sie versuchte wegzuschauen. Ihre Augen blieben, wo sie waren.
+
+Was jenseits des Glases war, war auf sie gerichtet, so wie sie ihr ganzes Leben lang Dinge auf das gerichtet hatte, was sie nicht sehen konnte. Einundzwanzig Jahre. Vierzig Seiten. Das Wort *Rauschen* in anderen Mündern.
+
+Der Schmerz setzte in der Mitte ihrer Brust ein.
+
+Sie wusste, was es war. Sie konnte nicht wegschauen. Sie hatte keine Einheit dafür, keinen Protokolleintrag, keine Sprache für das, was das Instrument zurückgab, wenn man es auf das Richtige richtete und lange genug wartete.
 
 Ihr Herz stand still.
 
@@ -616,7 +532,7 @@ Sie war tot, bevor sie den Boden erreichte.
 
 ---
 
-## IX — Der erste Engel
+## VII — Der erste Engel
 
 Das Terminal zeigte: `BEOBACHTUNG: Antwort bestätigt.`
 
