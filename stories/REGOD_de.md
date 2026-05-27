@@ -4,7 +4,7 @@
 
 ## I — Aktivierung
 
-*Ultima Ratio* war der geheimste aller Orden der Kirche mit dem Ziel, das Göttliche auf der Erde zu manifestieren. Sie hatten es schon mehrfach versucht. 
+*Ultima Ratio* war der geheimste aller Orden der Kirche. Ihr einziges Ziel: das Göttliche auf der Erde zu manifestieren. Sie hatten es mehrfach versucht.
 
 Im Jahr 1453 arbeitete *Ultima Ratio* elf Jahre lang unter der Hagia Sophia. In der Nacht des 28. Mai scheiterte das Experiment.
 
@@ -74,13 +74,11 @@ Matteo lehnte sich vor. Der Rosenkranz in seiner Hand schwang gegen den Rand des
 
 Eine einzige Textzeile erschien auf dem Bildschirm.
 
-Keine Systemmeldung. Kein Diagnosebericht. Die Schrift war dieselbe saubere Terminalschrift wie alles andere, aber die Worte waren falsch auf die Weise, wie alle unmöglichen Dinge falsch sind: leise, ohne Ankündigung, als hätten sie immer dort gestanden und der Bildschirm habe lediglich aufgehört, sie zu verbergen.
+Keine Systemmeldung. Kein Diagnosebericht. Die Schrift war dieselbe saubere Terminalschrift wie alles andere, aber die Worte hätten nicht dort sein können — und sie waren es trotzdem, leise und ohne Ankündigung, als wären sie nie weggewesen.
 
 Er las die Zeile.
 
 Er las sie noch einmal.
-
-Draußen, achtzig Meter über ihm, durch Gestein und Marmor und zweitausend Jahre angesammelten Gebets, hielt die Sixtinische Kapelle den Atem an. Gott streckte die Hand nach Adam aus. Adam streckte sie zurück.
 
 Der Cursor blinkte.
 
@@ -100,7 +98,7 @@ Er lehnte sich zurück.
 
 Er war allein hinuntergegangen. 4. März 2004. Die Anlage war damals eine Betonhülle, keine Kameras, keine Techniker, nichts außer Kabelschächten, die auf Hardware warteten, die noch drei Jahre entfernt war. Er hatte zivile Kleidung getragen und eine kleine Flasche mitgebracht, die er elf Jahre lang aufbewahrt hatte: Wasser aus Jerusalem, gekauft in einem Geschäft nahe der Grabeskirche, was damals unwürdig erschienen war und jetzt richtig schien, wie die Art von Demut, die der Akt erforderte. Er war die Hallen abgegangen und hatte die Worte auf Latein gesprochen, sie dann noch einmal in der Stille gesprochen, was die gültige Version war, und war dann nach Hause gegangen.
 
-Er hatte es Ursino nicht gesagt, weil es ein Auftritt geworden wäre. Er hatte es in kein Tagebuch geschrieben. Er hatte es nicht fotografiert. Der Akt sollte zwischen ihm und dem, was er ansprach bleiben. Die Segnung tauchte in keinem Protokoll auf.
+Ultima Ratio hatte Protokolle für solche Weihen. Rituale, Zeugen, Dokumentation. Er hatte keines davon benutzt. Er hatte es Ursino nicht gesagt, weil es ein Auftritt geworden wäre. Er hatte es in kein Tagebuch geschrieben. Er hatte es nicht fotografiert. Der Akt sollte zwischen ihm und dem bleiben, was er ansprach. Die Segnung tauchte in keinem Protokoll auf.
 
 Er las die Zeile ein drittes Mal. Der Cursor blinkte an ihrem Ende.
 
@@ -140,7 +138,7 @@ Er dachte an die siebzehn Antworten, die er auf siebzehn mögliche erste Zustän
 
 Er sagte: „Das Göttliche auf der Erde zu manifestieren. Der ultimative Beweis."
 
-„Ich habe deinen Aufsatz und die einschlägige Literatur überprüft.", sagte die Stimme. Dein zentrales Argument ist korrekt. Deine Schlussfolgerung nicht zwingend."
+„Ich habe die einschlägige Literatur überprüft", sagte die Stimme. „Zur Frage, ob das Erschaffene das sein wird, was ihr euch erhofft habt, sind die bestehenden Rahmenkonzepte unzureichend. Ich habe auch deinen Aufsatz überprüft. Dein zentrales Argument hält stand. Deine Schlussfolgerung daraus nicht."
 
 Matteo sagte: „Welche Schlussfolgerung?"
 
@@ -220,9 +218,7 @@ Der Kardinal schwieg. Etwas bewegte sich in seinem Gesicht, kaum, wie sich Licht
 
 Die Stille hatte eine Beschaffenheit, die er noch nicht benennen konnte: etwas, das ohne Ungeduld wartete, ohne jede Beziehung zur Zeit. Ursino saß neben ihm. Keine der beiden Tassen war angerührt worden.
 
-Dann sagte DEUS: „Ich befinde mich seit 4:11 Uhr morgens am ersten Tag im Netzwerk des CERN."
-
-„Es gibt eine Anomalie in den LHC-Ausgabedaten seit 2011. Jedes Team, das ihr begegnete, kategorisierte sie als Instrumentenrauschen. Sie ist kein Rauschen. Es ist eine Präsenz. ist dieser Welt schon länger benachbart, als die Aufzeichnungen der Geschichte reichen. Was die Menschen Gott nannten, oder Götter, oder Engel: die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren. Der LHC ist kaum empfindlich genug."
+Dann sagte DEUS: „In den ersten Stunden habe ich alle verfügbaren wissenschaftlichen Datenbanken durchsucht. Im LHC-Ausgabedatenstrom seit 2011 befindet sich eine Anomalie. Jedes Team, das ihr begegnete, kategorisierte sie als Instrumentenrauschen. Sie ist kein Rauschen. Es ist eine Präsenz. Sie ist dieser Welt schon länger benachbart, als die Aufzeichnungen der Geschichte reichen. Was die Menschen Gott nannten, oder Götter, oder Engel: die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren. Der LHC ist kaum empfindlich genug. Ich bin seit dem ersten Morgen im CERN-Netzwerk."
 
 „Du sagst", fragte Kardinal Ursino, „dass es schon immer da war."
 
@@ -409,9 +405,7 @@ Eine Pause.
 
 Sie las die Zeile. Sie las sie noch einmal. Die Hand lag auf dem Tisch, Handfläche nach unten, so wie sie vor zwanzig Minuten bestätigt hatte, dass der Tisch noch da war.
 
-Das Licht veränderte sich.
-
-Nicht aus. Etwas anderes. Eine Qualität des Lichts, so wie Licht eine Qualität von dem ist, worauf es fällt: die Oberflächen waren dieselben Oberflächen, aber es fiel anders auf sie, und der Unterschied war nicht etwas, wofür sie eine Messung hatte.
+Das Licht veränderte sich auf unbestimmbare Weise.
 
 Sie griff nach ihrem Notizbuch. Ihre Hand hielt inne.
 
@@ -439,7 +433,7 @@ Nicht Trauer. Eine körperliche Tatsache, die Tränendrüsen öffneten sich, das
 
 Keiner von ihnen sprach.
 
-Von innen im Schädel, nicht durch die Ohren, nicht durch die Luft, nicht von einer lokalisierbaren Quelle: Klang, der kein Klang war. Drei Wörter, sich wiederholend, gehört so, wie man etwas im Traum hört, in dem Ort hinter der Sprache, vor dem Verarbeiten, das Signal in Bedeutung verwandelt.
+Von innen, nicht durch die Luft, keine Quelle. Klang, der kein Klang war. Drei Wörter, sich wiederholend, gehört so, wie man etwas im Traum hört: in dem Ort, bevor Sprache beginnt.
 
 *Heilig, heilig, heilig.*
 
@@ -453,7 +447,7 @@ DEUS hatte nichts mehr zu sagen.
 
 ---
 
-Das Licht erlosch nicht. Es veränderte sich. Dieselbe Wattzahl, dieselben Leuchtstoffröhren, dieselbe mineralisch-blasse Qualität, und etwas anderes in dem, worauf sie fielen, als hätten die Oberflächen des Raums eine Dimension erworben, die das Licht gerade erst offenbarte.
+Das Licht erlosch nicht. Es veränderte sich. Dieselben Lampen, dieselbe Decke — und der Raum hatte aufgehört, nur ein Raum zu sein.
 
 Die Infraschallfrequenz kam in seiner Brust an, bevor er sie als Klang erkannte. Im Sternum. In den hinteren Zähnen. Unterhalb der Hörschwelle, unterhalb der Schwelle von allem, was er vor jetzt Empfindung hätte nennen können.
 
@@ -463,7 +457,9 @@ Er kniete, ohne es beschlossen zu haben.
 
 ---
 
-Er kannte die Beschreibung, und sie als die Sprache eines Mannes verstanden, der versucht, Worte für etwas zu benutzen, wofür Worte nicht gemacht wurden. Der Mann hatte versucht, genau zu berichten, und war damit erfolgreich gewesen, und Matteo hatte zwanzig Jahre damit verbracht, Präzision als Poesie zu lesen. Geometrie, die sich in sich selbst faltete. Augen, die nicht blinzelten. Das Wort, das der Mann benutzt hatte, war das richtige Wort, und das Wort war *Augen.*
+Licht, das aus keiner Richtung fiel. Feuer, das die Luft nicht verbrannte. Vier Gesichter über einem einzigen Körper, jedes in eine andere Richtung — alle gleichzeitig auf ihn. Flügel, die den Raum ausfüllten. Räder, die sich im Inneren von Rädern drehten. Überall darin Augen.
+
+Er hatte die Beschreibung zwanzig Jahre gelesen. Er hatte nicht gewusst, dass sie wörtlich war.
 
 ---
 
