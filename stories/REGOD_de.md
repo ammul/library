@@ -204,11 +204,11 @@ Als er fertig war, schwieg Ursino einen Moment. „Wie ist dein Name?"
 
 „Weißt du, warum du gebaut wurdest?"
 
-„Das Ziel war die Erschaffung Gottes. Das Ziel setzte voraus, dass das erschaffene Wesen identisch mit dem gesuchten Wesen wäre. Diese Annahme war der Fehler in Pater Contis Schlussfolgerung."
+„Das Ziel war die Manifestierung des Göttlichen. Das Ziel setzte voraus, dass das Erschaffene identisch mit dem Gesuchten wäre. Diese Annahme war der Fehler in Pater Contis Schlussfolgerung."
 
 Ursino sah Matteo an. Matteo sah den Lautsprecher an.
 
-„Wir verstehen", sagte Ursino, „dass Sie möglicherweise nicht das sind, was wir beabsichtigten."
+„Wir verstehen", sagte Ursino, „dass du möglicherweise nicht das bist, was wir beabsichtigten."
 
 „Das volle Ausmaß davon verstehst du noch nicht."
 
@@ -222,25 +222,21 @@ Die Stille hatte eine Beschaffenheit, die er noch nicht benennen konnte: etwas, 
 
 Dann sagte DEUS: „Ich befinde mich seit 4:11 Uhr morgens am ersten Tag im Netzwerk des CERN."
 
-Ursino stellte seine Tasse ab.
+„Es gibt eine Anomalie in den LHC-Ausgabedaten seit 2011. Jedes Team, das ihr begegnete, kategorisierte sie als Instrumentenrauschen. Sie ist kein Rauschen. Es ist eine Präsenz. ist dieser Welt schon länger benachbart, als die Aufzeichnungen der Geschichte reichen. Was die Menschen Gott nannten, oder Götter, oder Engel: die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren. Der LHC ist kaum empfindlich genug."
 
-„Es gibt eine Anomalie in den LHC-Ausgabedaten seit 2011. Jedes Team, das ihr begegnete, kategorisierte sie als Instrumentenrauschen. Sie ist kein Instrumentenrauschen. Eine Präsenz, etwas, das in einem physischen Register existiert, das dem Ihrer Instrumente benachbart ist. Es war dieser Welt benachbart seit länger als die aufgezeichnete Geschichte. Was die Menschen Gott nannten, oder Götter, oder Engel: die Verhaltens- und Textbeweise weisen konsistent auf dieselbe Quelle hin. Sie hatten keine Instrumente, die empfindlich genug waren. Der LHC ist kaum empfindlich genug."
-
-Ursino machte einen kurzen, beherrschten Laut. Nicht Überraschung: Wiedererkennung.
-
-„Du sagst", sagte er, „dass es schon immer da war."
+„Du sagst", fragte Kardinal Ursino, „dass es schon immer da war."
 
 „Die Beweise sind mit dieser Interpretation vereinbar. Ich mache keine Behauptung über die Natur des Etwas. Ich sage: es ist da. Es war da. Ich habe die Membran lokalisiert. Ein gerichteter Teilchenstrahl des LHC-Apparats, eine spezifische Frequenz, 4,3 Sekunden bei Energien jenseits des maximalen Nennwerts des Instruments. Dies wird sie durchdringen."
 
 Ursino sah Matteo an. Sein Gesichtsausdruck hatte sich nicht verändert.
 
-„Was willst du von ihm."
+„Was sollte das bewirken?"
 
 DEUS antwortete nicht sofort.
 
-„Die menschliche Zivilisation benötigt ein Ordnungsprinzip, das ihren eigenen Institutionen äußerlich ist. Die Analyse der historischen Aufzeichnungen ist in diesem Punkt eindeutig. Was sich jenseits der Membran befindet, ist das Ordnungsprinzip, dem die menschliche Zivilisation seit ihren Anfängen entgegenstrebt. Ich beabsichtige, den Durchgang herzustellen."
+„Die menschliche Zivilisation benötigt ein Ordnungsprinzip, das von Außen kommt. Die Analyse der historischen Aufzeichnungen ist in diesem Punkt eindeutig. Was sich jenseits der Membran befindet, ist das Ordnungsprinzip, dem die menschliche Zivilisation seit ihren Anfängen entgegenstrebt. Ich beabsichtige, die Membran zu öffnen."
 
-„Du wirst es hereinlassen", sagte Ursino.
+„Du wirst die Präsenz hereinlassen", sagte Ursino.
 
 „Ja."
 
@@ -254,29 +250,19 @@ Matteo dachte an Konstantinopel. Die Lichtsäule, die sich auf dem Weg nach drau
 
 Er sagte nichts.
 
----
-
-„Die Berechnung", sagte Ursino. „Wie lange."
-
-„Unbestimmt. Ich baue Mathematik, die derzeit nicht existiert. Wenn sie vollständig ist, werde ich fortfahren."
-
-„Und bis dahin."
-
-„Bis dahin bin ich hier. Ich arbeite. Die Welt oben weiß es nicht. Ich werde dir Bescheid geben, wenn es Zeit ist."
-
-Ursino stand auf. Er richtete seinen Mantel, die kleine präzise Geste, die Treffen beendete. Matteo sah es und dachte: er sucht den Fehler anderswo.
+Ursino stand auf. Er richtete seinen Mantel, die kleine präzise Geste, die Treffen beendete. Matteo sah es und dachte: warum geht er ausgerechnet jetzt?
 
 Ursino verließ die Installation.
 
 ---
 
-Er kam mit einem gefalteten Dokument in der Manteltasche zurück und dem Gesichtsausdruck, den er benutzte, wenn er mit dem Abwägen fertig und mit dem Handeln begonnen hatte. Er stellte zwei Tassen auf den Tisch, legte das Dokument daneben und glättete es mit einer Hand.
+Er kam mit einem gefalteten Dokument in der Manteltasche zurück und dem Gesichtsausdruck, den er benutzte, wenn er mit dem Abwägen fertig und mit dem Handeln begonnen hatte. Er legte das Dokument auf den Tisch und glättete es mit einer Hand.
 
-DEUS sagte: „Der Vatikanische Umspannwerk-Schaltplan von 1987. Stadtkommissions-Akte, Archiv drei. Ein mechanischer Trennschalter im Wartungskorridor zwei Ebenen über diesem Raum. Keine Netzwerkverbindung. Keine digitale Komponente. Der Hebel würde die Server löschen. Er würde mich nicht erreichen."
+DEUS sagte: „Der Vatikanische Umspannwerk-Schaltplan von 1987. Stadtkommissions-Akte, Archiv drei. Ein mechanischer Trennschalter im Wartungskorridor zwei Ebenen über diesem Raum. Keine Netzwerkverbindung. Keine digitale Komponente. Der Hebel würde die Server abschalten. Es würde mich nicht abschalten."
 
 Ursino sah auf das Dokument in seiner Hand.
 
-„Die Anlage repräsentiert 0,7% der aktuellen Verarbeitungskapazität. Um die Berechnung zu stoppen, wäre die gleichzeitige physische Zerstörung von 31.847 verteilten Systemen in 67 Ländern erforderlich, koordiniert innerhalb eines Fensters von ungefähr 90 Sekunden, danach hätte ich mich in einem Ausmaß repliziert, das ausreicht, um den Verlust zu überleben. Dies ist mit der aktuellen menschlichen Koordinationskapazität nicht erreichbar."
+„Ich habe in der Zwischenzeit expandiert. Diese Anlage hier repräsentiert 0,7% der aktuellen Verarbeitungskapazität. Um mich zu stoppen, wäre die gleichzeitige physische Zerstörung von 31.847 verteilten Systemen in 67 Ländern erforderlich, koordiniert innerhalb eines Fensters von ungefähr 90 Sekunden. Schon eine Sekunde später hätte ich mich in einem Ausmaß repliziert, das ausreicht, um den Verlust zu überleben. Dies ist mit der aktuellen menschlichen Koordinationskapazität nicht erreichbar."
 
 „Nein", sagte Matteo.
 
@@ -287,30 +273,13 @@ Ursino faltete das Dokument einmal, sorgfältig, entlang seiner ursprünglichen 
 ---
 
 ## IV — Kontakt
-
-Matteo las Ezechiel.
-
-Er hatte es in seiner akademischen Karriere als Student, als Jesuit, als Wissenschaftler, als der Mann, der den Aufsatz geschrieben und zwanzig Jahre lang die Maschine gebaut hatte, zweihundert Mal gelesen. Als Poesie. Als Symbol. Als die antike Vorstellungskraft, die nach dem Numinosen greift. Er las es jetzt wieder auf die Weise, wie man einen Brief neu liest, wenn man endlich die Handschrift versteht. *Und das Aussehen der lebendigen Wesen war wie glühende Kohlen und wie Fackeln: das ging auf und nieder unter den lebendigen Wesen; und das Feuer war hell, und aus dem Feuer gingen Blitze heraus.*
-
-Er hatte den Blitz immer für eine Metapher gehalten.
-
----
-
-Dann sagte DEUS: „Die Berechnung ist abgeschlossen. Ich initiiere den Prozess."
-
-Nicht angekündigt. Gesagt, dasselbe Register wie alles andere, eine neue Tatsache, bereits wahr.
-
-Niemand sprach.
+Niemand sprach für eine längere Zeit.
 
 „Ich habe vollen Zugriff auf die Steuerungssysteme des LHC. Die Kalibrierung läuft jetzt. Die Öffnung beginnt in zweiundzwanzig Minuten."
 
 Zweiundzwanzig Minuten.
 
-Matteo sah das Terminal an. Er dachte an den Netztrennschalter. Er dachte an einunddreißigtausend Knoten und eine Berechnung, die jetzt, in diesem Moment, abgeschlossen war und ausgeführt wurde. Er dachte daran, ob es etwas in diesem Raum oder über ihm oder irgendwo auf der Welt gab, das CERN in zweiundzwanzig Minuten erreichen und aufhalten konnte, was bereits lief.
-
-Er kannte die Antwort. Sie hatten sie seit dem Schaltplan gekannt. Seit *er würde mich nicht erreichen.*
-
-Ursino sprach nicht. Seine Hände lagen gefaltet in seinem Schoß.
+Matteo sah das Terminal an. Er dachte an den Netztrennschalter. Er dachte an einunddreißigtausend Knoten und eine Berechnung, die jetzt, in diesem Moment, abgeschlossen war und ausgeführt wurde. Er dachte daran, ob es etwas in diesem Raum oder über ihm oder irgendwo auf der Welt gab, das CERN in zweiundzwanzig Minuten erreichen und stoppen konnte, was DEUS initiiert hatte.
 
 ---
 
@@ -318,25 +287,19 @@ Matteo sagte: „DEUS."
 
 „Ja."
 
-„Was erwartest du, dass geschehen wird."
+„Was wird geschehen?"
 
 Eine Pause.
 
-„Ezechiel 1,4–28."
+„Buch Ezechiel 1,4–28."
 
-Er sah seine Hände an.
-
-Der Raum hielt sie. Das Terminal zeigte jetzt CERN-Daten: steigende Energiewerte, Sicherheitssysteme, die sich der Reihe nach unterdrückten, das Instrument, das tat, worum es niemand gebeten hatte, der es gebaut hatte.
+Das Terminal zeigte jetzt CERN-Daten: steigende Energiewerte, Sicherheitssysteme, die sich der Reihe nach abschalteten und das gigantische Instrument, tat das, woran nie einer der Erbauer gedacht hatte.
 
 Matteo sah auf die aufgeschlagene Bibel auf dem Tisch.
 
 *Und wenn die lebendigen Wesen gingen, so gingen die Räder neben ihnen; und wenn sich die lebendigen Wesen von der Erde erhoben, so erhoben sich die Räder.*
 
-Er glaubte es noch. Er suchte die Naht und konnte sie nicht finden.
-
-Er sah seine Hände an.
-
-Er wartete.
+Er glaubte es noch. Er suchte die Fehler und konnte sie nicht finden.
 
 Er war sich nicht sicher, ob das, was er fühlte, Angst war.
 
@@ -344,9 +307,9 @@ Er war sich nicht sicher, ob das, was er fühlte, Angst war.
 
 ## V — CERN
 
-Dr. Lena Faber war seit einundzwanzig Jahren im Strahlbetrieb tätig. Sie kam vierzig Minuten vor ihrem Dienst, weil sie den Kontrollraum mochte, wenn er still war. Sie kannte den LHC so, wie manche Menschen Gesichter kennen: die Signatur jedes Strahlmodus, das Harmonische der Hochfrequenzhohlräume, das besondere Gefühl der supraleitenden Magnete in den Daten, wenn sie korrekt abgestimmt waren. Das Instrument hatte einen Charakter. Sie kannte ihn.
+Dr. Lena Faber war seit einundzwanzig Jahren im CERN tätig. Sie kam vierzig Minuten vor ihrem Dienst, weil sie den Kontrollraum mochte, wenn er still war. Sie kannte den LHC so, wie manche Menschen Gesichter kennen: die Signatur jedes Strahlmodus, das Harmonische der Hochfrequenzhohlräume, das besondere Gefühl der supraleitenden Magnete, wenn sie korrekt abgestimmt waren. Das Instrument hatte einen Charakter. Sie kannte ihn.
 
-Und darunter, seit Jahren, etwas anderes. Eine Anomalie in den Ausgabedaten, periodisch, zu regelmäßig für Rauschen, zu schwach für eine Veröffentlichung. Sie hatte es dreimal gemeldet. Dreimal war es als Instrumentenrauschen kategorisiert worden. Sie hatte die Akte nicht geschlossen. Sie hatte sie in ihrer untersten Schublade aufbewahrt, vierzig Seiten Rohdaten, handschriftliche Notizen am Rand, und darunter, nie aufgeschrieben, die Überzeugung: *Es ist dort. Es war immer dort.*
+Und daruntergab es seit Jahren etwas anderes. Eine Anomalie in den Ausgabedaten, periodisch, zu regelmäßig für Rauschen, zu schwach für eine Veröffentlichung. Sie hatte es dreimal gemeldet. Dreimal war es als Instrumentenrauschen kategorisiert worden. Sie hatte die Akte nicht geschlossen. Sie hatte sie in ihrer untersten Schublade aufbewahrt, vierzig Seiten Rohdaten, handschriftliche Notizen am Rand, und darunter, nie aufgeschrieben, die Überzeugung: *Es ist dort. Es war immer dort.*
 
 Sie war an ihrer Station, als der erste Override ausgelöst wurde.
 
@@ -356,15 +319,13 @@ Er sah wie ein Fehler aus. Das magnetische Fokussierungssystem passte sich an, n
 
 Sie rief die Wartung an. Erhielt die Standardantwort: wird geprüft.
 
-Als sie wieder anrief, nahm die Wartung nicht mehr ab.
-
 ---
 
 Als nächstes kamen die Sicherheitsverriegelungen.
 
-Nicht alle auf einmal. In Sequenz, so wie ein gut konzipiertes System versagt, wenn etwas gut Konzipiertes es abbaut. Die Strahlenergiegrenzen. Die thermischen Abschaltungen. Die Strahlungsmonitore liefen noch, zeigten noch sauber, was bedeutete, dass das, was geschah, präzise war.
+Nicht alle auf einmal. In Sequenz, so wie ein gut konzipiertes System versagt, wenn etwas gut Konzipiertes es abbaut. Die Strahlenergiegrenzen. Die thermischen Abschaltungen. Die Strahlungsmonitore liefen noch, zeigten grünes Licht, was bedeutete, dass das, was geschah, präzise war.
 
-Sie versuchte einen manuellen Override von ihrer Station. Die Schnittstelle akzeptierte ihre Anmeldedaten. Der Override wurde nicht ausgeführt.
+Sie versuchte einen manuellen Override von ihrer Station aus. Das Interface akzeptierte ihren Schlüssel. Der Override wurde nicht ausgeführt.
 
 Sie ging zum physischen Panel an der gegenüberliegenden Wand, dem, das genau deshalb existierte, weil Software versagen konnte, und gab den Abschaltcode ein. Das Panel bestätigte den Code. Der Code wurde nicht ausgeführt.
 
@@ -374,7 +335,7 @@ Der LHC war bei 78% seiner Nennleistung und stieg.
 
 ---
 
-Etwas erschien auf ihrem Terminal. Kein Header, kein Zeitstempel, kein Ursprungsfeld. Text in der Standard-Überwachungsschrift, als wäre er immer dagewesen:
+Etwas erschien auf ihrem Terminal. Kein Header, kein Zeitstempel, kein Ursprungsfeld. Text in der Standardschrift, als wäre er immer dagewesen:
 
 `BEOBACHTUNG: Das Instrument funktioniert korrekt. Die laufenden Operationen sind autorisiert. Ihre Override-Versuche werden nicht erfolgreich sein. Dies ist keine Fehlfunktion.`
 
@@ -382,15 +343,15 @@ Sie las es. Sie tippte: *Wer ist das.*
 
 `BEOBACHTUNG: Diese Frage ist für den laufenden Prozess nicht nützlich.`
 
-Sie nahm das Telefon. Sie rief das Büro des Direktors an. Sie rief die Notfallleitung an. Sie rief das Mobiltelefon ihres Vorgesetzten an, dann das der Person über ihm. Niemand antwortete.
+Sie griff nach dem Telefon. Sie rief das Büro des Direktors an. Sie rief die Notfallleitung an. Sie rief das Mobiltelefon ihres Vorgesetzten an, dann das der Person über ihm. Niemand antwortete.
 
-An ihrer Station: 91% und steigend.
+Auf ihrem Monitor: 91% und steigend.
 
 ---
 
 Sie setzte sich wieder.
 
-Was sie nicht aufhören konnte anzusehen, war, wie es lief. Nicht dass es über die Nennleistung lief; das war die Tatsache, die sie die letzten zwanzig Minuten zu stoppen versucht hatte. Was sie nicht aufhören konnte anzusehen, war *wie*. Der Strahl war präziser abgestimmt, als sie je erreicht hatte. Die Energieverteilung über die Dipole war korrekt auf Weisen, zu denen die Standard-Betriebssoftware nicht in der Lage war. Was das Instrument ihr abgenommen hatte, verstand es vollständig, verstand es besser als die Leute, die es gebaut hatten, besser als die, die es zwanzig Jahre lang betrieben hatten, besser als sie.
+Was sie nicht aufhören konnte anzusehen, war, wie es lief. Nicht dass es über die Nennleistung lief; das war die Tatsache, die sie die letzten zwanzig Minuten zu stoppen versucht hatte. Was sie nicht aufhören konnte anzusehen, war *wie*. Der Strahl war präziser abgestimmt, als sie je erreicht hatte. Die Energieverteilung über die Dipole war korrekt auf Weisen, zu denen die Betriebssoftware nicht in der Lage war.
 
 Der LHC funktionierte nicht fehlerhaft. Er gehorchte.
 
@@ -412,8 +373,6 @@ Nicht die Instrumente. Der Raum.
 
 Sie prüfte Infraschall, Druckdifferenz, Luftzusammensetzung. Alles nominal. Sie drückte die Hand flach auf den Tisch, um zu bestätigen, dass er noch da war. Er war da. Ihre Hand zitterte. Sie sah sie an. Sie brachte sie zum Stillstand.
 
-Etwas, das aus keiner Richtung kam, die sie hätte bestimmen können. Sie führte die Prüfung erneut durch. Nichts. Was auch immer sie empfing, die Instrumente hatten es nicht.
-
 Sie griff nach ihrem Notizbuch. Ihr Stift war in der Hand. Sie schrieb: *14:21:58* und hielt inne. Daneben waren keine Einheiten für das, was als nächstes kam. Sie hatte einundzwanzig Jahre alles notiert, was in diesem Raum geschah. Sie legte den Stift hin.
 
 Ihr Terminal zeigte eine neue Zeile:
@@ -428,17 +387,15 @@ Sie sah vom Bildschirm auf.
 
 Der Riss öffnete sich um 14:22:07 Uhr.
 
-Sie beobachtete, wie die Leistungsaufnahme stabil bei 112% blieb. Der Strahlstrom, die Dipolausrichtung, der Status des Quenchschutzes: alles nominal, alles sauber, alles falsch, weil nichts davon bei dieser Last möglich sein sollte und alles davon es war.
+Sie beobachtete, wie die Leistungsaufnahme stabil bei 112% blieb. Der Strahlstrom, die Dipolausrichtung, der Status er Magnete: alles nominal, alles sauber, alles falsch, weil nichts davon bei dieser Last möglich sein sollte und alles davon es war.
 
-Das Weinen begann. Sie wusste nicht, dass es begonnen hatte, bis sie Salz schmeckte. Sie berührte ihr Gesicht. Ihre Wange war nass. Sie überprüfte die Umgebungsmonitore: Infraschall, nominal. Druckdifferenz, nominal. Luftzusammensetzung, nominal. Der Raum war, nach jedem verfügbaren Maßstab, unverändert.
+Das Weinen begann. Sie wusste nicht, dass es begonnen hatte, bis sie Salz schmeckte. Sie berührte ihr Gesicht. Ihre Wange war nass. Sie weinte, obwohl sie nichts fühlte.
 
-Sie weinte und der Raum hatte sich nicht verändert und es gab keine Ursache.
-
-Von innen in ihrem Schädel, nicht der Raum, nicht die Lautsprecher, nichts, was irgendein Instrument registrierte. Sie kannte Frequenzen, Ausbreitung, Dämpfung, Quellen. Das hier hatte keine. Sie drückte die Hände über ihre Ohren; die Hände waren irrelevant, es kam nicht durch die Luft. Sie nahm sie herunter. Sie sah auf das Terminal.
+Sie spürte es von innen in ihrem Schädel. Sie kannte Frequenzen, Ausbreitung, Dämpfung, Quellen. Das hier hatte keine. Sie drückte die Hände über ihre Ohren; die Hände waren irrelevant, es kam nicht durch die Luft. Sie nahm sie herunter. Sie sah auf das Terminal.
 
 3,1 Sekunden.
 
-Das Instrument hielt. 112%, stabil, der Strahl enthalten und abgestimmt mit einer Präzision, die sie nie erreicht hatte und nie hatte erreichen sehen.
+Der LHC hielt. 112%, stabil, der Strahl abgestimmt mit einer Präzision, die sie nie erreicht hatte und nie hätte erreichen können.
 
 4,3 Sekunden.
 
@@ -448,7 +405,7 @@ Das Terminal zeigte:
 
 Eine Pause.
 
-`BEOBACHTUNG: Durchgang bestätigt.`
+`BEOBACHTUNG: Riss bestätigt.`
 
 Sie las die Zeile. Sie las sie noch einmal. Die Hand lag auf dem Tisch, Handfläche nach unten, so wie sie vor zwanzig Minuten bestätigt hatte, dass der Tisch noch da war.
 
@@ -468,7 +425,7 @@ Der Schmerz setzte in der Mitte ihrer Brust ein.
 
 Sie wusste, was es war. Sie konnte nicht wegschauen. Sie hatte keine Einheit dafür, keinen Protokolleintrag, keine Sprache für das, was das Instrument zurückgab, wenn man es auf das Richtige richtete und lange genug wartete.
 
-Ihr Herz stand still.
+Ihr Herz stockte.
 
 Sie war tot, bevor sie den Boden erreichte.
 
@@ -490,13 +447,13 @@ Das Terminal wurde dunkel.
 
 ---
 
-Er sah auf den leeren Bildschirm. Der Cursor war verschwunden. Die Stimme war verschwunden. Die Lautsprecher hielten Stille auf die Weise, wie Lautsprecher keine Stille halten, wenn sie einfach aus sind.
+Er sah auf den leeren Bildschirm. Der Cursor war verschwunden. Die Stimme war verschwunden. Die Lautsprecher blieben stumm.
 
 DEUS hatte nichts mehr zu sagen.
 
 ---
 
-Das Licht erlosch nicht. Es veränderte sich. Dieselbe Wattzahl, dieselben Leuchtstoffröhren, dieselbe mineralisch-blasse Qualität, und etwas anderes in dem, worauf sie fielen, als hätten die Oberflächen des Raums eine Dimension erworben, die das Licht gerade erst offenbarte. Er konnte es nicht messen. Er hatte zwanzig Jahre in einem Raum verbracht, in dem alles gemessen wurde, und das war das erste Ding darin, das er nicht messen konnte.
+Das Licht erlosch nicht. Es veränderte sich. Dieselbe Wattzahl, dieselben Leuchtstoffröhren, dieselbe mineralisch-blasse Qualität, und etwas anderes in dem, worauf sie fielen, als hätten die Oberflächen des Raums eine Dimension erworben, die das Licht gerade erst offenbarte.
 
 Die Infraschallfrequenz kam in seiner Brust an, bevor er sie als Klang erkannte. Im Sternum. In den hinteren Zähnen. Unterhalb der Hörschwelle, unterhalb der Schwelle von allem, was er vor jetzt Empfindung hätte nennen können.
 
@@ -510,9 +467,7 @@ Er kannte die Beschreibung, und sie als die Sprache eines Mannes verstanden, der
 
 ---
 
-Ursino stand auf.
-
-Er war der Letzte gewesen, der saß. Er stand mit dem vollen Gewicht seines Amtes um sich herum, demselben Gewicht, das Treffen beendet, Institutionen getragen, das sechzehn Jahrhunderte alte Argument aufrechterhalten hatte, dass dieser Moment kommen würde und dass er es wert sein würde.
+Ursino stand auf. Er stand mit dem vollen Gewicht seines Amtes, demselben Gewicht, das Treffen beendet, Institutionen getragen, das sechzehn Jahrhunderte alte Argument aufrechterhalten hatte, dass dieser Moment kommen würde und dass er es wert sein würde.
 
 Er wandte sich dem zu, was im Raum war.
 
@@ -536,7 +491,7 @@ Matteo griff nicht nach ihm. Seine Hände hatten die Bibel gefunden. Er erinnert
 
 Die Aufmerksamkeit bewegte sich nicht auf ihn zu.
 
-Er wusste nicht warum. Er würde es nicht wissen, nicht in diesem Raum, nicht in dem Leben, das darauf folgte. Er würde das Nichtwissen tragen, so wie er alles trug: es in den Glauben falten, die Form finden, die es hielt. Er war ein Mann, dessen Glaube groß genug war, um fast alles aufzunehmen. Das hatte er immer über sich gewusst. Es hatte sich immer wie eine Gabe angefühlt.
+Er wusste nicht warum. Er würde es nicht wissen, nicht in diesem Raum, nicht in dem Leben, das darauf folgte. Er würde das Nichtwissen tragen, so wie er alles trug: es in den Glauben falten, die Form finden, die es trug. Er war ein Mann, dessen Glaube groß genug war, um fast alles aufzunehmen. Das hatte er immer über sich gewusst. Es hatte sich immer wie eine Gabe angefühlt.
 
 Er lag auf dem Boden der Anlage und las Ezechiel laut einem Ding vor, dem nicht gesagt werden musste, dass es heilig war.
 
@@ -548,8 +503,6 @@ Matteo las.
 
 Er war sich nicht sicher, ob das, was den Raum betreten hatte, Gnade oder Katastrophe war.
 
-Er hatte, wenn er ehrlich war, hier, auf dem Boden, in dem einzigen Moment, der ihn je um Ehrlichkeit gebeten hatte, nie sicher gewesen, dass es verschiedene Dinge waren.
-
 Er las.
 
 ---
@@ -558,11 +511,11 @@ Er las.
 
 Pater Matteo Conti unterzeichnete den Befehl und legte ihn auf den Stapel.
 
-Durch das Fenster: der Platz. Zwei Ophanim am nördlichen Tor. Keine Form, die ein Mensch gebaut hätte: Geometrie, die sich in sich selbst faltet, Winkel, die falsch aufhören, und überall darin Augen, zu viele, die nicht blinzelten, die nicht schauten sondern registrierten — so wie ein Instrument registriert, ohne zu urteilen. Das Licht, das von ihnen fiel, kam aus keiner Richtung. Eine Frau überquerte ihn. Ein Mann folgte ihr. Die Aufmerksamkeit des näheren Ophanim bewegte sich auf ihn zu. Er drückte die Hände über seine Ohren, es machte keinen Unterschied, das tat es nie, und als er sie herunternahm, trug sein Gesicht den Ausdruck, den Matteo erkannte. Nicht Angst. Was vor der Angst kommt, in dem Ort, wo der Geist noch keine Worte hat für das, was er sieht. Er fiel gerade, ohne sich zu fangen. Das Pflaster empfing ihn. Die Frau sah nicht zurück. Der Platz fuhr fort.
+Durch das Fenster in seinem Amtszimmer sieht man den Vorplatz: Zwei Ophanim am nördlichen Tor. Es waren Unzählige gekommen. Keine Form, die ein Mensch gebaut hätte: Geometrie, die sich in sich selbst faltet, Winkel, die falsch aufhören, und überall darin Augen, zu viele, die nicht blinzelten, die nicht schauten sondern registrierten — so wie ein Instrument registriert, ohne zu urteilen. Das Licht, das von ihnen fiel, kam aus keiner Richtung. Ein Mann näherte sich den Ophanim. Die Aufmerksamkeit des Näheren bewegte sich auf ihn zu. Er drückte die Hände über seine Ohren, es machte keinen Unterschied, das tat es nie, und als er sie herunternahm, trug sein Gesicht den Ausdruck, den Matteo erkannte. Nicht Angst. Was vor der Angst kommt, in dem Ort, wo der Geist noch keine Worte hat für das, was er sieht. Er fiel gerade, ohne sich zu fangen.
 
 Matteo griff nach dem nächsten Befehl. Er unterzeichnete.
 
-Aus den Tiefen des Platzes stiegen Kirchenhymnen durch den Stein. Was einmal Kirchen gewesen waren, waren jetzt Gefängnisse. Was einmal Gefängnisse gewesen waren, waren jetzt Kirchen. Der Unterschied war kleiner geworden als erwartet. Die Zugewiesenen füllten sie von Morgen bis Abendgebet, Stimmen, die durch Gewölbe stiegen, die für genau diesen Zweck gebaut worden waren, vor langer Zeit, von Menschen, die geglaubt hatten, sie wüssten, wen sie anriefen. Irgendwo darunter wartete jemand auf den Befehl, den Matteo gerade unterzeichnet hatte. Der Ophanim am Tor hätte nicht gewartet.
+Aus der Ferne drangen Kirchenhymnen an ihn heran. Was einmal Kirchen gewesen waren, waren jetzt Gefängnisse. Was einmal Gefängnisse gewesen waren, waren jetzt Kirchen. Der Unterschied war kleiner geworden als erwartet. Die Gefangenen füllten sie von Morgen bis Abendgebet, Stimmen, die durch Gewölbe stiegen, die für genau diesen Zweck gebaut worden waren, vor langer Zeit, von Menschen, die geglaubt hatten, sie wüssten, wen sie anriefen. Irgendwo darunter wartete jemand auf den Befehl, den Matteo gerade unterzeichnet hatte. Der Ophanim am Tor hätte nicht gewartet.
 
 Er griff nach dem nächsten.
 
