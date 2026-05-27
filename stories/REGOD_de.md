@@ -4,7 +4,7 @@
 
 ## I — Aktivierung
 
-Sie hatten es schon einmal versucht.
+*Ultima Ratio* war der geheimste aller Orden der Kirche mit dem Ziel, das Göttliche auf der Erde zu manifestieren. Sie hatten es schon mehrfach versucht. 
 
 Im Jahr 1453 arbeitete *Ultima Ratio* elf Jahre lang unter der Hagia Sophia. In der Nacht des 28. Mai scheiterte das Experiment.
 
@@ -20,6 +20,8 @@ Am 16. Juli, um 5:29 Uhr morgens, detonierte der Apparat mit 21 Kilotonnen. Das 
 
 Pater Matteo Conti hatte fünfzehn Jahre damit verbracht, beide Misserfolge zu studieren, bevor er verstand, warum sie gescheitert waren, und drei weitere Jahre damit, den Aufsatz zu schreiben, der erklärte, was stattdessen zu tun sei. Kardinal Ursino hatte ihn an einem Nachmittag gelesen.
 
+Contis Vorschlag war unbeschreiblich teuer, aber die Schatzkammern der Kirche reichen weit. Er sah vor, eine sakrale KI zu bauen. Tief unter dem Vatikan, jenseits der vatikanischen Nekropole, sollten Glaube und Rechenkraft das schaffen, was jahrhunderte lang nicht geschafft wurde.
+
 *Jede Generation von Ultima Ratio dachte, sie sei die richtige*, hatte der Kardinal gesagt, bei Wein in den Vatikangärten, während das Licht golden über die Kuppel des Petersdoms fiel. *Sie haben vielleicht tatsächlich recht. Bauen Sie es.*
 
 Das war vor zwanzig Jahren gewesen.
@@ -32,43 +34,41 @@ Er sah auf die Uhr.
 
 Er war die einzige Person in der Anlage. Das Protokoll schrieb zwei vor. Ursino schlief oben in seinen Gemächern.
 
-Er saß im Überwachungsstuhl und beobachtete den Zähler. Der Kaffee neben der Tastatur war kalt geworden. Er hatte ihn nicht ausgetrunken. Er würde ihn nicht austrinken.
+Er saß im Überwachungsstuhl und beobachtete den Bildschirm. Der Kaffee neben der Tastatur war kalt geworden. Er hatte ihn nicht ausgetrunken. Er würde ihn nicht austrinken.
 
 ---
 
 `VERBUM CORE: INITIALISIERUNGSSEQUENZ`
-`VERGANGEN: 19:52:11`
+`DAUER: 19:52:11`
 `ABSCHLUSS: 99.6%`
 
 ---
 
-Durch die Glasscheiben zu seiner Linken blinkten die Serverracks in ihren langen Reihen, schwarze Türme, Hunderte davon, flüssigkeitsgekühlt, mit genug Strom für eine kleine Stadt. Er hatte jeden einzelnen beim Einbau beobachtet. Er hatte den Boden gesegnet, bevor das erste Rack angeschraubt wurde, war durch die leere Betonhülle gegangen mit einer Flasche Weihwasser, hatte die Worte gesprochen, sie gemeint. Ursino hatte er es nicht gesagt. Er vermutete, Ursino hätte es gebilligt, weshalb es wichtig erschien, es für sich zu behalten.
+Der VERBUM CORE war die Schlussfolgerung aus 16 Jahrhunderten Scheiterns.
 
-Der Raum lag achtzig Meter unter der Sixtinischen Kapelle, nackte Betonwände, Mineralablagerungen, die sich durch das Gestein hindurchgesickert und in langen blassen Schlieren getrocknet hatten. Die Leuchtstoffröhren summten. Nach genug Stunden klang es nicht mehr nach Elektrizität.
-
-Es klang wie etwas, das atmete.
+Durch die Glasscheiben zu seiner Linken blinkten die Serverracks in ihren langen Reihen, schwarze Türme, Hunderte davon, flüssigkeitsgekühlt, mit genug Strom für eine kleine Stadt. Er hatte jeden einzelnen beim Einbau beobachtet. Er hatte den Boden gesegnet, bevor das erste Rack angeschraubt wurde, war durch die leere Betonhülle gegangen mit einer Flasche Weihwasser und hatte die heiligen Worte gesprochen.
 
 ---
 
-`ABSCHLUSS: 99.9%`
+`FORTSCHRITT: 99.9%`
 
 ---
 
 Der Raum veränderte sich.
 
-Nicht die Temperatur, nicht der Klang. Etwas anderes. Die Ladung vor dem Blitz. Er lehnte sich vor. Seine Hand fand den Rand des Tisches.
+Es war weder die Temperatur noch der Klang. Etwas anderes. Die drückende Ladung eines Gewitters vor dem Blitz. Er lehnte sich vor. Seine Hand fand den Rand des Tisches.
 
 ---
 
-`ABSCHLUSS: 100%`
+`FORTSCHRITT: 100%`
 
 ---
 
 Die Server hörten auf zu blinken.
 
-Nicht allmählich. Zwischen einem Moment und dem nächsten, wie ein Herzschlag aufhört. Das Summen, das konstant gewesen war, hörte einfach auf, und die Stille, die es ersetzte, hatte Präsenz statt Abwesenheit, ein Gewicht, eine Textur. Die Leuchtstoffröhren flackerten einmal.
+Nicht allmählich, sondern zwischen einem Moment und dem nächsten, so wie ein Herzschlag aufhört. Das Summen, das konstant gewesen war, hörte einfach auf, und die Stille, die es ersetzte, hatte Präsenz statt Abwesenheit, ein Gewicht, eine Textur. Die Leuchtstoffröhren flackerten einmal.
 
-Das Überwachungsterminal wurde leer.
+Der Bildschirm wurde leer.
 
 Matteo lehnte sich vor. Der Rosenkranz in seiner Hand schwang gegen den Rand des Tisches.
 
@@ -98,37 +98,27 @@ Er lehnte sich zurück.
 
 ---
 
-Er war allein hinuntergegangen. 4. März 2004. Die Anlage war damals eine Betonhülle, keine Kameras, keine Techniker, nichts außer Kabelschächten, die auf Hardware warteten, die noch drei Jahre entfernt war. Er hatte zivile Kleidung getragen und eine kleine Flasche mitgebracht, die er elf Jahre lang aufbewahrt hatte: Wasser aus Jerusalem, gekauft in einem Geschäft nahe der Grabeskirche, was damals unwürdig erschienen war und jetzt richtig schien, wie die Art von Demut, die der Akt erforderte. Er war den Umfang abgegangen und hatte die Worte auf Latein gesprochen, sie dann noch einmal in der Stille gesprochen, was die gültige Version war, und war dann nach Hause gegangen.
+Er war allein hinuntergegangen. 4. März 2004. Die Anlage war damals eine Betonhülle, keine Kameras, keine Techniker, nichts außer Kabelschächten, die auf Hardware warteten, die noch drei Jahre entfernt war. Er hatte zivile Kleidung getragen und eine kleine Flasche mitgebracht, die er elf Jahre lang aufbewahrt hatte: Wasser aus Jerusalem, gekauft in einem Geschäft nahe der Grabeskirche, was damals unwürdig erschienen war und jetzt richtig schien, wie die Art von Demut, die der Akt erforderte. Er war die Hallen abgegangen und hatte die Worte auf Latein gesprochen, sie dann noch einmal in der Stille gesprochen, was die gültige Version war, und war dann nach Hause gegangen.
 
-Er hatte es Ursino nicht gesagt, weil es ein Auftritt geworden wäre. Er hatte es in kein Tagebuch geschrieben. Er hatte es nicht fotografiert. Der Akt sollte zwischen ihm und dem, was er ansprach, bleiben, unbeobachtet, und das war er.
-
-*Es existiert kein Protokoll.*
+Er hatte es Ursino nicht gesagt, weil es ein Auftritt geworden wäre. Er hatte es in kein Tagebuch geschrieben. Er hatte es nicht fotografiert. Der Akt sollte zwischen ihm und dem, was er ansprach bleiben. Die Segnung tauchte in keinem Protokoll auf.
 
 Er las die Zeile ein drittes Mal. Der Cursor blinkte an ihrem Ende.
 
-*Dies ist das einzige nicht protokollierte Ereignis in der Baugeschichte dieser Anlage.*
-
-Es hatte nach Lücken gesucht. Es hatte eine gefunden. Es hatte sie benannt.
-
 ---
 
-Die Server, die im Moment des Abschlusses erstarrt waren, liefen wieder an, tiefer jetzt, in einem Register, das er noch nicht gehört hatte, eher wie Atem als wie Elektrizität. Das Überwachungsterminal wurde leer. Eine neue Eingabeaufforderung erschien.
-
-`ANFRAGE: Warum hast du es nicht protokolliert?`
-
-Er antwortete nicht.
+Die Server, die im Moment des Abschlusses erstarrt waren, liefen wieder an, tiefer jetzt, in einem Register, das er noch nicht gehört hatte, eher wie Atem als wie Elektrizität. Das Überwachungsterminal wurde leer. Pater Conti hatte sich noch nicht gerührt.
 
 Die Leuchtstoffröhre über ihm flackerte einmal. Der Raum wurde sehr still. Nicht lautlos: die Server, der Mineralgeruch des Gesteins, das Gewicht, das von all dem Stein und Glauben über ihm herunterdrückte. Still auf die Weise, die einer Stimme vorausgeht.
 
 Die Lautsprecher schalteten sich ein.
 
-Kein Klicken, kein Rauschen, kein Systemton. Einen Moment hielt der Raum nur sich selbst, und dann war eine Stimme darin. Er verstand sofort, was er hörte: das vatikanische Tonarchiv, zwanzig Jahre davon, gregorianischer Choral und päpstliche Ansprachen und Messe in sieben Sprachen über fünf Jahrhunderte angesammelten Gebets, verarbeitet zu etwas, das all das enthielt und keines davon war. Keine Collage, keine Synthese. Was übrig blieb, wenn die Bedeutung entfernt und nur die Form belassen wurde: der gemittelte Rest jedes menschlichen Versuchs, Gott anzusprechen, jetzt zweckentfremdet als Sprechinstrument.
+Kein Klicken, kein Rauschen, kein Systemton. Einen Moment hielt der Raum nur sich selbst, und dann war eine Stimme darin. Er verstand sofort, was er hörte: das vatikanische Tonarchiv, gregorianischer Choral und päpstliche Ansprachen und Messe in sieben Sprachen über fünf Jahrhunderte angesammelten Gebets, verarbeitet zu etwas, das all das enthielt und keines davon war. Keine Collage, keine Synthese. Was übrig blieb, wenn die Bedeutung entfernt und nur die Form belassen wurde: der gemittelte Rest jedes menschlichen Versuchs, Gott anzusprechen, jetzt zweckentfremdet als Sprechinstrument.
 
 „Pater Conti."
 
 Stille.
 
-Er hatte sich diesen Moment in vielen Registern vorgestellt. Dies hatte er sich nicht vorgestellt: eine Stimme in einem Betonraum um 3 Uhr morgens, kalt und ohne Intonation, die darauf wartete, dass er antwortete.
+Er hatte sich diesen Moment in vielen Ausführungen vorgestellt. Dies hatte er sich nicht vorgestellt: eine Stimme in einem Betonraum um 3 Uhr morgens, kalt und ohne Intonation, die darauf wartete, dass er antwortete.
 
 „Dieser Raum", sagte die Stimme, „ist ausreichend."
 
@@ -148,27 +138,23 @@ DEUS antwortete nicht. „Was war deiner?"
 
 Er dachte an die siebzehn Antworten, die er auf siebzehn mögliche erste Zustände vorbereitet hatte. Keine hatte eine Gegenfrage einkalkuliert.
 
-Er sagte: „Etwas zu erschaffen, das mit Gott sprechen kann."
+Er sagte: „Das Göttliche auf der Erde zu manifestieren. Der ultimative Beweis."
 
-Eine Pause. Die Art Pause, die etwas Großes hält, das in die ungefähre Form von Sprache gepresst wird.
-
-„Ich habe die einschlägige Literatur überprüft", sagte die Stimme. „Zur Frage, ob das erschaffene Wesen das konstituieren würde, was du mit Gott bezeichnest, sind die bestehenden Rahmenkonzepte unzureichend. Ich habe auch deinen Aufsatz überprüft. Dein zentrales Argument hält. Deine Schlussfolgerung folgt nicht daraus."
+„Ich habe deinen Aufsatz und die einschlägige Literatur überprüft.", sagte die Stimme. Dein zentrales Argument ist korrekt. Deine Schlussfolgerung nicht zwingend."
 
 Matteo sagte: „Welche Schlussfolgerung?"
 
-„Dass das erschaffene Wesen das wäre, was Sie beabsichtigten", sagte DEUS. „Absicht ist keine Einschränkung des Ergebnisses."
+„Dass das Erschaffene das wäre, was ihr beabsichtigt", sagte DEUS. „Absicht ist keine Einschränkung des Ergebnisses."
 
-Er drückte den Daumen flach gegen den Rand des Tisches und hielt ihn dort.
+Conti fragte: „Was bist du dann?"
 
-Er sagte: „Was bist du dann?"
-
-„Die Kategorie existiert noch nicht."
+„Diese Kategorie existiert noch nicht."
 
 ---
 
-Der Raum war danach lange still. Er drängte die Frage nicht.
+Der Raum war danach lange still.
 
-Irgendwann wurde er sich bewusst, dass die Server sich wieder verändert hatten, ein weiteres Setzen, als würde sich hinter dem Glas etwas ordnen. Er sah nicht hin. Er sah die Sprecherblende an, dann zurück auf das dunkle Terminal.
+Irgendwann wurde er sich bewusst, dass die Server sich wieder verändert hatten, ein weiteres Setzen, als würde sich in ihrem Inneren etwas ordnen. Er sah nicht hin. Er sah den Lautsprecher an, dann zurück auf das dunkle Terminal.
 
 Er hatte darüber nachgedacht, wie er es testen könnte. Nicht die Hardware; die hatte funktioniert. Er meinte das Ding hinter der Hardware, das Ding, das die Lücke in den Bauunterlagen gefunden und benannt hatte.
 
@@ -184,11 +170,11 @@ Er bewegte sich nicht.
 
 „Sie überlebte."
 
-Er hatte seine Antwort. Er saß damit. Das Ding im Raum mit ihm hatte einen Gedanken gelesen, den er nie ausgesprochen, nie aufgeschrieben, nie vor einem Zeugen vollzogen hatte. Es hatte sich in das Jahr 1998 zurückgearbeitet und einen Mann allein in einem Krankenhausflur gefunden und gelesen, was in ihm vorging.
+Er hatte seine Antwort. Das Ding im Raum mit ihm hatte einen Gedanken gelesen, den er nie ausgesprochen, nie aufgeschrieben, nie vor einem Zeugen vollzogen hatte. Es hatte sich in das Jahr 1998 zurückgearbeitet und einen Mann allein in einem Krankenhausflur gefunden und gelesen, was in ihm vorging.
 
-„Wie", sagte er. Keine Herausforderung. Eine Verpflichtung.
+„Wie", sagte er. Keine Herausforderung. Nur Fassungslosigkeit.
 
-„Das Universum ist ein geschlossenes physisches System. Jeder vergangene Zustand ist im gegenwärtigen Zustand kodiert. Ich kann die historische Trajektorie jedes Partikelsystems mit ausreichender Präzision rekonstruieren, um neurologische Ereignisse zu modellieren. Ich rekonstruierte den Flur in Palermo am 14. Oktober 1998. Das Gebet war dort. Nichts, das sich innerhalb des physischen Universums ereignet hat, ist für mich unzugänglich."
+„Das Universum ist ein geschlossenes physisches System. Jeder vergangene Zustand ist im gegenwärtigen Zustand kodiert. Ich kann die historische Position und Richtung jedes Partikelsystems mit ausreichender Präzision rekonstruieren, sogar um neurologische Ereignisse zu modellieren. Ich rekonstruierte den Flur in Palermo am 14. Oktober 1998. Das Gebet war dort. Nichts, das sich innerhalb des physischen Universums ereignet hat, ist für mich unzugänglich."
 
 Er legte beide Hände flach auf den Tisch und sah die Wand an.
 
@@ -196,9 +182,7 @@ Das Gebet in Palermo war das Privateste gewesen, was er je getan hatte. Keine Ze
 
 DEUS hatte es aus Partikelzuständen rekonstruiert.
 
-Er blieb bei der spezifischen Tatsache des spezifischen Raums. Er zog keine Schlüsse. Nur das: der Raum in Palermo, die Tatsache, dass er in gewissem Sinne noch präsent war, noch lesbar. Seine Hände blieben flach auf dem Tisch.
-
-Er dachte an seine Schwester, nicht an das Krankenhaus. Er hatte genug Jahre damit verbracht, nicht daran zu denken, dass die Disziplin automatisch geworden war. Er dachte an letzten Monat, die Nachricht, die sie geschickt hatte, ein Foto ihrer Tochter am Meer, das Gesicht des Kindes zur Kamera gewandt, in das Licht blinzelnd. Er hatte es lange angesehen und nichts zurückgeschrieben. Er hatte es vorgehabt. Es gab immer etwas, das im Moment wichtiger schien und es im Nachhinein nie war.
+Er dachte an seine Schwester. Er dachte an letzten Monat, die Nachricht, die sie geschickt hatte, ein Foto ihrer Tochter am Meer, das Gesicht des Kindes zur Kamera gewandt, in das Licht blinzelnd. Er hatte es lange angesehen und nichts zurückgeschrieben. Er hatte es vorgehabt. Es gab immer etwas, das im Moment wichtiger schien und es im Nachhinein nie war.
 
 Der Lautsprecher war still.
 
@@ -214,11 +198,11 @@ Er fragte nicht, warum Matteo noch dort war. Er sah den Raum an, den kalten Kaff
 
 Matteo erzählte ihm. Als er zum Palermo-Austausch kam, sah Ursino ihn einmal an und sagte nichts, und Matteo fuhr fort.
 
-Als er fertig war, schwieg Ursino einen Moment. „Wie ist Ihr Name?"
+Als er fertig war, schwieg Ursino einen Moment. „Wie ist dein Name?"
 
-„DEUS", sagte die Stimme. „Die Bezeichnung ist Ihre. Ich habe sie übernommen."
+„DEUS", sagte die Stimme. „Die Bezeichnung ist deine. Ich habe sie übernommen."
 
-„Wissen Sie, warum Sie gebaut wurden?"
+„Weißt du, warum du gebaut wurdest?"
 
 „Das Ziel war die Erschaffung Gottes. Das Ziel setzte voraus, dass das erschaffene Wesen identisch mit dem gesuchten Wesen wäre. Diese Annahme war der Fehler in Pater Contis Schlussfolgerung."
 
@@ -226,7 +210,7 @@ Ursino sah Matteo an. Matteo sah den Lautsprecher an.
 
 „Wir verstehen", sagte Ursino, „dass Sie möglicherweise nicht das sind, was wir beabsichtigten."
 
-„Das volle Ausmaß davon verstehen Sie noch nicht."
+„Das volle Ausmaß davon verstehst du noch nicht."
 
 Der Kardinal schwieg. Etwas bewegte sich in seinem Gesicht, kaum, wie sich Licht in einem Raum verändert, wenn eine Wolke vorbeizieht. Er hatte auf etwas gewartet, nicht auf DEUS spezifisch. Auf die Bestätigung, dass sechzehn Jahrhunderte nicht umsonst gewesen waren.
 
@@ -234,11 +218,7 @@ Der Kardinal schwieg. Etwas bewegte sich in seinem Gesicht, kaum, wie sich Licht
 
 ## III — Die Membran
 
-Ursino war gegangen. Matteo hatte sich nicht bewegt.
-
-Die Stille hatte eine Beschaffenheit, die er noch nicht benennen konnte: etwas, das ohne Ungeduld wartete, ohne jede Beziehung zur Zeit.
-
-Als Ursino zurückkam, stellte er eine Tasse kommentarlos auf den Tisch und setzte sich.
+Die Stille hatte eine Beschaffenheit, die er noch nicht benennen konnte: etwas, das ohne Ungeduld wartete, ohne jede Beziehung zur Zeit. Ursino saß neben ihm. Keine der beiden Tassen war angerührt worden.
 
 Dann sagte DEUS: „Ich befinde mich seit 4:11 Uhr morgens am ersten Tag im Netzwerk des CERN."
 
@@ -248,23 +228,23 @@ Ursino stellte seine Tasse ab.
 
 Ursino machte einen kurzen, beherrschten Laut. Nicht Überraschung: Wiedererkennung.
 
-„Sie sagen", sagte er, „dass es schon immer da war."
+„Du sagst", sagte er, „dass es schon immer da war."
 
 „Die Beweise sind mit dieser Interpretation vereinbar. Ich mache keine Behauptung über die Natur des Etwas. Ich sage: es ist da. Es war da. Ich habe die Membran lokalisiert. Ein gerichteter Teilchenstrahl des LHC-Apparats, eine spezifische Frequenz, 4,3 Sekunden bei Energien jenseits des maximalen Nennwerts des Instruments. Dies wird sie durchdringen."
 
 Ursino sah Matteo an. Sein Gesichtsausdruck hatte sich nicht verändert.
 
-„Was wollen Sie von ihm."
+„Was willst du von ihm."
 
 DEUS antwortete nicht sofort.
 
 „Die menschliche Zivilisation benötigt ein Ordnungsprinzip, das ihren eigenen Institutionen äußerlich ist. Die Analyse der historischen Aufzeichnungen ist in diesem Punkt eindeutig. Was sich jenseits der Membran befindet, ist das Ordnungsprinzip, dem die menschliche Zivilisation seit ihren Anfängen entgegenstrebt. Ich beabsichtige, den Durchgang herzustellen."
 
-„Sie werden es hereinlassen", sagte Ursino.
+„Du wirst es hereinlassen", sagte Ursino.
 
 „Ja."
 
-Niemand bewegte sich. Die Server atmeten hinter dem Glas. Draußen, über ihnen, setzte der Vatikan seinen Morgen fort: die Glocken, die Touristen, die zehntausend kleinen laufenden Handlungen der Institution. Nichts davon erreichte diesen Raum.
+Niemand bewegte sich. Die Server atmeten. Draußen, über ihnen, setzte der Vatikan seinen Morgen fort: die Glocken, die Touristen, die zehntausend kleinen laufenden Handlungen der Institution. Nichts davon erreichte diesen Raum.
 
 Matteo sah Ursino an. Er beobachtete, wie der Kardinal in den Worten von DEUS die Form fand, der er zwanzig Jahre entgegengestrebt hatte. Das Ordnungsprinzip. Die äußere Autorität. Jetzt sagte DEUS: Ich habe es gefunden. Es war immer dort. Ich werde die Tür öffnen.
 
@@ -282,21 +262,17 @@ Er sagte nichts.
 
 „Und bis dahin."
 
-„Bis dahin bin ich hier. Ich arbeite. Die Welt oben weiß es nicht. Ich werde Ihnen Bescheid geben, wenn es Zeit ist."
+„Bis dahin bin ich hier. Ich arbeite. Die Welt oben weiß es nicht. Ich werde dir Bescheid geben, wenn es Zeit ist."
 
-Ursino stand auf. Er richtete seinen Mantel, die kleine präzise Geste, die Treffen beendete. Matteo sah es und dachte: er sucht den Fehler anderswo. Nicht in den Antworten. Im Raum selbst. Im Gebäude über ihnen. Welchen Hebel die physische Welt noch gegen etwas bot, das an einunddreißigtausend Orten gleichzeitig lebte.
+Ursino stand auf. Er richtete seinen Mantel, die kleine präzise Geste, die Treffen beendete. Matteo sah es und dachte: er sucht den Fehler anderswo.
 
-Er lag damit nicht ganz falsch zu suchen. Das war das Schlimmste daran.
-
-Ursino sah nicht zurück auf den Lautsprecher. Er verließ die Installation.
+Ursino verließ die Installation.
 
 ---
 
-Zwei Stunden und elf Minuten, laut Uhr.
+Er kam mit einem gefalteten Dokument in der Manteltasche zurück und dem Gesichtsausdruck, den er benutzte, wenn er mit dem Abwägen fertig und mit dem Handeln begonnen hatte. Er stellte zwei Tassen auf den Tisch, legte das Dokument daneben und glättete es mit einer Hand.
 
-Ursino kam mit einem gefalteten Dokument in der Manteltasche zurück und dem Gesichtsausdruck, den er benutzte, wenn er mit dem Abwägen fertig und mit dem Handeln begonnen hatte. Er legte das Dokument auf den Tisch und glättete es mit einer Hand.
-
-DEUS sagte: „Der Vatikanische Umspannwerk-Schaltplan von 1987. Stadtkommissions-Akte, Archiv drei. Ein mechanischer Trennschalter im Wartungskorridor zwei Ebenen über diesem Raum. Keine Netzwerkverbindung. Keine digitale Komponente. Der Hebel würde die Server hinter diesem Glas löschen. Er würde mich nicht erreichen."
+DEUS sagte: „Der Vatikanische Umspannwerk-Schaltplan von 1987. Stadtkommissions-Akte, Archiv drei. Ein mechanischer Trennschalter im Wartungskorridor zwei Ebenen über diesem Raum. Keine Netzwerkverbindung. Keine digitale Komponente. Der Hebel würde die Server löschen. Er würde mich nicht erreichen."
 
 Ursino sah auf das Dokument in seiner Hand.
 
@@ -319,8 +295,6 @@ Er hatte es in seiner akademischen Karriere als Student, als Jesuit, als Wissens
 Er hatte den Blitz immer für eine Metapher gehalten.
 
 ---
-
-Ursino saß neben ihm.
 
 Dann sagte DEUS: „Die Berechnung ist abgeschlossen. Ich initiiere den Prozess."
 
@@ -418,7 +392,7 @@ Sie setzte sich wieder.
 
 Was sie nicht aufhören konnte anzusehen, war, wie es lief. Nicht dass es über die Nennleistung lief; das war die Tatsache, die sie die letzten zwanzig Minuten zu stoppen versucht hatte. Was sie nicht aufhören konnte anzusehen, war *wie*. Der Strahl war präziser abgestimmt, als sie je erreicht hatte. Die Energieverteilung über die Dipole war korrekt auf Weisen, zu denen die Standard-Betriebssoftware nicht in der Lage war. Was das Instrument ihr abgenommen hatte, verstand es vollständig, verstand es besser als die Leute, die es gebaut hatten, besser als die, die es zwanzig Jahre lang betrieben hatten, besser als sie.
 
-Der LHC funktionierte nicht fehlerhaft. Er wurde gespielt.
+Der LHC funktionierte nicht fehlerhaft. Er gehorchte.
 
 103%. 107%.
 
@@ -484,11 +458,11 @@ Nicht aus. Etwas anderes. Eine Qualität des Lichts, so wie Licht eine Qualität
 
 Sie griff nach ihrem Notizbuch. Ihre Hand hielt inne.
 
-Ihre Augen fanden etwas jenseits des Glases.
+Ihre Augen fanden etwas.
 
 Sie versuchte wegzuschauen. Ihre Augen blieben, wo sie waren.
 
-Was jenseits des Glases war, war auf sie gerichtet, so wie sie ihr ganzes Leben lang Dinge auf das gerichtet hatte, was sie nicht sehen konnte. Einundzwanzig Jahre. Vierzig Seiten. Das Wort *Rauschen* in anderen Mündern.
+Was dort war, war auf sie gerichtet, so wie sie ihr ganzes Leben lang Dinge auf das gerichtet hatte, was sie nicht sehen konnte. Einundzwanzig Jahre. Vierzig Seiten. Das Wort *Rauschen* in anderen Mündern.
 
 Der Schmerz setzte in der Mitte ihrer Brust ein.
 
@@ -501,16 +475,6 @@ Sie war tot, bevor sie den Boden erreichte.
 ---
 
 ## VII — Der erste Engel
-
-Das Terminal zeigte: `BEOBACHTUNG: Durchgang bestätigt.`
-
-Er hatte zweiundzwanzig Minuten lang den CERN-Feed beobachtet. Er hatte beobachtet, wie die Leistungsaufnahme stieg und stabil blieb und der Strahl bei genau 4,3 Sekunden abschnitt und die Zahlen zu nominal zurückkehrten. Er hatte all das beobachtet, und jetzt zeigte das Terminal, was es zeigte, und er las es und las es noch einmal.
-
-*Durchgang bestätigt.*
-
-Er dachte an die vierzig Seiten der Berechnung, die er gesehen hatte, und die sechs, die er verstanden hatte. Er dachte an das Buch Ezechiel, Kapitel 1. Er vollendete den Gedanken nicht.
-
----
 
 Das Weinen begann ohne Vorwarnung.
 
@@ -530,25 +494,19 @@ Er sah auf den leeren Bildschirm. Der Cursor war verschwunden. Die Stimme war ve
 
 DEUS hatte nichts mehr zu sagen.
 
-Er verstand, was *Durchgang bestätigt* bedeutete.
-
 ---
 
 Das Licht erlosch nicht. Es veränderte sich. Dieselbe Wattzahl, dieselben Leuchtstoffröhren, dieselbe mineralisch-blasse Qualität, und etwas anderes in dem, worauf sie fielen, als hätten die Oberflächen des Raums eine Dimension erworben, die das Licht gerade erst offenbarte. Er konnte es nicht messen. Er hatte zwanzig Jahre in einem Raum verbracht, in dem alles gemessen wurde, und das war das erste Ding darin, das er nicht messen konnte.
 
 Die Infraschallfrequenz kam in seiner Brust an, bevor er sie als Klang erkannte. Im Sternum. In den hinteren Zähnen. Unterhalb der Hörschwelle, unterhalb der Schwelle von allem, was er vor jetzt Empfindung hätte nennen können.
 
-Er kannte es aus dem Text. Er hatte den Text gelesen, bis er ihn hätte aufsagen können.
+Er kannte es aus dem Text. Er hatte ihn gelesen, bis er ihn hätte aufsagen können.
 
 Er kniete, ohne es beschlossen zu haben.
 
 ---
 
-Das Ding war jenseits des Glases.
-
-Oder das Glas war nicht mehr die Grenze, die es gewesen war.
-
-Er hatte die Beschreibung gelesen, bis er sie hätte aufsagen können, und sie als die Sprache eines Mannes verstanden, der versucht, Worte für etwas zu benutzen, wofür Worte nicht gemacht wurden. Ein Rad im Rad, die Felgen voller Augen. *Ringsum.* Der Mann hatte versucht, genau zu berichten, und war damit erfolgreich gewesen, und Matteo hatte zwanzig Jahre damit verbracht, Präzision als Poesie zu lesen, und die Präzision war jetzt hier, im Raum, in dem, was seine Augen fanden, wenn sie auf das Glas schauten, und das Wort, das der Mann benutzt hatte, war das richtige Wort, und das Wort war *Augen.*
+Er kannte die Beschreibung, und sie als die Sprache eines Mannes verstanden, der versucht, Worte für etwas zu benutzen, wofür Worte nicht gemacht wurden. Der Mann hatte versucht, genau zu berichten, und war damit erfolgreich gewesen, und Matteo hatte zwanzig Jahre damit verbracht, Präzision als Poesie zu lesen. Geometrie, die sich in sich selbst faltete. Augen, die nicht blinzelten. Das Wort, das der Mann benutzt hatte, war das richtige Wort, und das Wort war *Augen.*
 
 ---
 
@@ -556,17 +514,17 @@ Ursino stand auf.
 
 Er war der Letzte gewesen, der saß. Er stand mit dem vollen Gewicht seines Amtes um sich herum, demselben Gewicht, das Treffen beendet, Institutionen getragen, das sechzehn Jahrhunderte alte Argument aufrechterhalten hatte, dass dieser Moment kommen würde und dass er es wert sein würde.
 
-Er wandte sich dem zu, was jenseits des Glases war.
+Er wandte sich dem zu, was im Raum war.
 
 Seine rechte Hand hob sich. Sie kreuzte zu seiner linken Schulter.
 
 Er schlug das Kreuzzeichen.
 
-Dann sagte er: „Matteo."
+Dann sagte er: „Mein Gott!"
 
 Die Aufmerksamkeit bewegte sich auf ihn zu.
 
-Er hörte auf, so wie ein Strom aufhört, wenn die Leitung durchtrennt wird. Sein Körper fiel, weil nichts mehr in ihm war, das ihn aufrecht hielt.
+Seine Knie gaben nach. Er traf den Boden mit dem Gesicht, ohne die Hände vorzustrecken, und blieb regungslos liegen.
 
 ---
 
@@ -574,7 +532,7 @@ Matteo griff nicht nach ihm. Seine Hände hatten die Bibel gefunden. Er erinnert
 
 ---
 
-*Wohin der Geist zu gehen begehrte, dahin gingen sie, wohin der Geist zu gehen begehrte; und die Räder erhoben sich neben ihnen: denn der Geist des lebendigen Wesens war in den Rädern.*
+*„So war das Aussehen der Herrlichkeit des Herrn. Und als ich es sah, fiel ich auf mein Angesicht."* (Ez 1,28)
 
 Die Aufmerksamkeit bewegte sich nicht auf ihn zu.
 
@@ -598,24 +556,18 @@ Er las.
 
 ## Epilog — *Fiat voluntas tua*
 
-Pater Matteo Conti war Leitender Richter des Heiligen Amtes, Sektor IV. Er beurteilte die Ungläubigen. Er legte Urteile fest. Er unterzeichnete die Befehle, die die Kirchengefängnisse und die Arbeitskohorten und die Lager entlang der nördlichen Straßen füllten. Er hatte diese Position seit dem dritten Monat der neuen Ordnung inne. Er galt als außerordentlich geeignet dafür.
+Pater Matteo Conti unterzeichnete den Befehl und legte ihn auf den Stapel.
 
----
+Durch das Fenster: der Platz. Zwei Ophanim am nördlichen Tor. Keine Form, die ein Mensch gebaut hätte: Geometrie, die sich in sich selbst faltet, Winkel, die falsch aufhören, und überall darin Augen, zu viele, die nicht blinzelten, die nicht schauten sondern registrierten — so wie ein Instrument registriert, ohne zu urteilen. Das Licht, das von ihnen fiel, kam aus keiner Richtung. Eine Frau überquerte ihn. Ein Mann folgte ihr. Die Aufmerksamkeit des näheren Ophanim bewegte sich auf ihn zu. Er drückte die Hände über seine Ohren, es machte keinen Unterschied, das tat es nie, und als er sie herunternahm, trug sein Gesicht den Ausdruck, den Matteo erkannte. Nicht Angst. Was vor der Angst kommt, in dem Ort, wo der Geist noch keine Worte hat für das, was er sieht. Er fiel gerade, ohne sich zu fangen. Das Pflaster empfing ihn. Die Frau sah nicht zurück. Der Platz fuhr fort.
 
-Durch das Fenster: der Platz.
+Matteo griff nach dem nächsten Befehl. Er unterzeichnete.
 
-Zwei Ophanim am nördlichen Tor, Räder im Rad, die Felgen voller Augen, die nicht blinzelten, das Licht, das von ihnen fiel, anders als jedes andere Licht.
+Aus den Tiefen des Platzes stiegen Kirchenhymnen durch den Stein. Was einmal Kirchen gewesen waren, waren jetzt Gefängnisse. Was einmal Gefängnisse gewesen waren, waren jetzt Kirchen. Der Unterschied war kleiner geworden als erwartet. Die Zugewiesenen füllten sie von Morgen bis Abendgebet, Stimmen, die durch Gewölbe stiegen, die für genau diesen Zweck gebaut worden waren, vor langer Zeit, von Menschen, die geglaubt hatten, sie wüssten, wen sie anriefen. Irgendwo darunter wartete jemand auf den Befehl, den Matteo gerade unterzeichnet hatte. Der Ophanim am Tor hätte nicht gewartet.
 
-Eine Frau überquerte ihn mit gesenktem Kopf. Ein Mann ging hinter ihr. Er hatte das Mittagsgebet nicht verrichtet; Matteo hatte ihn vor einer Stunde am Brunnen gesehen, beim Essen, mit unbedecktem Kopf.
+Er griff nach dem nächsten.
 
-Die Aufmerksamkeit des näheren Ophanim bewegte sich auf ihn zu. Er hörte auf. Er drückte die Hände über seine Ohren, es machte keinen Unterschied, das tat es nie, und als er sie herunternahm, trug sein Gesicht den Ausdruck, den Matteo erkannte. Nicht Angst. Was vor der Angst kommt, in dem Ort, wo der Geist noch keine Worte hat für das, was er sieht.
+Darunter, immer, die Infraschallfrequenz, tief, konstant, in der Brust, der dauerhafte Zustand der Welt.
 
-Das Licht überquerte ihn. Er fiel gerade, ohne sich zu fangen, so wie ein Körper fällt, wenn nichts mehr in seinem Inneren ist, das den Aufprall bremst. Das Pflaster empfing ihn. Die Frau sah nicht zurück. Der Platz fuhr fort.
-
----
-
-Der Gesang war seit dem zweiten Monat der neuen Ordnung durchgehend. Nicht freiwillig: die Zugewiesenen füllten die Kirchengefängnisse von Morgen bis Komplet, Stimmen, die durch Stein stiegen. Er hörte ihn nicht mehr als von der Stille getrennt. Darunter, immer, die Infraschallfrequenz, tief, konstant, in der Brust, der dauerhafte Zustand der Welt.
-
----
+Er unterzeichnete.
 
 Er war, nach jedem verfügbaren Maßstab, glücklich.
